@@ -64,7 +64,7 @@ edges = []
 vis = {}
 
 def dfs(node):
-    if len(vis) >= 512:  # Limit the number of nodes for clarity
+    if len(vis) >= 1024:  # Limit the number of nodes for clarity
         return
     if node['id'] not in vis:
         # random_value = np.random.rand()  # Assign a random value between 0 and 1
