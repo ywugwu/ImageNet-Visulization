@@ -40,7 +40,7 @@ weights = {
 # use wide layout
 st.set_page_config(layout="wide")
 # set title
-st.title("ImageNet Tree Visualization")
+st.header("ImageNet Tree Visualization")
 
 class Node:
     def __init__(self, id, label, shape, size, value):
@@ -89,8 +89,8 @@ def dfs(node):
             dfs(child)
 
 dfs(data)
-st.header(f"Please Wait for the Rendering of {len(nodes)} nodes and {len(edges)} edges to Complete:coffee:...")
-st.header(f"Green = High Score, Red = Low Score, Gray = N/A")
+st.write(f"Please Wait for the Rendering of {len(nodes)} nodes and {len(edges)} edges to Complete:coffee:...")
+st.write(f"Green = High Score, Red = Low Score, Gray = N/A")
 # Convert Python objects to JavaScript-readable format
 nodes_js = [{'id': n.id, 'label': n.label, 'shape': n.shape, 'size': n.size, 'value': n.value} for n in nodes]
 edges_js = [{'from': e.source, 'to': e.target} for e in edges]
