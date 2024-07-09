@@ -30,12 +30,12 @@ for file in os.listdir('weights/'):
             for name in data:
                 weights[name.lower()] = data[name]['type_1_text_consistency_score'] + data[name]['type_2_text_consistency_score'] + data[name]['type_3_text_consistency_score']
 # apply min max scaling
-# minv = min(weights.values())
-# maxv = max(weights.values())
-# weights = {
-#     name: (score - minv) / (maxv - minv)
-#     for name, score in weights.items()
-# }
+minv = min(weights.values())
+maxv = max(weights.values())
+weights = {
+    name: (score - minv) / (maxv - minv)
+    for name, score in weights.items()
+}
 
 # use wide layout
 st.set_page_config(layout="wide")
