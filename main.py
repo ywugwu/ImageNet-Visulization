@@ -40,7 +40,7 @@ weights = {
 # use wide layout
 st.set_page_config(layout="wide")
 # set title
-st.header("ImageNet Tree Visualization")
+st.header("ImageNet Hierarchy Visualization")
 
 class Node:
     def __init__(self, id, label, shape, size, value):
@@ -89,7 +89,7 @@ def dfs(node):
             dfs(child)
 
 dfs(data)
-st.write(f"Please Wait for the Rendering of {len(nodes)} nodes and {len(edges)} edges to Complete:coffee:...")
+st.write(f"Please Wait for the Rendering of {len(nodes)} Nodes and {len(edges)} Edges to Complete:coffee:...")
 st.write(f"Green = High Score, Red = Low Score, Gray = N/A")
 # Convert Python objects to JavaScript-readable format
 nodes_js = [{'id': n.id, 'label': n.label, 'shape': n.shape, 'size': n.size, 'value': n.value} for n in nodes]
