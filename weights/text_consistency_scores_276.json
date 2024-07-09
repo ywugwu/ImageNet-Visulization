@@ -1,0 +1,12 @@
+{
+    "dung beetle": {
+        "type_1_text_consistency_score": 0.8544677495956421,
+        "type_2_text_consistency_score": 0.32353585958480835,
+        "type_3_text_consistency_score": 0.013241231441497803
+    },
+    "rhinoceros beetle": {
+        "type_1_text_consistency_score": 0.8544677495956421,
+        "type_2_text_consistency_score": 0.18804529309272766,
+        "type_3_text_consistency_score": 0.11976313591003418
+    }
+}

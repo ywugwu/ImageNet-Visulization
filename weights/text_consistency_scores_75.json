@@ -1,0 +1,12 @@
+{
+    "mousetrap": {
+        "type_1_text_consistency_score": 0.7492998838424683,
+        "type_2_text_consistency_score": 0.16446126997470856,
+        "type_3_text_consistency_score": 0.01217043399810791
+    },
+    "web, entanglement": {
+        "type_1_text_consistency_score": 0.7492998838424683,
+        "type_2_text_consistency_score": 0.44495058059692383,
+        "type_3_text_consistency_score": 0.1486431360244751
+    }
+}

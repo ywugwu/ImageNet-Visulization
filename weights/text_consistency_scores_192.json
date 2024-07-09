@@ -1,0 +1,87 @@
+{
+    "altar": {
+        "type_1_text_consistency_score": 0.6882642507553101,
+        "type_2_text_consistency_score": 0.0798562541604042,
+        "type_3_text_consistency_score": -0.01923757791519165
+    },
+    "area": {
+        "type_1_text_consistency_score": 0.6274899840354919,
+        "type_2_text_consistency_score": 0.051123082637786865,
+        "type_3_text_consistency_score": -0.06865924596786499
+    },
+    "bridge, span": {
+        "type_1_text_consistency_score": 0.723893404006958,
+        "type_2_text_consistency_score": 0.08476518839597702,
+        "type_3_text_consistency_score": -0.006634652614593506
+    },
+    "building, edifice": {
+        "type_1_text_consistency_score": 0.6582611799240112,
+        "type_2_text_consistency_score": 0.03353652358055115,
+        "type_3_text_consistency_score": -0.01991748809814453
+    },
+    "building complex, complex": {
+        "type_1_text_consistency_score": 0.7122236490249634,
+        "type_2_text_consistency_score": 0.07256779074668884,
+        "type_3_text_consistency_score": -0.0048833489418029785
+    },
+    "coil, spiral, volute, whorl, helix": {
+        "type_1_text_consistency_score": 0.8101068735122681,
+        "type_2_text_consistency_score": 0.11045429110527039,
+        "type_3_text_consistency_score": 0.1891641616821289
+    },
+    "column, pillar": {
+        "type_1_text_consistency_score": 0.7691217660903931,
+        "type_2_text_consistency_score": 0.12655247747898102,
+        "type_3_text_consistency_score": 0.020348310470581055
+    },
+    "defensive structure, defense, defence": {
+        "type_1_text_consistency_score": 0.7378337383270264,
+        "type_2_text_consistency_score": 0.12506386637687683,
+        "type_3_text_consistency_score": 0.07079160213470459
+    },
+    "establishment": {
+        "type_1_text_consistency_score": 0.6274899840354919,
+        "type_2_text_consistency_score": 0.16018152236938477,
+        "type_3_text_consistency_score": -0.02954918146133423
+    },
+    "fountain": {
+        "type_1_text_consistency_score": 0.7927544713020325,
+        "type_2_text_consistency_score": 0.024920322000980377,
+        "type_3_text_consistency_score": 0.022742092609405518
+    },
+    "housing, lodging, living accommodations": {
+        "type_1_text_consistency_score": 0.7552459239959717,
+        "type_2_text_consistency_score": 0.14646172523498535,
+        "type_3_text_consistency_score": 0.031210660934448242
+    },
+    "landing, landing place": {
+        "type_1_text_consistency_score": 0.7354575991630554,
+        "type_2_text_consistency_score": 0.1259598284959793,
+        "type_3_text_consistency_score": 0.06042194366455078
+    },
+    "memorial, monument": {
+        "type_1_text_consistency_score": 0.6882642507553101,
+        "type_2_text_consistency_score": 0.0344788059592247,
+        "type_3_text_consistency_score": 0.03868293762207031
+    },
+    "obstruction, obstructor, obstructer, impediment, impedimenta": {
+        "type_1_text_consistency_score": 0.6574747562408447,
+        "type_2_text_consistency_score": 0.25944411754608154,
+        "type_3_text_consistency_score": 0.08981090784072876
+    },
+    "shelter": {
+        "type_1_text_consistency_score": 0.708315372467041,
+        "type_2_text_consistency_score": -0.005824960768222809,
+        "type_3_text_consistency_score": -0.01771700382232666
+    },
+    "supporting structure": {
+        "type_1_text_consistency_score": 0.708315372467041,
+        "type_2_text_consistency_score": 0.08170069009065628,
+        "type_3_text_consistency_score": 0.036688804626464844
+    },
+    "tower": {
+        "type_1_text_consistency_score": 0.7514852285385132,
+        "type_2_text_consistency_score": 0.10000209510326385,
+        "type_3_text_consistency_score": 0.0008935928344726562
+    }
+}

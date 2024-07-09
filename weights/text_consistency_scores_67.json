@@ -1,0 +1,17 @@
+{
+    "control, controller": {
+        "type_1_text_consistency_score": 0.8050366640090942,
+        "type_2_text_consistency_score": 0.14029888808727264,
+        "type_3_text_consistency_score": 0.04849010705947876
+    },
+    "mechanical device": {
+        "type_1_text_consistency_score": 0.7632985711097717,
+        "type_2_text_consistency_score": 0.32753318548202515,
+        "type_3_text_consistency_score": 0.06264305114746094
+    },
+    "radiator": {
+        "type_1_text_consistency_score": 0.7632985711097717,
+        "type_2_text_consistency_score": -0.1285891830921173,
+        "type_3_text_consistency_score": 0.048365652561187744
+    }
+}

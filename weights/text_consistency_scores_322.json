@@ -1,0 +1,12 @@
+{
+    "domestic cat, house cat, felis domesticus, felis catus": {
+        "type_1_text_consistency_score": 0.956322193145752,
+        "type_2_text_consistency_score": 0.29088130593299866,
+        "type_3_text_consistency_score": 0.08278155326843262
+    },
+    "dog, domestic dog, canis familiaris": {
+        "type_1_text_consistency_score": 0.956322193145752,
+        "type_2_text_consistency_score": 0.21086546778678894,
+        "type_3_text_consistency_score": 0.05418694019317627
+    }
+}

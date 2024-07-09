@@ -1,0 +1,17 @@
+{
+    "furniture, piece of furniture, article of furniture": {
+        "type_1_text_consistency_score": 0.865310788154602,
+        "type_2_text_consistency_score": 0.46746116876602173,
+        "type_3_text_consistency_score": 0.17670881748199463
+    },
+    "rug, carpet, carpeting": {
+        "type_1_text_consistency_score": 0.8699901103973389,
+        "type_2_text_consistency_score": 0.08808047324419022,
+        "type_3_text_consistency_score": 0.14537465572357178
+    },
+    "curtain, drape, drapery, mantle, pall": {
+        "type_1_text_consistency_score": 0.865310788154602,
+        "type_2_text_consistency_score": 0.09825585782527924,
+        "type_3_text_consistency_score": 0.15536373853683472
+    }
+}

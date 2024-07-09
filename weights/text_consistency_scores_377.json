@@ -1,0 +1,17 @@
+{
+    "sea cow, sirenian mammal, sirenian": {
+        "type_1_text_consistency_score": 0.9398598074913025,
+        "type_2_text_consistency_score": 0.16941817104816437,
+        "type_3_text_consistency_score": 0.12541133165359497
+    },
+    "pinniped mammal, pinniped, pinnatiped": {
+        "type_1_text_consistency_score": 0.9491907358169556,
+        "type_2_text_consistency_score": 0.32001349329948425,
+        "type_3_text_consistency_score": 0.12754464149475098
+    },
+    "cetacean, cetacean mammal, blower": {
+        "type_1_text_consistency_score": 0.9398598074913025,
+        "type_2_text_consistency_score": 0.3297773003578186,
+        "type_3_text_consistency_score": 0.1107988953590393
+    }
+}

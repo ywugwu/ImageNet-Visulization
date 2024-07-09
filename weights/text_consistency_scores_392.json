@@ -1,0 +1,12 @@
+{
+    "robin, american robin, turdus migratorius": {
+        "type_1_text_consistency_score": 0.8271273970603943,
+        "type_2_text_consistency_score": 0.15963143110275269,
+        "type_3_text_consistency_score": 0.2823329567909241
+    },
+    "nightingale, luscinia megarhynchos": {
+        "type_1_text_consistency_score": 0.8271273970603943,
+        "type_2_text_consistency_score": 0.45905041694641113,
+        "type_3_text_consistency_score": 0.24760079383850098
+    }
+}

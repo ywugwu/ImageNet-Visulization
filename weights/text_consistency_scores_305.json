@@ -1,0 +1,12 @@
+{
+    "walker hound, walker foxhound": {
+        "type_1_text_consistency_score": 0.872288703918457,
+        "type_2_text_consistency_score": 0.01566779613494873,
+        "type_3_text_consistency_score": -0.044070422649383545
+    },
+    "english foxhound": {
+        "type_1_text_consistency_score": 0.872288703918457,
+        "type_2_text_consistency_score": 0.33144357800483704,
+        "type_3_text_consistency_score": 0.014070749282836914
+    }
+}

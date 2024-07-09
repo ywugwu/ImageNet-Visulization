@@ -1,0 +1,12 @@
+{
+    "body armor, body armour, suit of armor, suit of armour, coat of mail, cataphract": {
+        "type_1_text_consistency_score": 0.6782548427581787,
+        "type_2_text_consistency_score": 0.6019168496131897,
+        "type_3_text_consistency_score": 0.3596051335334778
+    },
+    "shield, buckler": {
+        "type_1_text_consistency_score": 0.6782548427581787,
+        "type_2_text_consistency_score": -0.16674615442752838,
+        "type_3_text_consistency_score": 0.09328937530517578
+    }
+}

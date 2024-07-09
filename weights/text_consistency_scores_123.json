@@ -1,0 +1,12 @@
+{
+    "polaroid camera, polaroid land camera": {
+        "type_1_text_consistency_score": 0.9019201397895813,
+        "type_2_text_consistency_score": 0.1732759177684784,
+        "type_3_text_consistency_score": 0.1032717227935791
+    },
+    "reflex camera": {
+        "type_1_text_consistency_score": 0.9019201397895813,
+        "type_2_text_consistency_score": 0.3831518888473511,
+        "type_3_text_consistency_score": 0.0881119966506958
+    }
+}

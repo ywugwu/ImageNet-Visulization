@@ -1,0 +1,22 @@
+{
+    "brace": {
+        "type_1_text_consistency_score": 0.6144647598266602,
+        "type_2_text_consistency_score": 0.07086874544620514,
+        "type_3_text_consistency_score": -0.05470401048660278
+    },
+    "pier": {
+        "type_1_text_consistency_score": 0.7623624801635742,
+        "type_2_text_consistency_score": 0.1579192578792572,
+        "type_3_text_consistency_score": -0.04242748022079468
+    },
+    "rack, stand": {
+        "type_1_text_consistency_score": 0.6970047950744629,
+        "type_2_text_consistency_score": 0.07489398866891861,
+        "type_3_text_consistency_score": 0.0392003059387207
+    },
+    "structural member": {
+        "type_1_text_consistency_score": 0.6144647598266602,
+        "type_2_text_consistency_score": 0.2534346580505371,
+        "type_3_text_consistency_score": 0.07759380340576172
+    }
+}

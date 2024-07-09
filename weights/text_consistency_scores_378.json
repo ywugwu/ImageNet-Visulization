@@ -1,0 +1,12 @@
+{
+    "zebra": {
+        "type_1_text_consistency_score": 0.7884069681167603,
+        "type_2_text_consistency_score": 0.2789890766143799,
+        "type_3_text_consistency_score": 0.0594978928565979
+    },
+    "horse, equus caballus": {
+        "type_1_text_consistency_score": 0.7884069681167603,
+        "type_2_text_consistency_score": 0.3275013864040375,
+        "type_3_text_consistency_score": 0.17107784748077393
+    }
+}

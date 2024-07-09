@@ -1,0 +1,12 @@
+{
+    "lesser ape": {
+        "type_1_text_consistency_score": 0.4718962609767914,
+        "type_2_text_consistency_score": 0.34230247139930725,
+        "type_3_text_consistency_score": -0.06681203842163086
+    },
+    "great ape, pongid": {
+        "type_1_text_consistency_score": 0.4718962609767914,
+        "type_2_text_consistency_score": -0.0590769425034523,
+        "type_3_text_consistency_score": -0.011405348777770996
+    }
+}

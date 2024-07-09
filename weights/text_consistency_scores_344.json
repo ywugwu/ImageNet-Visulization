@@ -1,0 +1,32 @@
+{
+    "water spaniel": {
+        "type_1_text_consistency_score": 0.9188386797904968,
+        "type_2_text_consistency_score": 0.2639932930469513,
+        "type_3_text_consistency_score": 0.10461491346359253
+    },
+    "springer spaniel, springer": {
+        "type_1_text_consistency_score": 0.9188386797904968,
+        "type_2_text_consistency_score": 0.30981606245040894,
+        "type_3_text_consistency_score": 0.10392904281616211
+    },
+    "clumber, clumber spaniel": {
+        "type_1_text_consistency_score": 0.9390162229537964,
+        "type_2_text_consistency_score": 0.2765415608882904,
+        "type_3_text_consistency_score": 0.18749308586120605
+    },
+    "brittany spaniel": {
+        "type_1_text_consistency_score": 0.9243190288543701,
+        "type_2_text_consistency_score": 0.2399996817111969,
+        "type_3_text_consistency_score": 0.13464653491973877
+    },
+    "cocker spaniel, english cocker spaniel, cocker": {
+        "type_1_text_consistency_score": 0.921704113483429,
+        "type_2_text_consistency_score": 0.38355690240859985,
+        "type_3_text_consistency_score": 0.23401689529418945
+    },
+    "sussex spaniel": {
+        "type_1_text_consistency_score": 0.9217033982276917,
+        "type_2_text_consistency_score": 0.20671434700489044,
+        "type_3_text_consistency_score": 0.12584972381591797
+    }
+}

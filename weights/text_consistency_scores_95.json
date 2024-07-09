@@ -1,0 +1,52 @@
+{
+    "ambulance": {
+        "type_1_text_consistency_score": 0.7763311862945557,
+        "type_2_text_consistency_score": 0.09591838717460632,
+        "type_3_text_consistency_score": -0.10853302478790283
+    },
+    "beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon": {
+        "type_1_text_consistency_score": 0.7727128267288208,
+        "type_2_text_consistency_score": 0.08647163212299347,
+        "type_3_text_consistency_score": 0.2680489420890808
+    },
+    "cab, hack, taxi, taxicab": {
+        "type_1_text_consistency_score": 0.6286192536354065,
+        "type_2_text_consistency_score": 0.15053537487983704,
+        "type_3_text_consistency_score": 0.02033853530883789
+    },
+    "convertible": {
+        "type_1_text_consistency_score": 0.6995893120765686,
+        "type_2_text_consistency_score": 0.08980491012334824,
+        "type_3_text_consistency_score": 0.04814344644546509
+    },
+    "jeep, landrover": {
+        "type_1_text_consistency_score": 0.7390255331993103,
+        "type_2_text_consistency_score": 0.023717015981674194,
+        "type_3_text_consistency_score": 0.049108803272247314
+    },
+    "limousine, limo": {
+        "type_1_text_consistency_score": 0.6995973587036133,
+        "type_2_text_consistency_score": 0.07615445554256439,
+        "type_3_text_consistency_score": 0.03539973497390747
+    },
+    "minivan": {
+        "type_1_text_consistency_score": 0.7229939699172974,
+        "type_2_text_consistency_score": 0.08911202847957611,
+        "type_3_text_consistency_score": -0.004909396171569824
+    },
+    "model t": {
+        "type_1_text_consistency_score": 0.6868455410003662,
+        "type_2_text_consistency_score": 0.123141810297966,
+        "type_3_text_consistency_score": -0.026693284511566162
+    },
+    "racer, race car, racing car": {
+        "type_1_text_consistency_score": 0.6445909142494202,
+        "type_2_text_consistency_score": -0.017340674996376038,
+        "type_3_text_consistency_score": -0.03304511308670044
+    },
+    "sports car, sport car": {
+        "type_1_text_consistency_score": 0.6286192536354065,
+        "type_2_text_consistency_score": 0.24053433537483215,
+        "type_3_text_consistency_score": -0.008994519710540771
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "missile": {
+        "type_1_text_consistency_score": 0.3280871510505676,
+        "type_2_text_consistency_score": -0.00579443946480751,
+        "type_3_text_consistency_score": -0.13907921314239502
+    },
+    "bow": {
+        "type_1_text_consistency_score": 0.5967203378677368,
+        "type_2_text_consistency_score": -0.05423733964562416,
+        "type_3_text_consistency_score": -0.1638205647468567
+    },
+    "gun": {
+        "type_1_text_consistency_score": 0.5967203378677368,
+        "type_2_text_consistency_score": 0.2984854280948639,
+        "type_3_text_consistency_score": -0.06734240055084229
+    },
+    "projectile, missile": {
+        "type_1_text_consistency_score": 0.3280871510505676,
+        "type_2_text_consistency_score": 0.14011074602603912,
+        "type_3_text_consistency_score": -0.04849362373352051
+    }
+}

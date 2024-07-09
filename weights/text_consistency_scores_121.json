@@ -1,0 +1,52 @@
+{
+    "soccer ball": {
+        "type_1_text_consistency_score": 0.5768093466758728,
+        "type_2_text_consistency_score": 0.17871934175491333,
+        "type_3_text_consistency_score": -0.21893811225891113
+    },
+    "croquet ball": {
+        "type_1_text_consistency_score": 0.6697021722793579,
+        "type_2_text_consistency_score": 0.07874725013971329,
+        "type_3_text_consistency_score": 0.07210725545883179
+    },
+    "golf ball": {
+        "type_1_text_consistency_score": 0.6877830028533936,
+        "type_2_text_consistency_score": 0.10076531767845154,
+        "type_3_text_consistency_score": -0.023349761962890625
+    },
+    "baseball": {
+        "type_1_text_consistency_score": 0.5309873819351196,
+        "type_2_text_consistency_score": 0.14870446920394897,
+        "type_3_text_consistency_score": -0.13497930765151978
+    },
+    "ping-pong ball": {
+        "type_1_text_consistency_score": 0.6996515393257141,
+        "type_2_text_consistency_score": 0.12373114377260208,
+        "type_3_text_consistency_score": -0.0019295811653137207
+    },
+    "punching bag, punch bag, punching ball, punchball": {
+        "type_1_text_consistency_score": 0.7310236096382141,
+        "type_2_text_consistency_score": 0.20517495274543762,
+        "type_3_text_consistency_score": 0.1325455904006958
+    },
+    "rugby ball": {
+        "type_1_text_consistency_score": 0.5134850740432739,
+        "type_2_text_consistency_score": 0.05966314673423767,
+        "type_3_text_consistency_score": -0.0700024962425232
+    },
+    "basketball": {
+        "type_1_text_consistency_score": 0.5134850740432739,
+        "type_2_text_consistency_score": 0.11506922543048859,
+        "type_3_text_consistency_score": -0.1853376030921936
+    },
+    "volleyball": {
+        "type_1_text_consistency_score": 0.5637584924697876,
+        "type_2_text_consistency_score": -0.007773939520120621,
+        "type_3_text_consistency_score": -0.08597022294998169
+    },
+    "tennis ball": {
+        "type_1_text_consistency_score": 0.6586735248565674,
+        "type_2_text_consistency_score": 0.18075509369373322,
+        "type_3_text_consistency_score": -0.15670496225357056
+    }
+}

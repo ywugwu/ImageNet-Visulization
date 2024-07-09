@@ -1,0 +1,62 @@
+{
+    "cock": {
+        "type_1_text_consistency_score": 0.46691012382507324,
+        "type_2_text_consistency_score": 0.01263389177620411,
+        "type_3_text_consistency_score": -0.032027244567871094
+    },
+    "hen": {
+        "type_1_text_consistency_score": 0.251233845949173,
+        "type_2_text_consistency_score": 0.0657058134675026,
+        "type_3_text_consistency_score": -0.1419597864151001
+    },
+    "ratite, ratite bird, flightless bird": {
+        "type_1_text_consistency_score": 0.5790709853172302,
+        "type_2_text_consistency_score": 0.19273146986961365,
+        "type_3_text_consistency_score": 0.08272415399551392
+    },
+    "passerine, passeriform bird": {
+        "type_1_text_consistency_score": 0.5960730314254761,
+        "type_2_text_consistency_score": 0.04130913317203522,
+        "type_3_text_consistency_score": 0.04733121395111084
+    },
+    "bird of prey, raptor, raptorial bird": {
+        "type_1_text_consistency_score": 0.5329696536064148,
+        "type_2_text_consistency_score": 0.11725851148366928,
+        "type_3_text_consistency_score": 0.07695508003234863
+    },
+    "gallinaceous bird, gallinacean": {
+        "type_1_text_consistency_score": 0.251233845949173,
+        "type_2_text_consistency_score": 0.03587135672569275,
+        "type_3_text_consistency_score": 0.013505280017852783
+    },
+    "parrot": {
+        "type_1_text_consistency_score": 0.5775246620178223,
+        "type_2_text_consistency_score": 0.05474327877163887,
+        "type_3_text_consistency_score": -0.07462561130523682
+    },
+    "cuculiform bird": {
+        "type_1_text_consistency_score": 0.5265152454376221,
+        "type_2_text_consistency_score": 0.021967153996229172,
+        "type_3_text_consistency_score": -0.0727090835571289
+    },
+    "coraciiform bird": {
+        "type_1_text_consistency_score": 0.43965983390808105,
+        "type_2_text_consistency_score": -0.05285188555717468,
+        "type_3_text_consistency_score": -0.079062819480896
+    },
+    "apodiform bird": {
+        "type_1_text_consistency_score": 0.46589893102645874,
+        "type_2_text_consistency_score": 0.05238330364227295,
+        "type_3_text_consistency_score": -0.12799137830734253
+    },
+    "piciform bird": {
+        "type_1_text_consistency_score": 0.43965983390808105,
+        "type_2_text_consistency_score": 0.13569685816764832,
+        "type_3_text_consistency_score": -0.06957107782363892
+    },
+    "aquatic bird": {
+        "type_1_text_consistency_score": 0.4699349105358124,
+        "type_2_text_consistency_score": 0.12408771365880966,
+        "type_3_text_consistency_score": -0.007040739059448242
+    }
+}

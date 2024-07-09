@@ -1,0 +1,12 @@
+{
+    "domestic cat, house cat, felis domesticus, felis catus": {
+        "type_1_text_consistency_score": 0.7966300845146179,
+        "type_2_text_consistency_score": 0.3943322002887726,
+        "type_3_text_consistency_score": 0.12105023860931396
+    },
+    "wildcat": {
+        "type_1_text_consistency_score": 0.7966300845146179,
+        "type_2_text_consistency_score": 0.09996786713600159,
+        "type_3_text_consistency_score": 0.033989906311035156
+    }
+}

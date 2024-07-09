@@ -1,0 +1,112 @@
+{
+    "australian terrier": {
+        "type_1_text_consistency_score": 0.8302304148674011,
+        "type_2_text_consistency_score": 0.2889270782470703,
+        "type_3_text_consistency_score": -0.0781172513961792
+    },
+    "fox terrier": {
+        "type_1_text_consistency_score": 0.8316453695297241,
+        "type_2_text_consistency_score": 0.26092830300331116,
+        "type_3_text_consistency_score": 0.0806393027305603
+    },
+    "soft-coated wheaten terrier": {
+        "type_1_text_consistency_score": 0.8399598598480225,
+        "type_2_text_consistency_score": 0.2513073980808258,
+        "type_3_text_consistency_score": 0.20062363147735596
+    },
+    "wirehair, wirehaired terrier, wire-haired terrier": {
+        "type_1_text_consistency_score": 0.754550039768219,
+        "type_2_text_consistency_score": 0.2571101784706116,
+        "type_3_text_consistency_score": 0.15723371505737305
+    },
+    "dandie dinmont, dandie dinmont terrier": {
+        "type_1_text_consistency_score": 0.7879385352134705,
+        "type_2_text_consistency_score": 0.21978411078453064,
+        "type_3_text_consistency_score": 0.1266038417816162
+    },
+    "airedale, airedale terrier": {
+        "type_1_text_consistency_score": 0.827041506767273,
+        "type_2_text_consistency_score": 0.10866691917181015,
+        "type_3_text_consistency_score": 0.022210121154785156
+    },
+    "lhasa, lhasa apso": {
+        "type_1_text_consistency_score": 0.8335957527160645,
+        "type_2_text_consistency_score": 0.322029173374176,
+        "type_3_text_consistency_score": 0.07816821336746216
+    },
+    "yorkshire terrier": {
+        "type_1_text_consistency_score": 0.8236098289489746,
+        "type_2_text_consistency_score": 0.17009887099266052,
+        "type_3_text_consistency_score": -0.052595436573028564
+    },
+    "west highland white terrier": {
+        "type_1_text_consistency_score": 0.7735884189605713,
+        "type_2_text_consistency_score": 0.263949990272522,
+        "type_3_text_consistency_score": 0.18053585290908813
+    },
+    "schnauzer": {
+        "type_1_text_consistency_score": 0.754550039768219,
+        "type_2_text_consistency_score": 0.2383633702993393,
+        "type_3_text_consistency_score": 0.06680083274841309
+    },
+    "bullterrier, bull terrier": {
+        "type_1_text_consistency_score": 0.8297404646873474,
+        "type_2_text_consistency_score": 0.23648560047149658,
+        "type_3_text_consistency_score": 0.11023569107055664
+    },
+    "norfolk terrier": {
+        "type_1_text_consistency_score": 0.8469009399414062,
+        "type_2_text_consistency_score": 0.0819595456123352,
+        "type_3_text_consistency_score": -0.0435405969619751
+    },
+    "cairn, cairn terrier": {
+        "type_1_text_consistency_score": 0.8364077806472778,
+        "type_2_text_consistency_score": 0.17723801732063293,
+        "type_3_text_consistency_score": 0.07515895366668701
+    },
+    "kerry blue terrier": {
+        "type_1_text_consistency_score": 0.8422490954399109,
+        "type_2_text_consistency_score": 0.25524264574050903,
+        "type_3_text_consistency_score": 0.19617080688476562
+    },
+    "scotch terrier, scottish terrier, scottie": {
+        "type_1_text_consistency_score": 0.773571252822876,
+        "type_2_text_consistency_score": 0.20159222185611725,
+        "type_3_text_consistency_score": 0.1347285509109497
+    },
+    "boston bull, boston terrier": {
+        "type_1_text_consistency_score": 0.7837306261062622,
+        "type_2_text_consistency_score": 0.31871122121810913,
+        "type_3_text_consistency_score": 0.07784807682037354
+    },
+    "bedlington terrier": {
+        "type_1_text_consistency_score": 0.845359206199646,
+        "type_2_text_consistency_score": 0.2617194950580597,
+        "type_3_text_consistency_score": 0.13188612461090088
+    },
+    "irish terrier": {
+        "type_1_text_consistency_score": 0.8763425350189209,
+        "type_2_text_consistency_score": 0.14223240315914154,
+        "type_3_text_consistency_score": -0.03911745548248291
+    },
+    "silky terrier, sydney silky": {
+        "type_1_text_consistency_score": 0.7991933822631836,
+        "type_2_text_consistency_score": 0.0643584132194519,
+        "type_3_text_consistency_score": 0.03369784355163574
+    },
+    "norwich terrier": {
+        "type_1_text_consistency_score": 0.8520203828811646,
+        "type_2_text_consistency_score": 0.03978593647480011,
+        "type_3_text_consistency_score": -0.011609673500061035
+    },
+    "tibetan terrier, chrysanthemum dog": {
+        "type_1_text_consistency_score": 0.7569079399108887,
+        "type_2_text_consistency_score": 0.10208656638860703,
+        "type_3_text_consistency_score": 0.18581318855285645
+    },
+    "border terrier": {
+        "type_1_text_consistency_score": 0.8028192520141602,
+        "type_2_text_consistency_score": 0.35211166739463806,
+        "type_3_text_consistency_score": -0.04088348150253296
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "slot, one-armed bandit": {
+        "type_1_text_consistency_score": 0.8164557218551636,
+        "type_2_text_consistency_score": 0.24900102615356445,
+        "type_3_text_consistency_score": 0.16278040409088135
+    },
+    "vending machine": {
+        "type_1_text_consistency_score": 0.8164557218551636,
+        "type_2_text_consistency_score": 0.34081727266311646,
+        "type_3_text_consistency_score": 0.16286945343017578
+    }
+}

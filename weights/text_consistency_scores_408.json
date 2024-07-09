@@ -1,0 +1,47 @@
+{
+    "stork": {
+        "type_1_text_consistency_score": 0.7569432258605957,
+        "type_2_text_consistency_score": 0.14172132313251495,
+        "type_3_text_consistency_score": -0.09244906902313232
+    },
+    "spoonbill": {
+        "type_1_text_consistency_score": 0.780977725982666,
+        "type_2_text_consistency_score": 0.2688877582550049,
+        "type_3_text_consistency_score": 0.017165184020996094
+    },
+    "flamingo": {
+        "type_1_text_consistency_score": 0.7459008693695068,
+        "type_2_text_consistency_score": 0.20091260969638824,
+        "type_3_text_consistency_score": -0.13261932134628296
+    },
+    "heron": {
+        "type_1_text_consistency_score": 0.759728193283081,
+        "type_2_text_consistency_score": 0.308162122964859,
+        "type_3_text_consistency_score": -0.1399567723274231
+    },
+    "crane": {
+        "type_1_text_consistency_score": 0.6956664323806763,
+        "type_2_text_consistency_score": 0.14316748082637787,
+        "type_3_text_consistency_score": -0.11665630340576172
+    },
+    "limpkin, aramus pictus": {
+        "type_1_text_consistency_score": 0.8221697211265564,
+        "type_2_text_consistency_score": 0.2540785074234009,
+        "type_3_text_consistency_score": 0.2930874228477478
+    },
+    "rail": {
+        "type_1_text_consistency_score": 0.6956664323806763,
+        "type_2_text_consistency_score": 0.2735365927219391,
+        "type_3_text_consistency_score": -0.0022499561309814453
+    },
+    "bustard": {
+        "type_1_text_consistency_score": 0.8191114664077759,
+        "type_2_text_consistency_score": 0.24217680096626282,
+        "type_3_text_consistency_score": 0.09438103437423706
+    },
+    "shorebird, shore bird, limicoline bird": {
+        "type_1_text_consistency_score": 0.7213894724845886,
+        "type_2_text_consistency_score": 0.2514110803604126,
+        "type_3_text_consistency_score": 0.11647570133209229
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "computer keyboard, keypad": {
+        "type_1_text_consistency_score": 0.9396399259567261,
+        "type_2_text_consistency_score": 0.33522868156433105,
+        "type_3_text_consistency_score": 0.11348366737365723
+    },
+    "typewriter keyboard": {
+        "type_1_text_consistency_score": 0.9396399259567261,
+        "type_2_text_consistency_score": 0.1662818342447281,
+        "type_3_text_consistency_score": 0.08455681800842285
+    }
+}

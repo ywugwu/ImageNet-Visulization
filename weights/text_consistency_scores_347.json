@@ -1,0 +1,12 @@
+{
+    "welsh terrier": {
+        "type_1_text_consistency_score": 0.8427620530128479,
+        "type_2_text_consistency_score": 0.20695331692695618,
+        "type_3_text_consistency_score": 0.011905908584594727
+    },
+    "lakeland terrier": {
+        "type_1_text_consistency_score": 0.8427620530128479,
+        "type_2_text_consistency_score": 0.33574026823043823,
+        "type_3_text_consistency_score": 0.07822710275650024
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "hoopskirt, crinoline": {
+        "type_1_text_consistency_score": 0.8835817575454712,
+        "type_2_text_consistency_score": 0.09012977033853531,
+        "type_3_text_consistency_score": 0.11670911312103271
+    },
+    "miniskirt, mini": {
+        "type_1_text_consistency_score": 0.826948881149292,
+        "type_2_text_consistency_score": 0.18875844776630402,
+        "type_3_text_consistency_score": 0.061924755573272705
+    },
+    "overskirt": {
+        "type_1_text_consistency_score": 0.794230580329895,
+        "type_2_text_consistency_score": 0.23125487565994263,
+        "type_3_text_consistency_score": -0.03374135494232178
+    },
+    "sarong": {
+        "type_1_text_consistency_score": 0.794230580329895,
+        "type_2_text_consistency_score": 0.2566480040550232,
+        "type_3_text_consistency_score": 0.02015817165374756
+    }
+}

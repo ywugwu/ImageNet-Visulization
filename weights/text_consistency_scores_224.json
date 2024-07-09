@@ -1,0 +1,12 @@
+{
+    "curtain, drape, drapery, mantle, pall": {
+        "type_1_text_consistency_score": 0.8715603351593018,
+        "type_2_text_consistency_score": 0.22791892290115356,
+        "type_3_text_consistency_score": 0.149724543094635
+    },
+    "window blind": {
+        "type_1_text_consistency_score": 0.8715603351593018,
+        "type_2_text_consistency_score": 0.3427392840385437,
+        "type_3_text_consistency_score": 0.07894980907440186
+    }
+}

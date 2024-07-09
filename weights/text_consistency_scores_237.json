@@ -1,0 +1,17 @@
+{
+    "dishwasher, dish washer, dishwashing machine": {
+        "type_1_text_consistency_score": 0.8044553995132446,
+        "type_2_text_consistency_score": 0.10994221270084381,
+        "type_3_text_consistency_score": 0.04293245077133179
+    },
+    "refrigerator, icebox": {
+        "type_1_text_consistency_score": 0.8044553995132446,
+        "type_2_text_consistency_score": 0.23030167818069458,
+        "type_3_text_consistency_score": 0.07762980461120605
+    },
+    "washer, automatic washer, washing machine": {
+        "type_1_text_consistency_score": 0.8732186555862427,
+        "type_2_text_consistency_score": 0.3139301538467407,
+        "type_3_text_consistency_score": 0.022941887378692627
+    }
+}

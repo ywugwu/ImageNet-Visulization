@@ -1,0 +1,67 @@
+{
+    "instrumentality, instrumentation": {
+        "type_1_text_consistency_score": 0.6717573404312134,
+        "type_2_text_consistency_score": 0.01576998084783554,
+        "type_3_text_consistency_score": 0.05592089891433716
+    },
+    "structure, construction": {
+        "type_1_text_consistency_score": 0.5246870517730713,
+        "type_2_text_consistency_score": -0.12114296853542328,
+        "type_3_text_consistency_score": 0.04230684041976929
+    },
+    "creation": {
+        "type_1_text_consistency_score": 0.5185190439224243,
+        "type_2_text_consistency_score": 0.08707638084888458,
+        "type_3_text_consistency_score": -0.07327961921691895
+    },
+    "sheet, flat solid": {
+        "type_1_text_consistency_score": 0.47676777839660645,
+        "type_2_text_consistency_score": -0.08962458372116089,
+        "type_3_text_consistency_score": 0.012525796890258789
+    },
+    "fabric, cloth, material, textile": {
+        "type_1_text_consistency_score": 0.6532741189002991,
+        "type_2_text_consistency_score": 0.0549582839012146,
+        "type_3_text_consistency_score": 0.04947364330291748
+    },
+    "covering": {
+        "type_1_text_consistency_score": 0.5246870517730713,
+        "type_2_text_consistency_score": 0.049819283187389374,
+        "type_3_text_consistency_score": -0.003365457057952881
+    },
+    "padding, cushioning": {
+        "type_1_text_consistency_score": 0.7007838487625122,
+        "type_2_text_consistency_score": 0.014141060411930084,
+        "type_3_text_consistency_score": 0.08626031875610352
+    },
+    "commodity, trade good, good": {
+        "type_1_text_consistency_score": 0.5672615766525269,
+        "type_2_text_consistency_score": 0.094612717628479,
+        "type_3_text_consistency_score": 0.06902247667312622
+    },
+    "excavation": {
+        "type_1_text_consistency_score": 0.6691296696662903,
+        "type_2_text_consistency_score": -0.04340007156133652,
+        "type_3_text_consistency_score": -0.024248361587524414
+    },
+    "decoration, ornament, ornamentation": {
+        "type_1_text_consistency_score": 0.6865277290344238,
+        "type_2_text_consistency_score": 0.042393192648887634,
+        "type_3_text_consistency_score": 0.0642959475517273
+    },
+    "plaything, toy": {
+        "type_1_text_consistency_score": 0.6372393369674683,
+        "type_2_text_consistency_score": 0.0036007463932037354,
+        "type_3_text_consistency_score": 0.0588841438293457
+    },
+    "article": {
+        "type_1_text_consistency_score": 0.5185190439224243,
+        "type_2_text_consistency_score": 0.12067607045173645,
+        "type_3_text_consistency_score": 0.015020668506622314
+    },
+    "surface": {
+        "type_1_text_consistency_score": 0.47676777839660645,
+        "type_2_text_consistency_score": -0.06816893815994263,
+        "type_3_text_consistency_score": -0.01593923568725586
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "alp": {
+        "type_1_text_consistency_score": 0.44193050265312195,
+        "type_2_text_consistency_score": 0.28816765546798706,
+        "type_3_text_consistency_score": -0.059668779373168945
+    },
+    "volcano": {
+        "type_1_text_consistency_score": 0.44193050265312195,
+        "type_2_text_consistency_score": -0.009328410029411316,
+        "type_3_text_consistency_score": -0.014100074768066406
+    }
+}

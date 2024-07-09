@@ -1,0 +1,17 @@
+{
+    "radiotelephone, radiophone, wireless telephone": {
+        "type_1_text_consistency_score": 0.7255767583847046,
+        "type_2_text_consistency_score": 0.035356555134058,
+        "type_3_text_consistency_score": 0.05722528696060181
+    },
+    "pay-phone, pay-station": {
+        "type_1_text_consistency_score": 0.9058952331542969,
+        "type_2_text_consistency_score": 0.08056662231683731,
+        "type_3_text_consistency_score": 0.1178169846534729
+    },
+    "dial telephone, dial phone": {
+        "type_1_text_consistency_score": 0.7255767583847046,
+        "type_2_text_consistency_score": 0.30207711458206177,
+        "type_3_text_consistency_score": -0.02619534730911255
+    }
+}

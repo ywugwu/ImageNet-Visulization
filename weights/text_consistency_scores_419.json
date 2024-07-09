@@ -1,0 +1,12 @@
+{
+    "boa constrictor, constrictor constrictor": {
+        "type_1_text_consistency_score": 0.5865485072135925,
+        "type_2_text_consistency_score": 0.09414859861135483,
+        "type_3_text_consistency_score": 0.08663135766983032
+    },
+    "python": {
+        "type_1_text_consistency_score": 0.5865485072135925,
+        "type_2_text_consistency_score": 0.1948695331811905,
+        "type_3_text_consistency_score": 0.0050081610679626465
+    }
+}

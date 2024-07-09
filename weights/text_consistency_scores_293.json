@@ -1,0 +1,27 @@
+{
+    "egyptian cat": {
+        "type_1_text_consistency_score": 0.8682566285133362,
+        "type_2_text_consistency_score": 0.14006930589675903,
+        "type_3_text_consistency_score": -0.040460944175720215
+    },
+    "persian cat": {
+        "type_1_text_consistency_score": 0.8894652724266052,
+        "type_2_text_consistency_score": 0.16110427677631378,
+        "type_3_text_consistency_score": -0.010222792625427246
+    },
+    "tiger cat": {
+        "type_1_text_consistency_score": 0.8065112829208374,
+        "type_2_text_consistency_score": 0.07496842741966248,
+        "type_3_text_consistency_score": -0.07234752178192139
+    },
+    "siamese cat, siamese": {
+        "type_1_text_consistency_score": 0.8695030212402344,
+        "type_2_text_consistency_score": 0.16664165258407593,
+        "type_3_text_consistency_score": 0.0664602518081665
+    },
+    "tabby, tabby cat": {
+        "type_1_text_consistency_score": 0.8065112829208374,
+        "type_2_text_consistency_score": 0.35622963309288025,
+        "type_3_text_consistency_score": -0.060044288635253906
+    }
+}

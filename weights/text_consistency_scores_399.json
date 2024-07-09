@@ -1,0 +1,22 @@
+{
+    "african grey, african gray, psittacus erithacus": {
+        "type_1_text_consistency_score": 0.3205987811088562,
+        "type_2_text_consistency_score": -0.027493149042129517,
+        "type_3_text_consistency_score": 0.282873272895813
+    },
+    "macaw": {
+        "type_1_text_consistency_score": 0.25857454538345337,
+        "type_2_text_consistency_score": -0.0473441481590271,
+        "type_3_text_consistency_score": 0.12763267755508423
+    },
+    "cockatoo": {
+        "type_1_text_consistency_score": 0.6722588539123535,
+        "type_2_text_consistency_score": 0.2606561779975891,
+        "type_3_text_consistency_score": 0.026961565017700195
+    },
+    "lory": {
+        "type_1_text_consistency_score": 0.25857454538345337,
+        "type_2_text_consistency_score": 0.24951232969760895,
+        "type_3_text_consistency_score": -0.2243143916130066
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "cobra": {
+        "type_1_text_consistency_score": 0.7206187844276428,
+        "type_2_text_consistency_score": 0.24068287014961243,
+        "type_3_text_consistency_score": -0.08997207880020142
+    },
+    "mamba": {
+        "type_1_text_consistency_score": 0.7206187844276428,
+        "type_2_text_consistency_score": 0.17235690355300903,
+        "type_3_text_consistency_score": -0.09918469190597534
+    }
+}

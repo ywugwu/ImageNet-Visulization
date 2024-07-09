@@ -1,0 +1,12 @@
+{
+    "common iguana, iguana, iguana iguana": {
+        "type_1_text_consistency_score": 0.9489386081695557,
+        "type_2_text_consistency_score": 0.4484497904777527,
+        "type_3_text_consistency_score": 0.13737034797668457
+    },
+    "american chameleon, anole, anolis carolinensis": {
+        "type_1_text_consistency_score": 0.9489386081695557,
+        "type_2_text_consistency_score": 0.17076633870601654,
+        "type_3_text_consistency_score": 0.1542021632194519
+    }
+}

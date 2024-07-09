@@ -1,0 +1,12 @@
+{
+    "gasmask, respirator, gas helmet": {
+        "type_1_text_consistency_score": 0.8472505807876587,
+        "type_2_text_consistency_score": 0.19019415974617004,
+        "type_3_text_consistency_score": 0.2494545578956604
+    },
+    "face mask": {
+        "type_1_text_consistency_score": 0.8472505807876587,
+        "type_2_text_consistency_score": 0.46718037128448486,
+        "type_3_text_consistency_score": 0.19408243894577026
+    }
+}

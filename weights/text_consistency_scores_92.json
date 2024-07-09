@@ -1,0 +1,12 @@
+{
+    "freight car": {
+        "type_1_text_consistency_score": 0.6572587490081787,
+        "type_2_text_consistency_score": 0.3104683756828308,
+        "type_3_text_consistency_score": 0.02770477533340454
+    },
+    "passenger car, coach, carriage": {
+        "type_1_text_consistency_score": 0.6572587490081787,
+        "type_2_text_consistency_score": 0.06074471026659012,
+        "type_3_text_consistency_score": 0.0577850341796875
+    }
+}

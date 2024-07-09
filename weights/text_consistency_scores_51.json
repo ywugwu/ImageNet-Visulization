@@ -1,0 +1,12 @@
+{
+    "automatic rifle, automatic, machine rifle": {
+        "type_1_text_consistency_score": 0.37678343057632446,
+        "type_2_text_consistency_score": 0.2405618578195572,
+        "type_3_text_consistency_score": 0.0587729811668396
+    },
+    "machine gun": {
+        "type_1_text_consistency_score": 0.37678343057632446,
+        "type_2_text_consistency_score": -0.049538739025592804,
+        "type_3_text_consistency_score": -0.10643631219863892
+    }
+}

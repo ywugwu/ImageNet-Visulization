@@ -1,0 +1,12 @@
+{
+    "cloak": {
+        "type_1_text_consistency_score": 0.6596803665161133,
+        "type_2_text_consistency_score": -0.01717480644583702,
+        "type_3_text_consistency_score": -0.10065340995788574
+    },
+    "coat": {
+        "type_1_text_consistency_score": 0.6596803665161133,
+        "type_2_text_consistency_score": 0.3312428295612335,
+        "type_3_text_consistency_score": -0.0367850661277771
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "face powder": {
+        "type_1_text_consistency_score": 0.9194402694702148,
+        "type_2_text_consistency_score": 0.2815214991569519,
+        "type_3_text_consistency_score": 0.08843779563903809
+    },
+    "lipstick, lip rouge": {
+        "type_1_text_consistency_score": 0.9194402694702148,
+        "type_2_text_consistency_score": 0.3592402935028076,
+        "type_3_text_consistency_score": 0.12216371297836304
+    }
+}

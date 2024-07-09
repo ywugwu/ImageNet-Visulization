@@ -1,0 +1,37 @@
+{
+    "sheep": {
+        "type_1_text_consistency_score": 0.48829177021980286,
+        "type_2_text_consistency_score": 0.10351607948541641,
+        "type_3_text_consistency_score": -0.11788684129714966
+    },
+    "antelope": {
+        "type_1_text_consistency_score": 0.6973510384559631,
+        "type_2_text_consistency_score": 0.029687121510505676,
+        "type_3_text_consistency_score": -0.01736271381378174
+    },
+    "wild sheep": {
+        "type_1_text_consistency_score": 0.48829177021980286,
+        "type_2_text_consistency_score": 0.09250004589557648,
+        "type_3_text_consistency_score": -0.08397680521011353
+    },
+    "goat, caprine animal": {
+        "type_1_text_consistency_score": 0.6232773065567017,
+        "type_2_text_consistency_score": 0.19014254212379456,
+        "type_3_text_consistency_score": -0.046221911907196045
+    },
+    "bison": {
+        "type_1_text_consistency_score": 0.6452206373214722,
+        "type_2_text_consistency_score": 0.09384620189666748,
+        "type_3_text_consistency_score": -0.06094580888748169
+    },
+    "old world buffalo, buffalo": {
+        "type_1_text_consistency_score": 0.6452206373214722,
+        "type_2_text_consistency_score": -0.015526499599218369,
+        "type_3_text_consistency_score": -0.0010792016983032227
+    },
+    "bovine": {
+        "type_1_text_consistency_score": 0.6990852952003479,
+        "type_2_text_consistency_score": 0.24516314268112183,
+        "type_3_text_consistency_score": -0.08765405416488647
+    }
+}

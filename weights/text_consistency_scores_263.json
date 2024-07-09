@@ -1,0 +1,12 @@
+{
+    "soup bowl": {
+        "type_1_text_consistency_score": 0.5471928119659424,
+        "type_2_text_consistency_score": 0.03655373305082321,
+        "type_3_text_consistency_score": -0.05008417367935181
+    },
+    "mixing bowl": {
+        "type_1_text_consistency_score": 0.5471928119659424,
+        "type_2_text_consistency_score": 0.20689384639263153,
+        "type_3_text_consistency_score": -0.060305118560791016
+    }
+}

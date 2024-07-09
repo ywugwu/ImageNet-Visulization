@@ -1,0 +1,12 @@
+{
+    "heavier-than-air craft": {
+        "type_1_text_consistency_score": 0.8680887222290039,
+        "type_2_text_consistency_score": 0.13809221982955933,
+        "type_3_text_consistency_score": -0.0719527006149292
+    },
+    "lighter-than-air craft": {
+        "type_1_text_consistency_score": 0.8680887222290039,
+        "type_2_text_consistency_score": 0.13757069408893585,
+        "type_3_text_consistency_score": -0.05013930797576904
+    }
+}

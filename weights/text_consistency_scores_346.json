@@ -1,0 +1,22 @@
+{
+    "pointer, spanish pointer": {
+        "type_1_text_consistency_score": 0.5818183422088623,
+        "type_2_text_consistency_score": 0.1239018514752388,
+        "type_3_text_consistency_score": 0.1854485273361206
+    },
+    "setter": {
+        "type_1_text_consistency_score": 0.5818183422088623,
+        "type_2_text_consistency_score": 0.19862335920333862,
+        "type_3_text_consistency_score": -0.1640281081199646
+    },
+    "spaniel": {
+        "type_1_text_consistency_score": 0.6680681109428406,
+        "type_2_text_consistency_score": 0.22806930541992188,
+        "type_3_text_consistency_score": -0.0019038915634155273
+    },
+    "retriever": {
+        "type_1_text_consistency_score": 0.7184641361236572,
+        "type_2_text_consistency_score": 0.3335757851600647,
+        "type_3_text_consistency_score": -0.12106651067733765
+    }
+}

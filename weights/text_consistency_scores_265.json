@@ -1,0 +1,12 @@
+{
+    "cutlery, eating utensil": {
+        "type_1_text_consistency_score": 0.8247132301330566,
+        "type_2_text_consistency_score": 0.2881159782409668,
+        "type_3_text_consistency_score": -0.011020421981811523
+    },
+    "crockery, dishware": {
+        "type_1_text_consistency_score": 0.8247132301330566,
+        "type_2_text_consistency_score": 0.28229084610939026,
+        "type_3_text_consistency_score": 0.1020323634147644
+    }
+}

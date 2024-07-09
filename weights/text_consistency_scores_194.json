@@ -1,0 +1,12 @@
+{
+    "paper towel": {
+        "type_1_text_consistency_score": 0.7794554233551025,
+        "type_2_text_consistency_score": 0.2926110029220581,
+        "type_3_text_consistency_score": 0.012869477272033691
+    },
+    "bath towel": {
+        "type_1_text_consistency_score": 0.7794554233551025,
+        "type_2_text_consistency_score": 0.27741795778274536,
+        "type_3_text_consistency_score": -0.009699344635009766
+    }
+}

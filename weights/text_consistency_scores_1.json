@@ -1,0 +1,12 @@
+{
+    "starches": {
+        "type_1_text_consistency_score": 0.7659941911697388,
+        "type_2_text_consistency_score": 0.26357609033584595,
+        "type_3_text_consistency_score": -0.027762651443481445
+    },
+    "concoction, mixture, intermixture": {
+        "type_1_text_consistency_score": 0.7659941911697388,
+        "type_2_text_consistency_score": 0.24390360713005066,
+        "type_3_text_consistency_score": 0.12059277296066284
+    }
+}

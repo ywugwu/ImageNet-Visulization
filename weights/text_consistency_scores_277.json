@@ -1,0 +1,37 @@
+{
+    "tiger beetle": {
+        "type_1_text_consistency_score": 0.8416550159454346,
+        "type_2_text_consistency_score": 0.20082351565361023,
+        "type_3_text_consistency_score": 0.10804212093353271
+    },
+    "ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle": {
+        "type_1_text_consistency_score": 0.8170877695083618,
+        "type_2_text_consistency_score": 0.2785148024559021,
+        "type_3_text_consistency_score": 0.19503921270370483
+    },
+    "ground beetle, carabid beetle": {
+        "type_1_text_consistency_score": 0.740085780620575,
+        "type_2_text_consistency_score": 0.0699184238910675,
+        "type_3_text_consistency_score": 0.07485675811767578
+    },
+    "long-horned beetle, longicorn, longicorn beetle": {
+        "type_1_text_consistency_score": 0.7132872343063354,
+        "type_2_text_consistency_score": 0.09895560145378113,
+        "type_3_text_consistency_score": 0.12517952919006348
+    },
+    "leaf beetle, chrysomelid": {
+        "type_1_text_consistency_score": 0.7391542196273804,
+        "type_2_text_consistency_score": 0.07987390458583832,
+        "type_3_text_consistency_score": -0.04660511016845703
+    },
+    "lamellicorn beetle": {
+        "type_1_text_consistency_score": 0.7835668921470642,
+        "type_2_text_consistency_score": 0.24180129170417786,
+        "type_3_text_consistency_score": -0.02657151222229004
+    },
+    "weevil": {
+        "type_1_text_consistency_score": 0.7132872343063354,
+        "type_2_text_consistency_score": 0.1668699085712433,
+        "type_3_text_consistency_score": -0.044136762619018555
+    }
+}

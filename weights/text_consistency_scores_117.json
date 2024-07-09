@@ -1,0 +1,17 @@
+{
+    "balance beam, beam": {
+        "type_1_text_consistency_score": 0.639829695224762,
+        "type_2_text_consistency_score": 0.08722153306007385,
+        "type_3_text_consistency_score": 0.06879281997680664
+    },
+    "horizontal bar, high bar": {
+        "type_1_text_consistency_score": 0.639829695224762,
+        "type_2_text_consistency_score": 0.2462930828332901,
+        "type_3_text_consistency_score": 0.0004987120628356934
+    },
+    "parallel bars, bars": {
+        "type_1_text_consistency_score": 0.6903718709945679,
+        "type_2_text_consistency_score": 0.0868663638830185,
+        "type_3_text_consistency_score": 0.013176918029785156
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "power drill": {
+        "type_1_text_consistency_score": 0.8605995178222656,
+        "type_2_text_consistency_score": 0.27782824635505676,
+        "type_3_text_consistency_score": 0.04577726125717163
+    },
+    "power saw, saw, sawing machine": {
+        "type_1_text_consistency_score": 0.8605995178222656,
+        "type_2_text_consistency_score": 0.27373215556144714,
+        "type_3_text_consistency_score": 0.08355963230133057
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "cargo ship, cargo vessel": {
+        "type_1_text_consistency_score": 0.788612961769104,
+        "type_2_text_consistency_score": 0.1476944386959076,
+        "type_3_text_consistency_score": 0.028130710124969482
+    },
+    "passenger ship": {
+        "type_1_text_consistency_score": 0.7879390716552734,
+        "type_2_text_consistency_score": 0.24958467483520508,
+        "type_3_text_consistency_score": -0.03911411762237549
+    },
+    "pirate, pirate ship": {
+        "type_1_text_consistency_score": 0.8008753061294556,
+        "type_2_text_consistency_score": 0.21176770329475403,
+        "type_3_text_consistency_score": 0.09836959838867188
+    },
+    "warship, war vessel, combat ship": {
+        "type_1_text_consistency_score": 0.7824791669845581,
+        "type_2_text_consistency_score": 0.20074602961540222,
+        "type_3_text_consistency_score": 0.07130098342895508
+    },
+    "wreck": {
+        "type_1_text_consistency_score": 0.7824791669845581,
+        "type_2_text_consistency_score": 0.23921585083007812,
+        "type_3_text_consistency_score": 0.01096034049987793
+    }
+}

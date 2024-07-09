@@ -1,0 +1,27 @@
+{
+    "wild dog": {
+        "type_1_text_consistency_score": 0.7602348327636719,
+        "type_2_text_consistency_score": 0.012536540627479553,
+        "type_3_text_consistency_score": -0.09258747100830078
+    },
+    "hyena, hyaena": {
+        "type_1_text_consistency_score": 0.8590567708015442,
+        "type_2_text_consistency_score": 0.08944922685623169,
+        "type_3_text_consistency_score": 0.14818358421325684
+    },
+    "fox": {
+        "type_1_text_consistency_score": 0.7140014171600342,
+        "type_2_text_consistency_score": 0.11005249619483948,
+        "type_3_text_consistency_score": -0.09175145626068115
+    },
+    "wolf": {
+        "type_1_text_consistency_score": 0.7342486381530762,
+        "type_2_text_consistency_score": 0.1888517141342163,
+        "type_3_text_consistency_score": -0.140022873878479
+    },
+    "dog, domestic dog, canis familiaris": {
+        "type_1_text_consistency_score": 0.7140014171600342,
+        "type_2_text_consistency_score": 0.18373055756092072,
+        "type_3_text_consistency_score": 0.10902208089828491
+    }
+}

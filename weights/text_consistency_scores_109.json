@@ -1,0 +1,12 @@
+{
+    "vase": {
+        "type_1_text_consistency_score": 0.6810562610626221,
+        "type_2_text_consistency_score": 0.3915725350379944,
+        "type_3_text_consistency_score": 0.11128747463226318
+    },
+    "beaker": {
+        "type_1_text_consistency_score": 0.6810562610626221,
+        "type_2_text_consistency_score": 0.0026061050593852997,
+        "type_3_text_consistency_score": -0.042026400566101074
+    }
+}

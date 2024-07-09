@@ -1,0 +1,12 @@
+{
+    "gymnastic apparatus, exerciser": {
+        "type_1_text_consistency_score": 0.9275414943695068,
+        "type_2_text_consistency_score": 0.06718601286411285,
+        "type_3_text_consistency_score": 0.11080735921859741
+    },
+    "weight, free weight, exercising weight": {
+        "type_1_text_consistency_score": 0.9275414943695068,
+        "type_2_text_consistency_score": 0.48481467366218567,
+        "type_3_text_consistency_score": 0.1224256157875061
+    }
+}

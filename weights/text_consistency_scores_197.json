@@ -1,0 +1,17 @@
+{
+    "sandal": {
+        "type_1_text_consistency_score": 0.5833174586296082,
+        "type_2_text_consistency_score": 0.07836513221263885,
+        "type_3_text_consistency_score": -0.10531401634216309
+    },
+    "running shoe": {
+        "type_1_text_consistency_score": 0.5833174586296082,
+        "type_2_text_consistency_score": 0.22126777470111847,
+        "type_3_text_consistency_score": -0.068722665309906
+    },
+    "loafer": {
+        "type_1_text_consistency_score": 0.6666495203971863,
+        "type_2_text_consistency_score": 0.10192245244979858,
+        "type_3_text_consistency_score": -0.196091890335083
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "warplane, military plane": {
+        "type_1_text_consistency_score": 0.8683054447174072,
+        "type_2_text_consistency_score": 0.24508197605609894,
+        "type_3_text_consistency_score": 0.027859389781951904
+    },
+    "warship, war vessel, combat ship": {
+        "type_1_text_consistency_score": 0.9075092673301697,
+        "type_2_text_consistency_score": 0.2247552126646042,
+        "type_3_text_consistency_score": 0.09063529968261719
+    },
+    "half track": {
+        "type_1_text_consistency_score": 0.8658798336982727,
+        "type_2_text_consistency_score": 0.11639878153800964,
+        "type_3_text_consistency_score": -0.0022121071815490723
+    },
+    "tank, army tank, armored combat vehicle, armoured combat vehicle": {
+        "type_1_text_consistency_score": 0.8658798336982727,
+        "type_2_text_consistency_score": 0.24784715473651886,
+        "type_3_text_consistency_score": 0.165399968624115
+    }
+}

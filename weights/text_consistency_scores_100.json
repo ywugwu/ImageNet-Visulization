@@ -1,0 +1,37 @@
+{
+    "forklift": {
+        "type_1_text_consistency_score": 0.8507930636405945,
+        "type_2_text_consistency_score": -0.00444561243057251,
+        "type_3_text_consistency_score": -0.010134577751159668
+    },
+    "locomotive, engine, locomotive engine, railway locomotive": {
+        "type_1_text_consistency_score": 0.7929298877716064,
+        "type_2_text_consistency_score": 0.021730460226535797,
+        "type_3_text_consistency_score": 0.13940787315368652
+    },
+    "motor vehicle, automotive vehicle": {
+        "type_1_text_consistency_score": 0.783896803855896,
+        "type_2_text_consistency_score": 0.4123324453830719,
+        "type_3_text_consistency_score": 0.05436992645263672
+    },
+    "recreational vehicle, rv, r.v.": {
+        "type_1_text_consistency_score": 0.8504270315170288,
+        "type_2_text_consistency_score": 0.04258878529071808,
+        "type_3_text_consistency_score": 0.039507269859313965
+    },
+    "streetcar, tram, tramcar, trolley, trolley car": {
+        "type_1_text_consistency_score": 0.8466780185699463,
+        "type_2_text_consistency_score": 0.0664389431476593,
+        "type_3_text_consistency_score": 0.14146721363067627
+    },
+    "tracked vehicle": {
+        "type_1_text_consistency_score": 0.7265832424163818,
+        "type_2_text_consistency_score": 0.09350582957267761,
+        "type_3_text_consistency_score": 0.01194995641708374
+    },
+    "tractor": {
+        "type_1_text_consistency_score": 0.7265832424163818,
+        "type_2_text_consistency_score": -0.07040863484144211,
+        "type_3_text_consistency_score": -0.1268906593322754
+    }
+}

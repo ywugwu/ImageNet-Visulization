@@ -1,0 +1,12 @@
+{
+    "barracouta, snoek": {
+        "type_1_text_consistency_score": 0.8438060283660889,
+        "type_2_text_consistency_score": 0.2893935739994049,
+        "type_3_text_consistency_score": 0.11878722906112671
+    },
+    "salmon": {
+        "type_1_text_consistency_score": 0.8438060283660889,
+        "type_2_text_consistency_score": 0.32540053129196167,
+        "type_3_text_consistency_score": 0.04787635803222656
+    }
+}

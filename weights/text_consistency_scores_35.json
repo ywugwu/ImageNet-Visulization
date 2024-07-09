@@ -1,0 +1,12 @@
+{
+    "double-reed instrument, double reed": {
+        "type_1_text_consistency_score": 0.9313527345657349,
+        "type_2_text_consistency_score": 0.38502904772758484,
+        "type_3_text_consistency_score": 0.054878950119018555
+    },
+    "single-reed instrument, single-reed woodwind": {
+        "type_1_text_consistency_score": 0.9313527345657349,
+        "type_2_text_consistency_score": 0.07899673283100128,
+        "type_3_text_consistency_score": 0.041080474853515625
+    }
+}

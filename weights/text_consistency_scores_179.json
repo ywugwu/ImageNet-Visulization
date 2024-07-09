@@ -1,0 +1,12 @@
+{
+    "totem pole": {
+        "type_1_text_consistency_score": 0.8498231172561646,
+        "type_2_text_consistency_score": 0.19325214624404907,
+        "type_3_text_consistency_score": 0.15242713689804077
+    },
+    "obelisk": {
+        "type_1_text_consistency_score": 0.8498231172561646,
+        "type_2_text_consistency_score": 0.43109163641929626,
+        "type_3_text_consistency_score": 0.10573136806488037
+    }
+}

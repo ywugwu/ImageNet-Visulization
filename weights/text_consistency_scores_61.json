@@ -1,0 +1,12 @@
+{
+    "harvester, reaper": {
+        "type_1_text_consistency_score": 0.8004658818244934,
+        "type_2_text_consistency_score": 0.33432456851005554,
+        "type_3_text_consistency_score": 0.10232716798782349
+    },
+    "thresher, thrasher, threshing machine": {
+        "type_1_text_consistency_score": 0.8004658818244934,
+        "type_2_text_consistency_score": 0.22803720831871033,
+        "type_3_text_consistency_score": 0.2078486680984497
+    }
+}

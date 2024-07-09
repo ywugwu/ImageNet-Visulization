@@ -1,0 +1,27 @@
+{
+    "mammal, mammalian": {
+        "type_1_text_consistency_score": 0.7510846853256226,
+        "type_2_text_consistency_score": 0.17134958505630493,
+        "type_3_text_consistency_score": 0.058033525943756104
+    },
+    "bird": {
+        "type_1_text_consistency_score": 0.7796709537506104,
+        "type_2_text_consistency_score": 0.2788556218147278,
+        "type_3_text_consistency_score": -0.02571171522140503
+    },
+    "reptile, reptilian": {
+        "type_1_text_consistency_score": 0.6799684762954712,
+        "type_2_text_consistency_score": 0.17895817756652832,
+        "type_3_text_consistency_score": 0.05182206630706787
+    },
+    "amphibian": {
+        "type_1_text_consistency_score": 0.6799684762954712,
+        "type_2_text_consistency_score": 0.06365197151899338,
+        "type_3_text_consistency_score": -0.00922095775604248
+    },
+    "aquatic vertebrate": {
+        "type_1_text_consistency_score": 0.7125366926193237,
+        "type_2_text_consistency_score": 0.20153212547302246,
+        "type_3_text_consistency_score": 0.009561777114868164
+    }
+}

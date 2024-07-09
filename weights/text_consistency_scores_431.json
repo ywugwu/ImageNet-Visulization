@@ -1,0 +1,12 @@
+{
+    "electric ray, crampfish, numbfish, torpedo": {
+        "type_1_text_consistency_score": 0.6849842071533203,
+        "type_2_text_consistency_score": 0.22259575128555298,
+        "type_3_text_consistency_score": 0.19272363185882568
+    },
+    "stingray": {
+        "type_1_text_consistency_score": 0.6849842071533203,
+        "type_2_text_consistency_score": 0.26500576734542847,
+        "type_3_text_consistency_score": 0.04088139533996582
+    }
+}

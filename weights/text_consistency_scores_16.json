@@ -1,0 +1,17 @@
+{
+    "cabbage, chou": {
+        "type_1_text_consistency_score": 0.7327100038528442,
+        "type_2_text_consistency_score": 0.31567132472991943,
+        "type_3_text_consistency_score": -0.04779839515686035
+    },
+    "broccoli": {
+        "type_1_text_consistency_score": 0.7327100038528442,
+        "type_2_text_consistency_score": 0.18100838363170624,
+        "type_3_text_consistency_score": -0.20979833602905273
+    },
+    "cauliflower": {
+        "type_1_text_consistency_score": 0.8210469484329224,
+        "type_2_text_consistency_score": 0.17147916555404663,
+        "type_3_text_consistency_score": -0.12937253713607788
+    }
+}

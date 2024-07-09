@@ -1,0 +1,12 @@
+{
+    "zucchini, courgette": {
+        "type_1_text_consistency_score": 0.897973895072937,
+        "type_2_text_consistency_score": 0.402442991733551,
+        "type_3_text_consistency_score": 0.1426892876625061
+    },
+    "spaghetti squash": {
+        "type_1_text_consistency_score": 0.897973895072937,
+        "type_2_text_consistency_score": 0.3448382616043091,
+        "type_3_text_consistency_score": 0.1468753218650818
+    }
+}

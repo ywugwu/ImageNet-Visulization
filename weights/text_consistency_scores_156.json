@@ -1,0 +1,17 @@
+{
+    "horse cart, horse-cart": {
+        "type_1_text_consistency_score": 0.6305879354476929,
+        "type_2_text_consistency_score": 0.15292707085609436,
+        "type_3_text_consistency_score": 0.08538645505905151
+    },
+    "jinrikisha, ricksha, rickshaw": {
+        "type_1_text_consistency_score": 0.7268297672271729,
+        "type_2_text_consistency_score": 0.3093554377555847,
+        "type_3_text_consistency_score": 0.04726123809814453
+    },
+    "oxcart": {
+        "type_1_text_consistency_score": 0.6305879354476929,
+        "type_2_text_consistency_score": 0.2053140103816986,
+        "type_3_text_consistency_score": 0.02674281597137451
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "black and gold garden spider, argiope aurantia": {
+        "type_1_text_consistency_score": 0.905446469783783,
+        "type_2_text_consistency_score": 0.04627928137779236,
+        "type_3_text_consistency_score": 0.09557729959487915
+    },
+    "barn spider, araneus cavaticus": {
+        "type_1_text_consistency_score": 0.8743174076080322,
+        "type_2_text_consistency_score": 0.13631756603717804,
+        "type_3_text_consistency_score": -0.09421646595001221
+    },
+    "garden spider, aranea diademata": {
+        "type_1_text_consistency_score": 0.89841228723526,
+        "type_2_text_consistency_score": 0.2875387370586395,
+        "type_3_text_consistency_score": 0.03729116916656494
+    },
+    "black widow, latrodectus mactans": {
+        "type_1_text_consistency_score": 0.8918719291687012,
+        "type_2_text_consistency_score": 0.2677405774593353,
+        "type_3_text_consistency_score": 0.16908705234527588
+    },
+    "tarantula": {
+        "type_1_text_consistency_score": 0.8658417463302612,
+        "type_2_text_consistency_score": 0.2631834149360657,
+        "type_3_text_consistency_score": 0.0318303108215332
+    },
+    "wolf spider, hunting spider": {
+        "type_1_text_consistency_score": 0.8658417463302612,
+        "type_2_text_consistency_score": 0.2019372284412384,
+        "type_3_text_consistency_score": 0.09509414434432983
+    }
+}

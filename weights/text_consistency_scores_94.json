@@ -1,0 +1,12 @@
+{
+    "electric locomotive": {
+        "type_1_text_consistency_score": 0.9142496585845947,
+        "type_2_text_consistency_score": 0.22151346504688263,
+        "type_3_text_consistency_score": -0.07612699270248413
+    },
+    "steam locomotive": {
+        "type_1_text_consistency_score": 0.9142496585845947,
+        "type_2_text_consistency_score": 0.19820451736450195,
+        "type_3_text_consistency_score": -0.07606261968612671
+    }
+}

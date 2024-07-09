@@ -1,0 +1,12 @@
+{
+    "jacamar": {
+        "type_1_text_consistency_score": 0.5790169835090637,
+        "type_2_text_consistency_score": 0.26282796263694763,
+        "type_3_text_consistency_score": -0.22210004925727844
+    },
+    "toucan": {
+        "type_1_text_consistency_score": 0.5790169835090637,
+        "type_2_text_consistency_score": 0.2723514437675476,
+        "type_3_text_consistency_score": 0.08227461576461792
+    }
+}

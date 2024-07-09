@@ -1,0 +1,12 @@
+{
+    "anapsid, anapsid reptile": {
+        "type_1_text_consistency_score": 0.8517273664474487,
+        "type_2_text_consistency_score": 0.23616959154605865,
+        "type_3_text_consistency_score": 0.05174332857131958
+    },
+    "diapsid, diapsid reptile": {
+        "type_1_text_consistency_score": 0.8517273664474487,
+        "type_2_text_consistency_score": 0.06624111533164978,
+        "type_3_text_consistency_score": -0.05292391777038574
+    }
+}

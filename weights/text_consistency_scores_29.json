@@ -1,0 +1,12 @@
+{
+    "cello, violoncello": {
+        "type_1_text_consistency_score": 0.823169469833374,
+        "type_2_text_consistency_score": 0.14215132594108582,
+        "type_3_text_consistency_score": 0.01102834939956665
+    },
+    "violin, fiddle": {
+        "type_1_text_consistency_score": 0.823169469833374,
+        "type_2_text_consistency_score": 0.25285789370536804,
+        "type_3_text_consistency_score": 0.02332824468612671
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "marketplace, market place, mart, market": {
+        "type_1_text_consistency_score": 0.8309386372566223,
+        "type_2_text_consistency_score": 0.09539729356765747,
+        "type_3_text_consistency_score": 0.058554887771606445
+    },
+    "shop, store": {
+        "type_1_text_consistency_score": 0.8309386372566223,
+        "type_2_text_consistency_score": 0.29244720935821533,
+        "type_3_text_consistency_score": 0.02311915159225464
+    }
+}

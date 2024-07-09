@@ -1,0 +1,12 @@
+{
+    "lakeside, lakeshore": {
+        "type_1_text_consistency_score": 0.7070204019546509,
+        "type_2_text_consistency_score": 0.2666177749633789,
+        "type_3_text_consistency_score": 0.059462666511535645
+    },
+    "seashore, coast, seacoast, sea-coast": {
+        "type_1_text_consistency_score": 0.7070204019546509,
+        "type_2_text_consistency_score": 0.2437356412410736,
+        "type_3_text_consistency_score": 0.12396508455276489
+    }
+}

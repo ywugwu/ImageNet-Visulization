@@ -1,0 +1,12 @@
+{
+    "thimble": {
+        "type_1_text_consistency_score": 0.6573441028594971,
+        "type_2_text_consistency_score": 0.39066141843795776,
+        "type_3_text_consistency_score": 0.017290353775024414
+    },
+    "lens cap, lens cover": {
+        "type_1_text_consistency_score": 0.6573441028594971,
+        "type_2_text_consistency_score": 0.20366276800632477,
+        "type_3_text_consistency_score": 0.24327486753463745
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "welsh springer spaniel": {
+        "type_1_text_consistency_score": 0.9484531879425049,
+        "type_2_text_consistency_score": 0.13910749554634094,
+        "type_3_text_consistency_score": 0.06992483139038086
+    },
+    "english springer, english springer spaniel": {
+        "type_1_text_consistency_score": 0.9484531879425049,
+        "type_2_text_consistency_score": 0.41998785734176636,
+        "type_3_text_consistency_score": 0.13448035717010498
+    }
+}

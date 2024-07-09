@@ -1,0 +1,12 @@
+{
+    "parking meter": {
+        "type_1_text_consistency_score": 0.8883182406425476,
+        "type_2_text_consistency_score": 0.31012359261512756,
+        "type_3_text_consistency_score": 0.05588877201080322
+    },
+    "stopwatch, stop watch": {
+        "type_1_text_consistency_score": 0.8883182406425476,
+        "type_2_text_consistency_score": 0.3312534689903259,
+        "type_3_text_consistency_score": 0.13346248865127563
+    }
+}

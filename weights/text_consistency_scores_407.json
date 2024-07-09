@@ -1,0 +1,22 @@
+{
+    "plover": {
+        "type_1_text_consistency_score": 0.7218658328056335,
+        "type_2_text_consistency_score": 0.16854184865951538,
+        "type_3_text_consistency_score": -0.08952498435974121
+    },
+    "sandpiper": {
+        "type_1_text_consistency_score": 0.7218658328056335,
+        "type_2_text_consistency_score": 0.28046372532844543,
+        "type_3_text_consistency_score": -0.14643293619155884
+    },
+    "snipe": {
+        "type_1_text_consistency_score": 0.7855092287063599,
+        "type_2_text_consistency_score": 0.30782535672187805,
+        "type_3_text_consistency_score": -0.20131206512451172
+    },
+    "oystercatcher, oyster catcher": {
+        "type_1_text_consistency_score": 0.7555227875709534,
+        "type_2_text_consistency_score": 0.21109448373317719,
+        "type_3_text_consistency_score": 0.24615293741226196
+    }
+}

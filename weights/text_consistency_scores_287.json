@@ -1,0 +1,12 @@
+{
+    "jellyfish": {
+        "type_1_text_consistency_score": 0.8074009418487549,
+        "type_2_text_consistency_score": 0.21048368513584137,
+        "type_3_text_consistency_score": 0.02192103862762451
+    },
+    "anthozoan, actinozoan": {
+        "type_1_text_consistency_score": 0.8074009418487549,
+        "type_2_text_consistency_score": 0.33749252557754517,
+        "type_3_text_consistency_score": 0.10798019170761108
+    }
+}

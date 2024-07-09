@@ -1,0 +1,32 @@
+{
+    "plane, carpenter's plane, woodworking plane": {
+        "type_1_text_consistency_score": 0.7098122239112854,
+        "type_2_text_consistency_score": 0.09055733680725098,
+        "type_3_text_consistency_score": 0.24276399612426758
+    },
+    "hammer": {
+        "type_1_text_consistency_score": 0.5911743640899658,
+        "type_2_text_consistency_score": 0.05370332673192024,
+        "type_3_text_consistency_score": -0.05959880352020264
+    },
+    "opener": {
+        "type_1_text_consistency_score": 0.5911743640899658,
+        "type_2_text_consistency_score": 0.34313827753067017,
+        "type_3_text_consistency_score": -0.09931838512420654
+    },
+    "plunger, plumber's helper": {
+        "type_1_text_consistency_score": 0.6853514313697815,
+        "type_2_text_consistency_score": 0.0891818106174469,
+        "type_3_text_consistency_score": 0.042603135108947754
+    },
+    "screwdriver": {
+        "type_1_text_consistency_score": 0.6802005171775818,
+        "type_2_text_consistency_score": 0.01551135629415512,
+        "type_3_text_consistency_score": -0.030351579189300537
+    },
+    "shovel": {
+        "type_1_text_consistency_score": 0.6913173198699951,
+        "type_2_text_consistency_score": 0.0983288437128067,
+        "type_3_text_consistency_score": -0.039583802223205566
+    }
+}

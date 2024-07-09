@@ -1,0 +1,22 @@
+{
+    "spindle": {
+        "type_1_text_consistency_score": 0.7315124273300171,
+        "type_2_text_consistency_score": 0.15664033591747284,
+        "type_3_text_consistency_score": 0.024274706840515137
+    },
+    "drumstick": {
+        "type_1_text_consistency_score": 0.6745585203170776,
+        "type_2_text_consistency_score": 0.0944623351097107,
+        "type_3_text_consistency_score": 0.009669959545135498
+    },
+    "staff": {
+        "type_1_text_consistency_score": 0.6745585203170776,
+        "type_2_text_consistency_score": 0.305205374956131,
+        "type_3_text_consistency_score": 0.01734912395477295
+    },
+    "matchstick": {
+        "type_1_text_consistency_score": 0.730442225933075,
+        "type_2_text_consistency_score": 0.19867214560508728,
+        "type_3_text_consistency_score": -0.019691646099090576
+    }
+}

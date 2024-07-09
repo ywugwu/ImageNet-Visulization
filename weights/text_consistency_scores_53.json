@@ -1,0 +1,12 @@
+{
+    "cannon": {
+        "type_1_text_consistency_score": 0.5773428082466125,
+        "type_2_text_consistency_score": 0.05041027441620827,
+        "type_3_text_consistency_score": -0.034758806228637695
+    },
+    "firearm, piece, small-arm": {
+        "type_1_text_consistency_score": 0.5773428082466125,
+        "type_2_text_consistency_score": 0.31964007019996643,
+        "type_3_text_consistency_score": 0.06908547878265381
+    }
+}

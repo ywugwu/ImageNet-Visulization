@@ -1,0 +1,37 @@
+{
+    "hen-of-the-woods, hen of the woods, polyporus frondosus, grifola frondosa": {
+        "type_1_text_consistency_score": 0.8492157459259033,
+        "type_2_text_consistency_score": 0.1653401404619217,
+        "type_3_text_consistency_score": 0.20228487253189087
+    },
+    "earthstar": {
+        "type_1_text_consistency_score": 0.8064497113227844,
+        "type_2_text_consistency_score": 0.2722392976284027,
+        "type_3_text_consistency_score": 0.08527660369873047
+    },
+    "coral fungus": {
+        "type_1_text_consistency_score": 0.8375217318534851,
+        "type_2_text_consistency_score": 0.1393514722585678,
+        "type_3_text_consistency_score": 0.1260409951210022
+    },
+    "stinkhorn, carrion fungus": {
+        "type_1_text_consistency_score": 0.8064497113227844,
+        "type_2_text_consistency_score": 0.18492411077022552,
+        "type_3_text_consistency_score": 0.28183817863464355
+    },
+    "gyromitra": {
+        "type_1_text_consistency_score": 0.8539785742759705,
+        "type_2_text_consistency_score": 0.2121749371290207,
+        "type_3_text_consistency_score": 0.04512143135070801
+    },
+    "bolete": {
+        "type_1_text_consistency_score": 0.8188120126724243,
+        "type_2_text_consistency_score": 0.23030820488929749,
+        "type_3_text_consistency_score": -0.034571945667266846
+    },
+    "basidiomycete, basidiomycetous fungi": {
+        "type_1_text_consistency_score": 0.8087657690048218,
+        "type_2_text_consistency_score": 0.33071261644363403,
+        "type_3_text_consistency_score": 0.14892852306365967
+    }
+}

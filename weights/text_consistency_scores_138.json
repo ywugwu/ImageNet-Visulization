@@ -1,0 +1,12 @@
+{
+    "schooner": {
+        "type_1_text_consistency_score": 0.4190213084220886,
+        "type_2_text_consistency_score": 0.10396628826856613,
+        "type_3_text_consistency_score": -0.12631756067276
+    },
+    "sailboat, sailing boat": {
+        "type_1_text_consistency_score": 0.4190213084220886,
+        "type_2_text_consistency_score": 0.11322353780269623,
+        "type_3_text_consistency_score": 0.09224027395248413
+    }
+}

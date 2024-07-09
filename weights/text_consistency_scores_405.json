@@ -1,0 +1,17 @@
+{
+    "egret": {
+        "type_1_text_consistency_score": 0.8772754073143005,
+        "type_2_text_consistency_score": 0.42276328802108765,
+        "type_3_text_consistency_score": 0.06337058544158936
+    },
+    "little blue heron, egretta caerulea": {
+        "type_1_text_consistency_score": 0.8772754073143005,
+        "type_2_text_consistency_score": 0.12667278945446014,
+        "type_3_text_consistency_score": 0.2166280746459961
+    },
+    "bittern": {
+        "type_1_text_consistency_score": 0.9278731346130371,
+        "type_2_text_consistency_score": 0.2954150140285492,
+        "type_3_text_consistency_score": 0.16999804973602295
+    }
+}

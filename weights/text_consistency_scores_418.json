@@ -1,0 +1,47 @@
+{
+    "thunder snake, worm snake, carphophis amoenus": {
+        "type_1_text_consistency_score": 0.8168478608131409,
+        "type_2_text_consistency_score": 0.16672015190124512,
+        "type_3_text_consistency_score": 0.05349266529083252
+    },
+    "ringneck snake, ring-necked snake, ring snake": {
+        "type_1_text_consistency_score": 0.7320706248283386,
+        "type_2_text_consistency_score": -0.09875660389661789,
+        "type_3_text_consistency_score": 0.09296828508377075
+    },
+    "hognose snake, puff adder, sand viper": {
+        "type_1_text_consistency_score": 0.8350223898887634,
+        "type_2_text_consistency_score": 0.024147748947143555,
+        "type_3_text_consistency_score": 0.10159522294998169
+    },
+    "green snake, grass snake": {
+        "type_1_text_consistency_score": 0.82587730884552,
+        "type_2_text_consistency_score": 0.05635634437203407,
+        "type_3_text_consistency_score": 0.01402902603149414
+    },
+    "king snake, kingsnake": {
+        "type_1_text_consistency_score": 0.7334681749343872,
+        "type_2_text_consistency_score": 0.19531260430812836,
+        "type_3_text_consistency_score": 0.008980274200439453
+    },
+    "garter snake, grass snake": {
+        "type_1_text_consistency_score": 0.8495304584503174,
+        "type_2_text_consistency_score": 0.005677059292793274,
+        "type_3_text_consistency_score": 0.017065107822418213
+    },
+    "water snake": {
+        "type_1_text_consistency_score": 0.7320706248283386,
+        "type_2_text_consistency_score": 0.2530808448791504,
+        "type_3_text_consistency_score": -0.007485866546630859
+    },
+    "vine snake": {
+        "type_1_text_consistency_score": 0.8058165907859802,
+        "type_2_text_consistency_score": -0.025155633687973022,
+        "type_3_text_consistency_score": 0.006012558937072754
+    },
+    "night snake, hypsiglena torquata": {
+        "type_1_text_consistency_score": 0.7846673727035522,
+        "type_2_text_consistency_score": 0.14742687344551086,
+        "type_3_text_consistency_score": 0.027148544788360596
+    }
+}

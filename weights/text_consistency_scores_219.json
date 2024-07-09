@@ -1,0 +1,62 @@
+{
+    "attire, garb, dress": {
+        "type_1_text_consistency_score": 0.37973982095718384,
+        "type_2_text_consistency_score": -0.10704176872968674,
+        "type_3_text_consistency_score": -0.06538891792297363
+    },
+    "protective garment": {
+        "type_1_text_consistency_score": 0.6299924850463867,
+        "type_2_text_consistency_score": 0.14387278258800507,
+        "type_3_text_consistency_score": -0.07546520233154297
+    },
+    "accessory, accoutrement, accouterment": {
+        "type_1_text_consistency_score": 0.7730826735496521,
+        "type_2_text_consistency_score": 0.2653946280479431,
+        "type_3_text_consistency_score": 0.06838732957839966
+    },
+    "outerwear, overclothes": {
+        "type_1_text_consistency_score": 0.5805027484893799,
+        "type_2_text_consistency_score": 0.04977841675281525,
+        "type_3_text_consistency_score": 0.007306933403015137
+    },
+    "garment": {
+        "type_1_text_consistency_score": 0.4853406846523285,
+        "type_2_text_consistency_score": 0.09689203649759293,
+        "type_3_text_consistency_score": -0.04543566703796387
+    },
+    "handwear, hand wear": {
+        "type_1_text_consistency_score": 0.7424699068069458,
+        "type_2_text_consistency_score": 0.1468067616224289,
+        "type_3_text_consistency_score": 0.05789250135421753
+    },
+    "headdress, headgear": {
+        "type_1_text_consistency_score": 0.6399372816085815,
+        "type_2_text_consistency_score": 0.041819408535957336,
+        "type_3_text_consistency_score": 0.05868518352508545
+    },
+    "footwear": {
+        "type_1_text_consistency_score": 0.691754937171936,
+        "type_2_text_consistency_score": 0.195443257689476,
+        "type_3_text_consistency_score": 0.04320555925369263
+    },
+    "uniform": {
+        "type_1_text_consistency_score": 0.6142153739929199,
+        "type_2_text_consistency_score": 0.033868178725242615,
+        "type_3_text_consistency_score": 0.0018012523651123047
+    },
+    "nightwear, sleepwear, nightclothes": {
+        "type_1_text_consistency_score": 0.6852958798408508,
+        "type_2_text_consistency_score": 0.08555052429437637,
+        "type_3_text_consistency_score": 0.06680619716644287
+    },
+    "apparel, wearing apparel, dress, clothes": {
+        "type_1_text_consistency_score": 0.37973982095718384,
+        "type_2_text_consistency_score": 0.1666819006204605,
+        "type_3_text_consistency_score": 0.009010791778564453
+    },
+    "woman's clothing": {
+        "type_1_text_consistency_score": 0.5486479997634888,
+        "type_2_text_consistency_score": 0.029012024402618408,
+        "type_3_text_consistency_score": 0.002887547016143799
+    }
+}

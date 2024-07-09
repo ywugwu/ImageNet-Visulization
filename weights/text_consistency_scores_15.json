@@ -1,0 +1,12 @@
+{
+    "potato, white potato, irish potato, murphy, spud, tater": {
+        "type_1_text_consistency_score": 0.6856677532196045,
+        "type_2_text_consistency_score": 0.27911052107810974,
+        "type_3_text_consistency_score": 0.14341259002685547
+    },
+    "pepper": {
+        "type_1_text_consistency_score": 0.6856677532196045,
+        "type_2_text_consistency_score": 0.26736781001091003,
+        "type_3_text_consistency_score": -0.046703219413757324
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "entlebucher": {
+        "type_1_text_consistency_score": 0.8301375508308411,
+        "type_2_text_consistency_score": 0.14642255008220673,
+        "type_3_text_consistency_score": 0.08035355806350708
+    },
+    "bernese mountain dog": {
+        "type_1_text_consistency_score": 0.7575604915618896,
+        "type_2_text_consistency_score": 0.26788514852523804,
+        "type_3_text_consistency_score": -0.017739295959472656
+    },
+    "greater swiss mountain dog": {
+        "type_1_text_consistency_score": 0.7773507833480835,
+        "type_2_text_consistency_score": 0.23333916068077087,
+        "type_3_text_consistency_score": 0.028318703174591064
+    },
+    "appenzeller": {
+        "type_1_text_consistency_score": 0.7575604915618896,
+        "type_2_text_consistency_score": 0.2879711389541626,
+        "type_3_text_consistency_score": 0.2267378568649292
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "beating-reed instrument, reed instrument, reed": {
+        "type_1_text_consistency_score": 0.8017048835754395,
+        "type_2_text_consistency_score": 0.36322271823883057,
+        "type_3_text_consistency_score": 0.17976951599121094
+    },
+    "flute, transverse flute": {
+        "type_1_text_consistency_score": 0.8017048835754395,
+        "type_2_text_consistency_score": 0.12152950465679169,
+        "type_3_text_consistency_score": 0.15357458591461182
+    }
+}

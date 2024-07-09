@@ -1,0 +1,12 @@
+{
+    "honeycomb": {
+        "type_1_text_consistency_score": 0.7777184247970581,
+        "type_2_text_consistency_score": 0.3627499043941498,
+        "type_3_text_consistency_score": 0.02309340238571167
+    },
+    "rack": {
+        "type_1_text_consistency_score": 0.7777184247970581,
+        "type_2_text_consistency_score": 0.2901817560195923,
+        "type_3_text_consistency_score": 0.10867255926132202
+    }
+}

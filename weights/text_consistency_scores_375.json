@@ -1,0 +1,32 @@
+{
+    "bear": {
+        "type_1_text_consistency_score": 0.7061655521392822,
+        "type_2_text_consistency_score": 0.21381251513957977,
+        "type_3_text_consistency_score": -0.10689198970794678
+    },
+    "musteline mammal, mustelid, musteline": {
+        "type_1_text_consistency_score": 0.7593640089035034,
+        "type_2_text_consistency_score": 0.17070329189300537,
+        "type_3_text_consistency_score": 0.056854844093322754
+    },
+    "procyonid": {
+        "type_1_text_consistency_score": 0.705858588218689,
+        "type_2_text_consistency_score": 0.17190520465373993,
+        "type_3_text_consistency_score": 0.048387765884399414
+    },
+    "viverrine, viverrine mammal": {
+        "type_1_text_consistency_score": 0.705858588218689,
+        "type_2_text_consistency_score": 0.08410049974918365,
+        "type_3_text_consistency_score": 0.04434853792190552
+    },
+    "canine, canid": {
+        "type_1_text_consistency_score": 0.7061655521392822,
+        "type_2_text_consistency_score": 0.13279180228710175,
+        "type_3_text_consistency_score": -0.03253769874572754
+    },
+    "feline, felid": {
+        "type_1_text_consistency_score": 0.7286241054534912,
+        "type_2_text_consistency_score": 0.22355130314826965,
+        "type_3_text_consistency_score": -0.05826270580291748
+    }
+}

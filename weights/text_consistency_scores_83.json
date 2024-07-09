@@ -1,0 +1,12 @@
+{
+    "frying pan, frypan, skillet": {
+        "type_1_text_consistency_score": 0.7729306221008301,
+        "type_2_text_consistency_score": 0.346810519695282,
+        "type_3_text_consistency_score": 0.07359439134597778
+    },
+    "wok": {
+        "type_1_text_consistency_score": 0.7729306221008301,
+        "type_2_text_consistency_score": 0.10014869272708893,
+        "type_3_text_consistency_score": -0.04512429237365723
+    }
+}

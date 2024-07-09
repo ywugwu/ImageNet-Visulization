@@ -1,0 +1,12 @@
+{
+    "winter squash": {
+        "type_1_text_consistency_score": 0.796288788318634,
+        "type_2_text_consistency_score": 0.22902771830558777,
+        "type_3_text_consistency_score": -0.1174461841583252
+    },
+    "summer squash": {
+        "type_1_text_consistency_score": 0.796288788318634,
+        "type_2_text_consistency_score": 0.21994303166866302,
+        "type_3_text_consistency_score": -0.1569763422012329
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "bassinet": {
+        "type_1_text_consistency_score": 0.6586805582046509,
+        "type_2_text_consistency_score": 0.12035027146339417,
+        "type_3_text_consistency_score": 0.07124590873718262
+    },
+    "cradle": {
+        "type_1_text_consistency_score": 0.6060479879379272,
+        "type_2_text_consistency_score": 0.09238138794898987,
+        "type_3_text_consistency_score": -0.08058607578277588
+    },
+    "crib, cot": {
+        "type_1_text_consistency_score": 0.6060479879379272,
+        "type_2_text_consistency_score": 0.2564429044723511,
+        "type_3_text_consistency_score": -0.0808064341545105
+    }
+}

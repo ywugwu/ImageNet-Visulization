@@ -1,0 +1,12 @@
+{
+    "red-backed sandpiper, dunlin, erolia alpina": {
+        "type_1_text_consistency_score": 0.9468930959701538,
+        "type_2_text_consistency_score": 0.30887898802757263,
+        "type_3_text_consistency_score": 0.1992950439453125
+    },
+    "redshank, tringa totanus": {
+        "type_1_text_consistency_score": 0.9468930959701538,
+        "type_2_text_consistency_score": 0.3242740035057068,
+        "type_3_text_consistency_score": 0.1325308084487915
+    }
+}

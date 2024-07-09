@@ -1,0 +1,22 @@
+{
+    "placental, placental mammal, eutherian, eutherian mammal": {
+        "type_1_text_consistency_score": 0.661914050579071,
+        "type_2_text_consistency_score": -0.009781524538993835,
+        "type_3_text_consistency_score": 0.12349474430084229
+    },
+    "tusker": {
+        "type_1_text_consistency_score": 0.7260703444480896,
+        "type_2_text_consistency_score": 0.05795242637395859,
+        "type_3_text_consistency_score": -0.028132498264312744
+    },
+    "prototherian": {
+        "type_1_text_consistency_score": 0.613473653793335,
+        "type_2_text_consistency_score": 0.2270451784133911,
+        "type_3_text_consistency_score": -0.06958556175231934
+    },
+    "metatherian": {
+        "type_1_text_consistency_score": 0.613473653793335,
+        "type_2_text_consistency_score": 0.07190988957881927,
+        "type_3_text_consistency_score": -0.21517544984817505
+    }
+}

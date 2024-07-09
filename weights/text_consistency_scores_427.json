@@ -1,0 +1,12 @@
+{
+    "common newt, triturus vulgaris": {
+        "type_1_text_consistency_score": 0.7178846597671509,
+        "type_2_text_consistency_score": 0.17045265436172485,
+        "type_3_text_consistency_score": 0.44019848108291626
+    },
+    "eft": {
+        "type_1_text_consistency_score": 0.7178846597671509,
+        "type_2_text_consistency_score": 0.4193902015686035,
+        "type_3_text_consistency_score": 0.13864898681640625
+    }
+}

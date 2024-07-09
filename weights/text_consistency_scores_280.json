@@ -1,0 +1,12 @@
+{
+    "cockroach, roach": {
+        "type_1_text_consistency_score": 0.8882126808166504,
+        "type_2_text_consistency_score": 0.41779154539108276,
+        "type_3_text_consistency_score": 0.15416568517684937
+    },
+    "mantis, mantid": {
+        "type_1_text_consistency_score": 0.8882126808166504,
+        "type_2_text_consistency_score": 0.25354012846946716,
+        "type_3_text_consistency_score": 0.17043733596801758
+    }
+}

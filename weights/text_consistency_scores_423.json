@@ -1,0 +1,27 @@
+{
+    "colubrid snake, colubrid": {
+        "type_1_text_consistency_score": 0.6027370095252991,
+        "type_2_text_consistency_score": 0.2223977893590927,
+        "type_3_text_consistency_score": 0.014366567134857178
+    },
+    "constrictor": {
+        "type_1_text_consistency_score": 0.5432792901992798,
+        "type_2_text_consistency_score": 0.18480707705020905,
+        "type_3_text_consistency_score": -0.01948028802871704
+    },
+    "elapid, elapid snake": {
+        "type_1_text_consistency_score": 0.6429482102394104,
+        "type_2_text_consistency_score": 0.12518242001533508,
+        "type_3_text_consistency_score": 0.023251056671142578
+    },
+    "sea snake": {
+        "type_1_text_consistency_score": 0.6091938018798828,
+        "type_2_text_consistency_score": 0.09686312079429626,
+        "type_3_text_consistency_score": 0.008330821990966797
+    },
+    "viper": {
+        "type_1_text_consistency_score": 0.5432792901992798,
+        "type_2_text_consistency_score": 0.07408205419778824,
+        "type_3_text_consistency_score": -0.07557696104049683
+    }
+}

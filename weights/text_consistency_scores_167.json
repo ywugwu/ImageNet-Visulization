@@ -1,0 +1,57 @@
+{
+    "baby bed, baby's bed": {
+        "type_1_text_consistency_score": 0.7882026433944702,
+        "type_2_text_consistency_score": 0.20404264330863953,
+        "type_3_text_consistency_score": -0.009639441967010498
+    },
+    "bedroom furniture": {
+        "type_1_text_consistency_score": 0.6705896258354187,
+        "type_2_text_consistency_score": 0.044600632041692734,
+        "type_3_text_consistency_score": -0.023578286170959473
+    },
+    "bookcase": {
+        "type_1_text_consistency_score": 0.5194389820098877,
+        "type_2_text_consistency_score": 0.10577091574668884,
+        "type_3_text_consistency_score": -0.03350532054901123
+    },
+    "cabinet": {
+        "type_1_text_consistency_score": 0.5445488095283508,
+        "type_2_text_consistency_score": -0.04758534952998161,
+        "type_3_text_consistency_score": -0.04157686233520508
+    },
+    "chest of drawers, chest, bureau, dresser": {
+        "type_1_text_consistency_score": 0.6268330812454224,
+        "type_2_text_consistency_score": -0.0885804072022438,
+        "type_3_text_consistency_score": 0.13416248559951782
+    },
+    "lamp": {
+        "type_1_text_consistency_score": 0.7348843812942505,
+        "type_2_text_consistency_score": 0.11839992552995682,
+        "type_3_text_consistency_score": 0.02283298969268799
+    },
+    "office furniture": {
+        "type_1_text_consistency_score": 0.5523033142089844,
+        "type_2_text_consistency_score": 0.3195723593235016,
+        "type_3_text_consistency_score": -0.10672962665557861
+    },
+    "seat": {
+        "type_1_text_consistency_score": 0.6359524130821228,
+        "type_2_text_consistency_score": -0.06397134065628052,
+        "type_3_text_consistency_score": -0.03791612386703491
+    },
+    "table": {
+        "type_1_text_consistency_score": 0.5523033142089844,
+        "type_2_text_consistency_score": 0.0015692412853240967,
+        "type_3_text_consistency_score": -0.003032684326171875
+    },
+    "wall unit": {
+        "type_1_text_consistency_score": 0.6338958740234375,
+        "type_2_text_consistency_score": -0.0009532049298286438,
+        "type_3_text_consistency_score": -0.11247938871383667
+    },
+    "wardrobe, closet, press": {
+        "type_1_text_consistency_score": 0.5194389820098877,
+        "type_2_text_consistency_score": 0.0035734251141548157,
+        "type_3_text_consistency_score": 0.043618857860565186
+    }
+}

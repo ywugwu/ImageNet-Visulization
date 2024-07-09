@@ -1,0 +1,32 @@
+{
+    "beer bottle": {
+        "type_1_text_consistency_score": 0.5919780731201172,
+        "type_2_text_consistency_score": 0.07989025861024857,
+        "type_3_text_consistency_score": -0.06741750240325928
+    },
+    "pop bottle, soda bottle": {
+        "type_1_text_consistency_score": 0.6327917575836182,
+        "type_2_text_consistency_score": 0.08315492421388626,
+        "type_3_text_consistency_score": -0.06161612272262573
+    },
+    "wine bottle": {
+        "type_1_text_consistency_score": 0.6154515743255615,
+        "type_2_text_consistency_score": 0.18635150790214539,
+        "type_3_text_consistency_score": -0.0572015643119812
+    },
+    "pill bottle": {
+        "type_1_text_consistency_score": 0.6396978497505188,
+        "type_2_text_consistency_score": 0.21224555373191833,
+        "type_3_text_consistency_score": -0.028435587882995605
+    },
+    "water bottle": {
+        "type_1_text_consistency_score": 0.6103004813194275,
+        "type_2_text_consistency_score": 0.20522722601890564,
+        "type_3_text_consistency_score": -0.0701403021812439
+    },
+    "jug": {
+        "type_1_text_consistency_score": 0.5919780731201172,
+        "type_2_text_consistency_score": 0.15297526121139526,
+        "type_3_text_consistency_score": -0.05561608076095581
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "beer glass": {
+        "type_1_text_consistency_score": 0.7680779099464417,
+        "type_2_text_consistency_score": 0.3084604740142822,
+        "type_3_text_consistency_score": 0.04108607769012451
+    },
+    "goblet": {
+        "type_1_text_consistency_score": 0.7680779099464417,
+        "type_2_text_consistency_score": 0.16658851504325867,
+        "type_3_text_consistency_score": 0.035669803619384766
+    }
+}

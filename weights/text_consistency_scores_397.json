@@ -1,0 +1,17 @@
+{
+    "pheasant": {
+        "type_1_text_consistency_score": 0.602423906326294,
+        "type_2_text_consistency_score": 0.19276219606399536,
+        "type_3_text_consistency_score": -0.03919780254364014
+    },
+    "quail": {
+        "type_1_text_consistency_score": 0.6556663513183594,
+        "type_2_text_consistency_score": 0.17919273674488068,
+        "type_3_text_consistency_score": -0.11234349012374878
+    },
+    "partridge": {
+        "type_1_text_consistency_score": 0.602423906326294,
+        "type_2_text_consistency_score": 0.12169349193572998,
+        "type_3_text_consistency_score": -0.16615080833435059
+    }
+}

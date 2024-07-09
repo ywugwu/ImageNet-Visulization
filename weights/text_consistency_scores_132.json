@@ -1,0 +1,12 @@
+{
+    "airplane, aeroplane, plane": {
+        "type_1_text_consistency_score": 0.5059942007064819,
+        "type_2_text_consistency_score": -0.007204998284578323,
+        "type_3_text_consistency_score": 0.017939388751983643
+    },
+    "warplane, military plane": {
+        "type_1_text_consistency_score": 0.5059942007064819,
+        "type_2_text_consistency_score": 0.21582986414432526,
+        "type_3_text_consistency_score": 0.01068425178527832
+    }
+}

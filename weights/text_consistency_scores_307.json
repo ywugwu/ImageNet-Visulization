@@ -1,0 +1,82 @@
+{
+    "wolfhound": {
+        "type_1_text_consistency_score": 0.5437085628509521,
+        "type_2_text_consistency_score": 0.16488119959831238,
+        "type_3_text_consistency_score": -0.015261352062225342
+    },
+    "scottish deerhound, deerhound": {
+        "type_1_text_consistency_score": 0.5820287466049194,
+        "type_2_text_consistency_score": 0.06023368239402771,
+        "type_3_text_consistency_score": 0.10424983501434326
+    },
+    "coonhound": {
+        "type_1_text_consistency_score": 0.46551889181137085,
+        "type_2_text_consistency_score": 0.15236832201480865,
+        "type_3_text_consistency_score": 0.02478492259979248
+    },
+    "foxhound": {
+        "type_1_text_consistency_score": 0.6012309789657593,
+        "type_2_text_consistency_score": 0.29908379912376404,
+        "type_3_text_consistency_score": -0.1451687216758728
+    },
+    "weimaraner": {
+        "type_1_text_consistency_score": 0.6183896064758301,
+        "type_2_text_consistency_score": 0.2732885777950287,
+        "type_3_text_consistency_score": 0.21682995557785034
+    },
+    "otterhound, otter hound": {
+        "type_1_text_consistency_score": 0.39600908756256104,
+        "type_2_text_consistency_score": 0.1265951246023178,
+        "type_3_text_consistency_score": 0.05012327432632446
+    },
+    "bloodhound, sleuthhound": {
+        "type_1_text_consistency_score": 0.5714931488037109,
+        "type_2_text_consistency_score": 0.18163657188415527,
+        "type_3_text_consistency_score": -0.05501580238342285
+    },
+    "norwegian elkhound, elkhound": {
+        "type_1_text_consistency_score": 0.6515814661979675,
+        "type_2_text_consistency_score": 0.34152719378471375,
+        "type_3_text_consistency_score": 0.3459557890892029
+    },
+    "saluki, gazelle hound": {
+        "type_1_text_consistency_score": 0.46136102080345154,
+        "type_2_text_consistency_score": 0.00817987322807312,
+        "type_3_text_consistency_score": 0.15087610483169556
+    },
+    "afghan hound, afghan": {
+        "type_1_text_consistency_score": 0.4341149926185608,
+        "type_2_text_consistency_score": 0.0980147197842598,
+        "type_3_text_consistency_score": 0.1456066370010376
+    },
+    "greyhound": {
+        "type_1_text_consistency_score": 0.6242819428443909,
+        "type_2_text_consistency_score": 0.3659471869468689,
+        "type_3_text_consistency_score": 0.031353116035461426
+    },
+    "beagle": {
+        "type_1_text_consistency_score": 0.5456863045692444,
+        "type_2_text_consistency_score": 0.20315133035182953,
+        "type_3_text_consistency_score": 0.01821666955947876
+    },
+    "basset, basset hound": {
+        "type_1_text_consistency_score": 0.420160710811615,
+        "type_2_text_consistency_score": 0.07633523643016815,
+        "type_3_text_consistency_score": 0.08420181274414062
+    },
+    "bluetick": {
+        "type_1_text_consistency_score": 0.6323825716972351,
+        "type_2_text_consistency_score": 0.12489902228116989,
+        "type_3_text_consistency_score": -0.04934126138687134
+    },
+    "redbone": {
+        "type_1_text_consistency_score": 0.39600908756256104,
+        "type_2_text_consistency_score": -0.052337490022182465,
+        "type_3_text_consistency_score": -0.18414700031280518
+    },
+    "ibizan hound, ibizan podenco": {
+        "type_1_text_consistency_score": 0.5684682130813599,
+        "type_2_text_consistency_score": 0.23466047644615173,
+        "type_3_text_consistency_score": 0.28840720653533936
+    }
+}

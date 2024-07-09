@@ -1,0 +1,12 @@
+{
+    "bicycle-built-for-two, tandem bicycle, tandem": {
+        "type_1_text_consistency_score": 0.9456295371055603,
+        "type_2_text_consistency_score": 0.34293225407600403,
+        "type_3_text_consistency_score": 0.1984691023826599
+    },
+    "mountain bike, all-terrain bike, off-roader": {
+        "type_1_text_consistency_score": 0.9456295371055603,
+        "type_2_text_consistency_score": 0.3180221915245056,
+        "type_3_text_consistency_score": 0.19890785217285156
+    }
+}

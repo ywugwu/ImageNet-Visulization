@@ -1,0 +1,12 @@
+{
+    "palace": {
+        "type_1_text_consistency_score": 0.7945006489753723,
+        "type_2_text_consistency_score": 0.32217755913734436,
+        "type_3_text_consistency_score": 0.0952078104019165
+    },
+    "religious residence, cloister": {
+        "type_1_text_consistency_score": 0.7945006489753723,
+        "type_2_text_consistency_score": 0.11273607611656189,
+        "type_3_text_consistency_score": 0.1260787844657898
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "dungeness crab, cancer magister": {
+        "type_1_text_consistency_score": 0.9002814888954163,
+        "type_2_text_consistency_score": 0.13475365936756134,
+        "type_3_text_consistency_score": -0.03597116470336914
+    },
+    "rock crab, cancer irroratus": {
+        "type_1_text_consistency_score": 0.8951396942138672,
+        "type_2_text_consistency_score": 0.32147812843322754,
+        "type_3_text_consistency_score": -0.0293542742729187
+    },
+    "fiddler crab": {
+        "type_1_text_consistency_score": 0.8951396942138672,
+        "type_2_text_consistency_score": 0.129473477602005,
+        "type_3_text_consistency_score": 0.05706697702407837
+    },
+    "king crab, alaska crab, alaskan king crab, alaska king crab, paralithodes camtschatica": {
+        "type_1_text_consistency_score": 0.909317672252655,
+        "type_2_text_consistency_score": 0.22302532196044922,
+        "type_3_text_consistency_score": 0.17200177907943726
+    }
+}

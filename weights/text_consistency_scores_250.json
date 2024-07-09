@@ -1,0 +1,12 @@
+{
+    "kimono": {
+        "type_1_text_consistency_score": 0.7850920557975769,
+        "type_2_text_consistency_score": 0.17650772631168365,
+        "type_3_text_consistency_score": 0.01197659969329834
+    },
+    "abaya": {
+        "type_1_text_consistency_score": 0.7850920557975769,
+        "type_2_text_consistency_score": 0.3743332624435425,
+        "type_3_text_consistency_score": -0.015871882438659668
+    }
+}

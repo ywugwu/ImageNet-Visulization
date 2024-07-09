@@ -1,0 +1,32 @@
+{
+    "power tool": {
+        "type_1_text_consistency_score": 0.8010666966438293,
+        "type_2_text_consistency_score": 0.21812930703163147,
+        "type_3_text_consistency_score": 0.04304105043411255
+    },
+    "calculator, calculating machine": {
+        "type_1_text_consistency_score": 0.8337783217430115,
+        "type_2_text_consistency_score": 0.09953369200229645,
+        "type_3_text_consistency_score": 0.11875748634338379
+    },
+    "cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, atm": {
+        "type_1_text_consistency_score": 0.7602607011795044,
+        "type_2_text_consistency_score": 0.18964242935180664,
+        "type_3_text_consistency_score": 0.13463741540908813
+    },
+    "computer, computing machine, computing device, data processor, electronic computer, information processing system": {
+        "type_1_text_consistency_score": 0.8377479910850525,
+        "type_2_text_consistency_score": 0.33476847410202026,
+        "type_3_text_consistency_score": 0.16715550422668457
+    },
+    "farm machine": {
+        "type_1_text_consistency_score": 0.7850005626678467,
+        "type_2_text_consistency_score": 0.11395462602376938,
+        "type_3_text_consistency_score": 0.036432862281799316
+    },
+    "slot machine, coin machine": {
+        "type_1_text_consistency_score": 0.7602607011795044,
+        "type_2_text_consistency_score": 0.10966284573078156,
+        "type_3_text_consistency_score": -0.039940059185028076
+    }
+}

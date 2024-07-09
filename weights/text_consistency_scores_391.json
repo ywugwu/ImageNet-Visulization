@@ -1,0 +1,27 @@
+{
+    "brambling, fringilla montifringilla": {
+        "type_1_text_consistency_score": 0.6948338150978088,
+        "type_2_text_consistency_score": 0.22370396554470062,
+        "type_3_text_consistency_score": 0.2847059369087219
+    },
+    "goldfinch, carduelis carduelis": {
+        "type_1_text_consistency_score": 0.6582103967666626,
+        "type_2_text_consistency_score": 0.17316897213459015,
+        "type_3_text_consistency_score": 0.1712888479232788
+    },
+    "house finch, linnet, carpodacus mexicanus": {
+        "type_1_text_consistency_score": 0.6792302131652832,
+        "type_2_text_consistency_score": 0.19763924181461334,
+        "type_3_text_consistency_score": 0.23039811849594116
+    },
+    "junco, snowbird": {
+        "type_1_text_consistency_score": 0.7299917936325073,
+        "type_2_text_consistency_score": 0.28771454095840454,
+        "type_3_text_consistency_score": 0.1288914680480957
+    },
+    "bunting": {
+        "type_1_text_consistency_score": 0.6582103967666626,
+        "type_2_text_consistency_score": 0.3302513360977173,
+        "type_3_text_consistency_score": 0.09162008762359619
+    }
+}

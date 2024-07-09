@@ -1,0 +1,12 @@
+{
+    "petri dish": {
+        "type_1_text_consistency_score": 0.8054578900337219,
+        "type_2_text_consistency_score": 0.16897663474082947,
+        "type_3_text_consistency_score": 0.07114803791046143
+    },
+    "bowl": {
+        "type_1_text_consistency_score": 0.8054578900337219,
+        "type_2_text_consistency_score": 0.33576154708862305,
+        "type_3_text_consistency_score": 0.07012939453125
+    }
+}

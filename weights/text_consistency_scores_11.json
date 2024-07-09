@@ -1,0 +1,27 @@
+{
+    "cliff, drop, drop-off": {
+        "type_1_text_consistency_score": 0.6466420292854309,
+        "type_2_text_consistency_score": -0.030124850571155548,
+        "type_3_text_consistency_score": -0.012622654438018799
+    },
+    "natural depression, depression": {
+        "type_1_text_consistency_score": 0.8191066980361938,
+        "type_2_text_consistency_score": 0.4742971360683441,
+        "type_3_text_consistency_score": 0.005977511405944824
+    },
+    "natural elevation, elevation": {
+        "type_1_text_consistency_score": 0.6466420292854309,
+        "type_2_text_consistency_score": -0.037913184612989426,
+        "type_3_text_consistency_score": 0.009653866291046143
+    },
+    "shore": {
+        "type_1_text_consistency_score": 0.7086814641952515,
+        "type_2_text_consistency_score": 0.007726527750492096,
+        "type_3_text_consistency_score": -0.06465291976928711
+    },
+    "spring, fountain, outflow, outpouring, natural spring": {
+        "type_1_text_consistency_score": 0.7880354523658752,
+        "type_2_text_consistency_score": 0.017405733466148376,
+        "type_3_text_consistency_score": 0.1908092498779297
+    }
+}

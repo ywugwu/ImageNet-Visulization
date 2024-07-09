@@ -1,0 +1,32 @@
+{
+    "carton": {
+        "type_1_text_consistency_score": 0.6814388632774353,
+        "type_2_text_consistency_score": 0.2215072512626648,
+        "type_3_text_consistency_score": -0.042343199253082275
+    },
+    "chest": {
+        "type_1_text_consistency_score": 0.7458476424217224,
+        "type_2_text_consistency_score": 0.20761767029762268,
+        "type_3_text_consistency_score": -0.01941680908203125
+    },
+    "strongbox, deedbox": {
+        "type_1_text_consistency_score": 0.7210140824317932,
+        "type_2_text_consistency_score": 0.19782590866088867,
+        "type_3_text_consistency_score": 0.02580440044403076
+    },
+    "pencil box, pencil case": {
+        "type_1_text_consistency_score": 0.755446195602417,
+        "type_2_text_consistency_score": 0.22071434557437897,
+        "type_3_text_consistency_score": 0.12194859981536865
+    },
+    "crate": {
+        "type_1_text_consistency_score": 0.6814388632774353,
+        "type_2_text_consistency_score": 0.14885751903057098,
+        "type_3_text_consistency_score": -0.07166659832000732
+    },
+    "mailbox, letter box": {
+        "type_1_text_consistency_score": 0.7140024304389954,
+        "type_2_text_consistency_score": 0.2726469933986664,
+        "type_3_text_consistency_score": -0.0003451704978942871
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "dressing, medical dressing": {
+        "type_1_text_consistency_score": 0.8846592903137207,
+        "type_2_text_consistency_score": 0.23849326372146606,
+        "type_3_text_consistency_score": 0.08679240942001343
+    },
+    "bedclothes, bed clothing, bedding": {
+        "type_1_text_consistency_score": 0.8846592903137207,
+        "type_2_text_consistency_score": 0.2954614460468292,
+        "type_3_text_consistency_score": 0.146193265914917
+    }
+}

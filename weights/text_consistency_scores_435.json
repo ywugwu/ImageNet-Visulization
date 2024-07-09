@@ -1,0 +1,12 @@
+{
+    "tench, tinca tinca": {
+        "type_1_text_consistency_score": 0.8146239519119263,
+        "type_2_text_consistency_score": 0.5112149715423584,
+        "type_3_text_consistency_score": 0.2034822702407837
+    },
+    "goldfish, carassius auratus": {
+        "type_1_text_consistency_score": 0.8146239519119263,
+        "type_2_text_consistency_score": 0.14899931848049164,
+        "type_3_text_consistency_score": 0.31786519289016724
+    }
+}

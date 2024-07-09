@@ -1,0 +1,107 @@
+{
+    "menu": {
+        "type_1_text_consistency_score": 0.6539367437362671,
+        "type_2_text_consistency_score": 0.14089949429035187,
+        "type_3_text_consistency_score": -0.012831032276153564
+    },
+    "carbonara": {
+        "type_1_text_consistency_score": 0.7186952829360962,
+        "type_2_text_consistency_score": 0.14472879469394684,
+        "type_3_text_consistency_score": 0.0501478910446167
+    },
+    "bubble": {
+        "type_1_text_consistency_score": 0.46664220094680786,
+        "type_2_text_consistency_score": -0.023675117641687393,
+        "type_3_text_consistency_score": -0.1485922932624817
+    },
+    "pretzel": {
+        "type_1_text_consistency_score": 0.5877212882041931,
+        "type_2_text_consistency_score": 0.05559851974248886,
+        "type_3_text_consistency_score": -0.1449078917503357
+    },
+    "street sign": {
+        "type_1_text_consistency_score": 0.6306139826774597,
+        "type_2_text_consistency_score": 0.07587467133998871,
+        "type_3_text_consistency_score": 0.04239988327026367
+    },
+    "toilet tissue, toilet paper, bathroom tissue": {
+        "type_1_text_consistency_score": 0.5249699950218201,
+        "type_2_text_consistency_score": -0.028848379850387573,
+        "type_3_text_consistency_score": 0.13025206327438354
+    },
+    "french loaf": {
+        "type_1_text_consistency_score": 0.5728759169578552,
+        "type_2_text_consistency_score": 0.018511474132537842,
+        "type_3_text_consistency_score": -0.025685667991638184
+    },
+    "traffic light, traffic signal, stoplight": {
+        "type_1_text_consistency_score": 0.6615040898323059,
+        "type_2_text_consistency_score": 0.07168138772249222,
+        "type_3_text_consistency_score": 0.16077733039855957
+    },
+    "bun, roll": {
+        "type_1_text_consistency_score": 0.5768907070159912,
+        "type_2_text_consistency_score": -0.041560202836990356,
+        "type_3_text_consistency_score": -0.048613011837005615
+    },
+    "sauce": {
+        "type_1_text_consistency_score": 0.4816116690635681,
+        "type_2_text_consistency_score": -0.08958898484706879,
+        "type_3_text_consistency_score": -0.09061563014984131
+    },
+    "dip": {
+        "type_1_text_consistency_score": 0.4816116690635681,
+        "type_2_text_consistency_score": 0.005651451647281647,
+        "type_3_text_consistency_score": -0.11411184072494507
+    },
+    "feed, provender": {
+        "type_1_text_consistency_score": 0.5605273842811584,
+        "type_2_text_consistency_score": -0.1023644208908081,
+        "type_3_text_consistency_score": -0.044283390045166016
+    },
+    "sandwich": {
+        "type_1_text_consistency_score": 0.6316419839859009,
+        "type_2_text_consistency_score": 0.0468304306268692,
+        "type_3_text_consistency_score": -0.04987025260925293
+    },
+    "foodstuff, food product": {
+        "type_1_text_consistency_score": 0.5085617899894714,
+        "type_2_text_consistency_score": 0.21697109937667847,
+        "type_3_text_consistency_score": -0.028338909149169922
+    },
+    "nutriment, nourishment, nutrition, sustenance, aliment, alimentation, victuals": {
+        "type_1_text_consistency_score": 0.5147157907485962,
+        "type_2_text_consistency_score": 0.004893727600574493,
+        "type_3_text_consistency_score": 0.06494569778442383
+    },
+    "geological formation, formation": {
+        "type_1_text_consistency_score": 0.5673229694366455,
+        "type_2_text_consistency_score": 0.01700468361377716,
+        "type_3_text_consistency_score": 0.10860657691955566
+    },
+    "beverage, drink, drinkable, potable": {
+        "type_1_text_consistency_score": 0.5206153988838196,
+        "type_2_text_consistency_score": 0.1339164674282074,
+        "type_3_text_consistency_score": -0.008032441139221191
+    },
+    "vegetable, veggie, veg": {
+        "type_1_text_consistency_score": 0.5712757110595703,
+        "type_2_text_consistency_score": -0.029217064380645752,
+        "type_3_text_consistency_score": 0.01875060796737671
+    },
+    "natural object": {
+        "type_1_text_consistency_score": 0.46664220094680786,
+        "type_2_text_consistency_score": 0.1315305531024933,
+        "type_3_text_consistency_score": -0.00048536062240600586
+    },
+    "artifact, artefact": {
+        "type_1_text_consistency_score": 0.5543407797813416,
+        "type_2_text_consistency_score": 0.1244041696190834,
+        "type_3_text_consistency_score": 0.009101808071136475
+    },
+    "organism, being": {
+        "type_1_text_consistency_score": 0.5504496693611145,
+        "type_2_text_consistency_score": 0.13675786554813385,
+        "type_3_text_consistency_score": 0.03044438362121582
+    }
+}

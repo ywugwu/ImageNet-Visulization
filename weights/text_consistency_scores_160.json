@@ -1,0 +1,12 @@
+{
+    "train, railroad train": {
+        "type_1_text_consistency_score": 0.8787629008293152,
+        "type_2_text_consistency_score": 0.2233085036277771,
+        "type_3_text_consistency_score": 0.1010134220123291
+    },
+    "bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle": {
+        "type_1_text_consistency_score": 0.8787629008293152,
+        "type_2_text_consistency_score": 0.2692781090736389,
+        "type_3_text_consistency_score": 0.19394075870513916
+    }
+}

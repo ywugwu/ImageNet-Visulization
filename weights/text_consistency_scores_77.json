@@ -1,0 +1,12 @@
+{
+    "cleaver, meat cleaver, chopper": {
+        "type_1_text_consistency_score": 0.8379455804824829,
+        "type_2_text_consistency_score": 0.17760899662971497,
+        "type_3_text_consistency_score": 0.07448822259902954
+    },
+    "letter opener, paper knife, paperknife": {
+        "type_1_text_consistency_score": 0.8379455804824829,
+        "type_2_text_consistency_score": 0.36719322204589844,
+        "type_3_text_consistency_score": 0.1774628758430481
+    }
+}

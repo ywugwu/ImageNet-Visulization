@@ -1,0 +1,17 @@
+{
+    "starfish, sea star": {
+        "type_1_text_consistency_score": 0.9181302785873413,
+        "type_2_text_consistency_score": 0.3593393862247467,
+        "type_3_text_consistency_score": 0.08256793022155762
+    },
+    "sea urchin": {
+        "type_1_text_consistency_score": 0.8847110867500305,
+        "type_2_text_consistency_score": 0.3038727045059204,
+        "type_3_text_consistency_score": 0.006703734397888184
+    },
+    "sea cucumber, holothurian": {
+        "type_1_text_consistency_score": 0.8847110867500305,
+        "type_2_text_consistency_score": 0.29609352350234985,
+        "type_3_text_consistency_score": 0.1397418975830078
+    }
+}

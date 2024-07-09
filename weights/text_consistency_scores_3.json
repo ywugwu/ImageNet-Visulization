@@ -1,0 +1,12 @@
+{
+    "ice lolly, lolly, lollipop, popsicle": {
+        "type_1_text_consistency_score": 0.8324522972106934,
+        "type_2_text_consistency_score": 0.18894007802009583,
+        "type_3_text_consistency_score": 0.04393172264099121
+    },
+    "ice cream, icecream": {
+        "type_1_text_consistency_score": 0.8324522972106934,
+        "type_2_text_consistency_score": 0.262742817401886,
+        "type_3_text_consistency_score": 0.03767740726470947
+    }
+}

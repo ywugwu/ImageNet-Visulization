@@ -1,0 +1,17 @@
+{
+    "church, church building": {
+        "type_1_text_consistency_score": 0.773815929889679,
+        "type_2_text_consistency_score": 0.28632649779319763,
+        "type_3_text_consistency_score": -0.07773983478546143
+    },
+    "mosque": {
+        "type_1_text_consistency_score": 0.7694034576416016,
+        "type_2_text_consistency_score": 0.17465204000473022,
+        "type_3_text_consistency_score": -0.04254108667373657
+    },
+    "shrine": {
+        "type_1_text_consistency_score": 0.7694034576416016,
+        "type_2_text_consistency_score": 0.16225537657737732,
+        "type_3_text_consistency_score": -0.018240809440612793
+    }
+}

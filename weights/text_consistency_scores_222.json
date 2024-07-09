@@ -1,0 +1,22 @@
+{
+    "tile roof": {
+        "type_1_text_consistency_score": 0.739812970161438,
+        "type_2_text_consistency_score": 0.21187573671340942,
+        "type_3_text_consistency_score": 0.1341766119003296
+    },
+    "dome": {
+        "type_1_text_consistency_score": 0.7235920429229736,
+        "type_2_text_consistency_score": 0.28850793838500977,
+        "type_3_text_consistency_score": 0.00870448350906372
+    },
+    "thatch, thatched roof": {
+        "type_1_text_consistency_score": 0.7623113393783569,
+        "type_2_text_consistency_score": 0.1483078896999359,
+        "type_3_text_consistency_score": 0.04438573122024536
+    },
+    "vault": {
+        "type_1_text_consistency_score": 0.7235920429229736,
+        "type_2_text_consistency_score": 0.22292667627334595,
+        "type_3_text_consistency_score": -0.021335065364837646
+    }
+}

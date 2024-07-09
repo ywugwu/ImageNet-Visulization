@@ -1,0 +1,17 @@
+{
+    "swimming trunks, bathing trunks": {
+        "type_1_text_consistency_score": 0.8043447136878967,
+        "type_2_text_consistency_score": 0.3060852289199829,
+        "type_3_text_consistency_score": 0.08321142196655273
+    },
+    "maillot, tank suit": {
+        "type_1_text_consistency_score": 0.8617031574249268,
+        "type_2_text_consistency_score": 0.34285208582878113,
+        "type_3_text_consistency_score": 0.13470429182052612
+    },
+    "bikini, two-piece": {
+        "type_1_text_consistency_score": 0.8043447136878967,
+        "type_2_text_consistency_score": 0.15616440773010254,
+        "type_3_text_consistency_score": 0.07314646244049072
+    }
+}

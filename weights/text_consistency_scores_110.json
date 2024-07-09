@@ -1,0 +1,12 @@
+{
+    "whiskey jug": {
+        "type_1_text_consistency_score": 0.4674767851829529,
+        "type_2_text_consistency_score": -0.08642417937517166,
+        "type_3_text_consistency_score": -0.054304301738739014
+    },
+    "water jug": {
+        "type_1_text_consistency_score": 0.4674767851829529,
+        "type_2_text_consistency_score": 0.2733455002307892,
+        "type_3_text_consistency_score": 0.034133851528167725
+    }
+}

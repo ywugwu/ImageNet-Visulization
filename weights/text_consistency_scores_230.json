@@ -1,0 +1,17 @@
+{
+    "birdhouse": {
+        "type_1_text_consistency_score": 0.6012467741966248,
+        "type_2_text_consistency_score": 0.25916922092437744,
+        "type_3_text_consistency_score": 0.024028658866882324
+    },
+    "bell cote, bell cot": {
+        "type_1_text_consistency_score": 0.6012467741966248,
+        "type_2_text_consistency_score": 0.11096179485321045,
+        "type_3_text_consistency_score": 0.08618342876434326
+    },
+    "canopy": {
+        "type_1_text_consistency_score": 0.6328545808792114,
+        "type_2_text_consistency_score": 0.3039129078388214,
+        "type_3_text_consistency_score": 0.04244321584701538
+    }
+}

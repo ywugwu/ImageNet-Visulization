@@ -1,0 +1,12 @@
+{
+    "airship, dirigible": {
+        "type_1_text_consistency_score": 0.8531816005706787,
+        "type_2_text_consistency_score": 0.13138537108898163,
+        "type_3_text_consistency_score": 0.1510077714920044
+    },
+    "balloon": {
+        "type_1_text_consistency_score": 0.8531816005706787,
+        "type_2_text_consistency_score": 0.3987727165222168,
+        "type_3_text_consistency_score": 0.06100267171859741
+    }
+}

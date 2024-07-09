@@ -1,0 +1,12 @@
+{
+    "horned viper, cerastes, sand viper, horned asp, cerastes cornutus": {
+        "type_1_text_consistency_score": 0.8167258501052856,
+        "type_2_text_consistency_score": 0.19044966995716095,
+        "type_3_text_consistency_score": 0.21278434991836548
+    },
+    "pit viper": {
+        "type_1_text_consistency_score": 0.8167258501052856,
+        "type_2_text_consistency_score": 0.3610992133617401,
+        "type_3_text_consistency_score": 0.06529498100280762
+    }
+}

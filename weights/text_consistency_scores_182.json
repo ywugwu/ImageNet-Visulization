@@ -1,0 +1,12 @@
+{
+    "institution": {
+        "type_1_text_consistency_score": 0.649079442024231,
+        "type_2_text_consistency_score": -0.09089694917201996,
+        "type_3_text_consistency_score": -0.022145509719848633
+    },
+    "place of business, business establishment": {
+        "type_1_text_consistency_score": 0.649079442024231,
+        "type_2_text_consistency_score": 0.3151548504829407,
+        "type_3_text_consistency_score": 0.04305833578109741
+    }
+}

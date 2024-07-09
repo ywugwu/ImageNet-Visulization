@@ -1,0 +1,27 @@
+{
+    "fireboat": {
+        "type_1_text_consistency_score": 0.8515588045120239,
+        "type_2_text_consistency_score": 0.06116241216659546,
+        "type_3_text_consistency_score": 0.028102517127990723
+    },
+    "gondola": {
+        "type_1_text_consistency_score": 0.8332939743995667,
+        "type_2_text_consistency_score": 0.10890047252178192,
+        "type_3_text_consistency_score": -0.04316365718841553
+    },
+    "motorboat, powerboat": {
+        "type_1_text_consistency_score": 0.7394962310791016,
+        "type_2_text_consistency_score": 0.006599314510822296,
+        "type_3_text_consistency_score": 0.02008873224258423
+    },
+    "sea boat": {
+        "type_1_text_consistency_score": 0.5410869121551514,
+        "type_2_text_consistency_score": 0.18880806863307953,
+        "type_3_text_consistency_score": -0.07452982664108276
+    },
+    "small boat": {
+        "type_1_text_consistency_score": 0.5410869121551514,
+        "type_2_text_consistency_score": 0.0006075240671634674,
+        "type_3_text_consistency_score": -0.07599532604217529
+    }
+}

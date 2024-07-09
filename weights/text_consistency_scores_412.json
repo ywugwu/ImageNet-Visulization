@@ -1,0 +1,12 @@
+{
+    "loggerhead, loggerhead turtle, caretta caretta": {
+        "type_1_text_consistency_score": 0.8845857381820679,
+        "type_2_text_consistency_score": 0.3137121796607971,
+        "type_3_text_consistency_score": 0.08764666318893433
+    },
+    "leatherback turtle, leatherback, leathery turtle, dermochelys coriacea": {
+        "type_1_text_consistency_score": 0.8845857381820679,
+        "type_2_text_consistency_score": 0.28915804624557495,
+        "type_3_text_consistency_score": 0.15541571378707886
+    }
+}

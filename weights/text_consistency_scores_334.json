@@ -1,0 +1,22 @@
+{
+    "brown bear, bruin, ursus arctos": {
+        "type_1_text_consistency_score": 0.851177453994751,
+        "type_2_text_consistency_score": 0.17709194123744965,
+        "type_3_text_consistency_score": 0.009317517280578613
+    },
+    "ice bear, polar bear, ursus maritimus, thalarctos maritimus": {
+        "type_1_text_consistency_score": 0.9027408361434937,
+        "type_2_text_consistency_score": 0.3454422056674957,
+        "type_3_text_consistency_score": 0.12872695922851562
+    },
+    "american black bear, black bear, ursus americanus, euarctos americanus": {
+        "type_1_text_consistency_score": 0.8530969023704529,
+        "type_2_text_consistency_score": 0.21818317472934723,
+        "type_3_text_consistency_score": 0.1088099479675293
+    },
+    "sloth bear, melursus ursinus, ursus ursinus": {
+        "type_1_text_consistency_score": 0.851177453994751,
+        "type_2_text_consistency_score": 0.045992933213710785,
+        "type_3_text_consistency_score": 0.05578505992889404
+    }
+}

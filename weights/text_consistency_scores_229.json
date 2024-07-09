@@ -1,0 +1,12 @@
+{
+    "holster": {
+        "type_1_text_consistency_score": 0.772682785987854,
+        "type_2_text_consistency_score": 0.28689152002334595,
+        "type_3_text_consistency_score": -0.011689186096191406
+    },
+    "scabbard": {
+        "type_1_text_consistency_score": 0.772682785987854,
+        "type_2_text_consistency_score": 0.20903313159942627,
+        "type_3_text_consistency_score": 0.0516398549079895
+    }
+}

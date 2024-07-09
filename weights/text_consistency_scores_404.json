@@ -1,0 +1,12 @@
+{
+    "white stork, ciconia ciconia": {
+        "type_1_text_consistency_score": 0.9198323488235474,
+        "type_2_text_consistency_score": 0.3924228549003601,
+        "type_3_text_consistency_score": 0.14466679096221924
+    },
+    "black stork, ciconia nigra": {
+        "type_1_text_consistency_score": 0.9198323488235474,
+        "type_2_text_consistency_score": 0.17966458201408386,
+        "type_3_text_consistency_score": 0.14190685749053955
+    }
+}

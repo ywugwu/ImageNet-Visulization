@@ -1,0 +1,17 @@
+{
+    "gazelle": {
+        "type_1_text_consistency_score": 0.668698251247406,
+        "type_2_text_consistency_score": 0.22670982778072357,
+        "type_3_text_consistency_score": 0.0127219557762146
+    },
+    "impala, aepyceros melampus": {
+        "type_1_text_consistency_score": 0.668698251247406,
+        "type_2_text_consistency_score": 0.25035983324050903,
+        "type_3_text_consistency_score": 0.13521790504455566
+    },
+    "hartebeest": {
+        "type_1_text_consistency_score": 0.7657066583633423,
+        "type_2_text_consistency_score": 0.32020363211631775,
+        "type_3_text_consistency_score": 0.08487474918365479
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "mask": {
+        "type_1_text_consistency_score": 0.65440434217453,
+        "type_2_text_consistency_score": 0.10712209343910217,
+        "type_3_text_consistency_score": -0.07356405258178711
+    },
+    "cloak": {
+        "type_1_text_consistency_score": 0.660723090171814,
+        "type_2_text_consistency_score": -0.027179814875125885,
+        "type_3_text_consistency_score": -0.07892680168151855
+    },
+    "wrapping, wrap, wrapper": {
+        "type_1_text_consistency_score": 0.6447780728340149,
+        "type_2_text_consistency_score": 0.06600779294967651,
+        "type_3_text_consistency_score": 0.03831905126571655
+    },
+    "screen, cover, covert, concealment": {
+        "type_1_text_consistency_score": 0.568120002746582,
+        "type_2_text_consistency_score": 0.07079087197780609,
+        "type_3_text_consistency_score": 0.0009745955467224121
+    },
+    "footwear, footgear": {
+        "type_1_text_consistency_score": 0.7701154947280884,
+        "type_2_text_consistency_score": -0.018457531929016113,
+        "type_3_text_consistency_score": 0.07755023241043091
+    },
+    "cloth covering": {
+        "type_1_text_consistency_score": 0.6162533760070801,
+        "type_2_text_consistency_score": 0.0036020278930664062,
+        "type_3_text_consistency_score": 0.006991028785705566
+    },
+    "floor cover, floor covering": {
+        "type_1_text_consistency_score": 0.7610234022140503,
+        "type_2_text_consistency_score": 0.06084717810153961,
+        "type_3_text_consistency_score": 0.08645915985107422
+    },
+    "clothing, article of clothing, vesture, wear, wearable, habiliment": {
+        "type_1_text_consistency_score": 0.7405386567115784,
+        "type_2_text_consistency_score": 0.4155840575695038,
+        "type_3_text_consistency_score": 0.17648380994796753
+    },
+    "protective covering, protective cover, protection": {
+        "type_1_text_consistency_score": 0.5217359066009521,
+        "type_2_text_consistency_score": 0.12433438748121262,
+        "type_3_text_consistency_score": 0.05399829149246216
+    },
+    "top, cover": {
+        "type_1_text_consistency_score": 0.5217359066009521,
+        "type_2_text_consistency_score": 0.01487637311220169,
+        "type_3_text_consistency_score": -0.06724894046783447
+    }
+}

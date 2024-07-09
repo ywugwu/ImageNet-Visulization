@@ -1,0 +1,12 @@
+{
+    "bobsled, bobsleigh, bob": {
+        "type_1_text_consistency_score": 0.8645525574684143,
+        "type_2_text_consistency_score": 0.3997395932674408,
+        "type_3_text_consistency_score": 0.039795637130737305
+    },
+    "dogsled, dog sled, dog sleigh": {
+        "type_1_text_consistency_score": 0.8645525574684143,
+        "type_2_text_consistency_score": 0.22682949900627136,
+        "type_3_text_consistency_score": 0.09787195920944214
+    }
+}

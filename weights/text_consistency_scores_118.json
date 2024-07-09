@@ -1,0 +1,12 @@
+{
+    "barbell": {
+        "type_1_text_consistency_score": 0.8132597804069519,
+        "type_2_text_consistency_score": 0.2353653907775879,
+        "type_3_text_consistency_score": -0.11825066804885864
+    },
+    "dumbbell": {
+        "type_1_text_consistency_score": 0.8132597804069519,
+        "type_2_text_consistency_score": 0.23400546610355377,
+        "type_3_text_consistency_score": -0.15778392553329468
+    }
+}

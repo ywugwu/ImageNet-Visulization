@@ -1,0 +1,12 @@
+{
+    "lesser panda, red panda, panda, bear cat, cat bear, ailurus fulgens": {
+        "type_1_text_consistency_score": 0.946819543838501,
+        "type_2_text_consistency_score": 0.10961458086967468,
+        "type_3_text_consistency_score": 0.1840776801109314
+    },
+    "giant panda, panda, panda bear, coon bear, ailuropoda melanoleuca": {
+        "type_1_text_consistency_score": 0.946819543838501,
+        "type_2_text_consistency_score": 0.4784387946128845,
+        "type_3_text_consistency_score": 0.17880874872207642
+    }
+}

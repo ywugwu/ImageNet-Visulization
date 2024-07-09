@@ -1,0 +1,22 @@
+{
+    "sporting dog, gun dog": {
+        "type_1_text_consistency_score": 0.6781567931175232,
+        "type_2_text_consistency_score": 0.04162795841693878,
+        "type_3_text_consistency_score": 0.12556296586990356
+    },
+    "terrier": {
+        "type_1_text_consistency_score": 0.6781567931175232,
+        "type_2_text_consistency_score": 0.30561089515686035,
+        "type_3_text_consistency_score": 0.011881589889526367
+    },
+    "hound, hound dog": {
+        "type_1_text_consistency_score": 0.7525860071182251,
+        "type_2_text_consistency_score": 0.2447720617055893,
+        "type_3_text_consistency_score": 0.06781566143035889
+    },
+    "rhodesian ridgeback": {
+        "type_1_text_consistency_score": 0.8956105709075928,
+        "type_2_text_consistency_score": 0.16663190722465515,
+        "type_3_text_consistency_score": 0.30105745792388916
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "phalanger, opossum, possum": {
+        "type_1_text_consistency_score": 0.8523291349411011,
+        "type_2_text_consistency_score": 0.2951013743877411,
+        "type_3_text_consistency_score": 0.16017568111419678
+    },
+    "kangaroo": {
+        "type_1_text_consistency_score": 0.8592684268951416,
+        "type_2_text_consistency_score": 0.3788982033729553,
+        "type_3_text_consistency_score": 0.020285308361053467
+    },
+    "wombat": {
+        "type_1_text_consistency_score": 0.8523291349411011,
+        "type_2_text_consistency_score": 0.27979424595832825,
+        "type_3_text_consistency_score": 0.06844437122344971
+    }
+}

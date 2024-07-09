@@ -1,0 +1,27 @@
+{
+    "finch": {
+        "type_1_text_consistency_score": 0.5222494602203369,
+        "type_2_text_consistency_score": -0.03140340745449066,
+        "type_3_text_consistency_score": -0.23527300357818604
+    },
+    "thrush": {
+        "type_1_text_consistency_score": 0.5521533489227295,
+        "type_2_text_consistency_score": 0.027158547192811966,
+        "type_3_text_consistency_score": -0.15898913145065308
+    },
+    "corvine bird": {
+        "type_1_text_consistency_score": 0.5222494602203369,
+        "type_2_text_consistency_score": 0.34543848037719727,
+        "type_3_text_consistency_score": 0.0189211368560791
+    },
+    "titmouse, tit": {
+        "type_1_text_consistency_score": 0.6632866859436035,
+        "type_2_text_consistency_score": 0.06121346354484558,
+        "type_3_text_consistency_score": 0.017095506191253662
+    },
+    "water ouzel, dipper": {
+        "type_1_text_consistency_score": 0.5521533489227295,
+        "type_2_text_consistency_score": -0.0026752054691314697,
+        "type_3_text_consistency_score": 0.3671601414680481
+    }
+}

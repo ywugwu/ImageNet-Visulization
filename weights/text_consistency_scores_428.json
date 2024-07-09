@@ -1,0 +1,12 @@
+{
+    "spotted salamander, ambystoma maculatum": {
+        "type_1_text_consistency_score": 0.9740679264068604,
+        "type_2_text_consistency_score": 0.21636193990707397,
+        "type_3_text_consistency_score": 0.17792391777038574
+    },
+    "axolotl, mud puppy, ambystoma mexicanum": {
+        "type_1_text_consistency_score": 0.9740679264068604,
+        "type_2_text_consistency_score": 0.42127755284309387,
+        "type_3_text_consistency_score": 0.1610613465309143
+    }
+}

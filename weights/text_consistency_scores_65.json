@@ -1,0 +1,22 @@
+{
+    "car wheel": {
+        "type_1_text_consistency_score": 0.5615067481994629,
+        "type_2_text_consistency_score": 0.22416475415229797,
+        "type_3_text_consistency_score": -0.008990645408630371
+    },
+    "paddlewheel, paddle wheel": {
+        "type_1_text_consistency_score": 0.6368045806884766,
+        "type_2_text_consistency_score": 0.044164109975099564,
+        "type_3_text_consistency_score": 0.19828343391418457
+    },
+    "pinwheel": {
+        "type_1_text_consistency_score": 0.5549931526184082,
+        "type_2_text_consistency_score": 0.1500338912010193,
+        "type_3_text_consistency_score": -0.010573208332061768
+    },
+    "potter's wheel": {
+        "type_1_text_consistency_score": 0.5549931526184082,
+        "type_2_text_consistency_score": 0.12944228947162628,
+        "type_3_text_consistency_score": -0.07676011323928833
+    }
+}

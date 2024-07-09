@@ -1,0 +1,12 @@
+{
+    "odd-toed ungulate, perissodactyl, perissodactyl mammal": {
+        "type_1_text_consistency_score": 0.844768226146698,
+        "type_2_text_consistency_score": 0.05890362337231636,
+        "type_3_text_consistency_score": 0.05496948957443237
+    },
+    "even-toed ungulate, artiodactyl, artiodactyl mammal": {
+        "type_1_text_consistency_score": 0.844768226146698,
+        "type_2_text_consistency_score": 0.3193119764328003,
+        "type_3_text_consistency_score": 0.029038190841674805
+    }
+}

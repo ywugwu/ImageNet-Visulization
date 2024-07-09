@@ -1,0 +1,32 @@
+{
+    "nymphalid, nymphalid butterfly, brush-footed butterfly, four-footed butterfly": {
+        "type_1_text_consistency_score": 0.6781793236732483,
+        "type_2_text_consistency_score": 0.0039776042103767395,
+        "type_3_text_consistency_score": 0.07785844802856445
+    },
+    "ringlet, ringlet butterfly": {
+        "type_1_text_consistency_score": 0.9009135961532593,
+        "type_2_text_consistency_score": 0.13191525638103485,
+        "type_3_text_consistency_score": 0.16094368696212769
+    },
+    "danaid, danaid butterfly": {
+        "type_1_text_consistency_score": 0.776060938835144,
+        "type_2_text_consistency_score": 0.08752405643463135,
+        "type_3_text_consistency_score": -0.08740222454071045
+    },
+    "pierid, pierid butterfly": {
+        "type_1_text_consistency_score": 0.6781793236732483,
+        "type_2_text_consistency_score": 0.07873420417308807,
+        "type_3_text_consistency_score": -0.07637429237365723
+    },
+    "sulphur butterfly, sulfur butterfly": {
+        "type_1_text_consistency_score": 0.8786569833755493,
+        "type_2_text_consistency_score": 0.0945311188697815,
+        "type_3_text_consistency_score": 0.21210312843322754
+    },
+    "lycaenid, lycaenid butterfly": {
+        "type_1_text_consistency_score": 0.7094973921775818,
+        "type_2_text_consistency_score": 0.16787290573120117,
+        "type_3_text_consistency_score": -0.04249095916748047
+    }
+}

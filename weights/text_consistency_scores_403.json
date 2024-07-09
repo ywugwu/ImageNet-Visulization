@@ -1,0 +1,12 @@
+{
+    "goose": {
+        "type_1_text_consistency_score": 0.5264230966567993,
+        "type_2_text_consistency_score": 0.05910274386405945,
+        "type_3_text_consistency_score": -0.1498292088508606
+    },
+    "duck": {
+        "type_1_text_consistency_score": 0.5264230966567993,
+        "type_2_text_consistency_score": 0.159711092710495,
+        "type_3_text_consistency_score": -0.09189343452453613
+    }
+}

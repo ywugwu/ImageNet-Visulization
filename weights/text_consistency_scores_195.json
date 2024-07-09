@@ -1,0 +1,22 @@
+{
+    "handkerchief, hankie, hanky, hankey": {
+        "type_1_text_consistency_score": 0.7600439190864563,
+        "type_2_text_consistency_score": 0.23493364453315735,
+        "type_3_text_consistency_score": 0.0935056209564209
+    },
+    "dishrag, dishcloth": {
+        "type_1_text_consistency_score": 0.7766270041465759,
+        "type_2_text_consistency_score": 0.19382713735103607,
+        "type_3_text_consistency_score": 0.04280275106430054
+    },
+    "towel": {
+        "type_1_text_consistency_score": 0.7452012300491333,
+        "type_2_text_consistency_score": 0.13655316829681396,
+        "type_3_text_consistency_score": -0.009778082370758057
+    },
+    "bib": {
+        "type_1_text_consistency_score": 0.7452012300491333,
+        "type_2_text_consistency_score": 0.28070011734962463,
+        "type_3_text_consistency_score": -0.012195467948913574
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "shoe": {
+        "type_1_text_consistency_score": 0.37331652641296387,
+        "type_2_text_consistency_score": 0.11557232588529587,
+        "type_3_text_consistency_score": -0.0361822247505188
+    },
+    "boot": {
+        "type_1_text_consistency_score": 0.5148695707321167,
+        "type_2_text_consistency_score": -0.02361730858683586,
+        "type_3_text_consistency_score": -0.12782984972000122
+    },
+    "clog": {
+        "type_1_text_consistency_score": 0.4427259564399719,
+        "type_2_text_consistency_score": 0.06125997006893158,
+        "type_3_text_consistency_score": -0.07657057046890259
+    },
+    "geta": {
+        "type_1_text_consistency_score": 0.4427259564399719,
+        "type_2_text_consistency_score": 0.005144195631146431,
+        "type_3_text_consistency_score": -0.20188069343566895
+    },
+    "patten": {
+        "type_1_text_consistency_score": 0.4295278787612915,
+        "type_2_text_consistency_score": 0.17485688626766205,
+        "type_3_text_consistency_score": -0.12311452627182007
+    },
+    "sabot": {
+        "type_1_text_consistency_score": 0.37331652641296387,
+        "type_2_text_consistency_score": 0.03457200527191162,
+        "type_3_text_consistency_score": -0.13863807916641235
+    }
+}

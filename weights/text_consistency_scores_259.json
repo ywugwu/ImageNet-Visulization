@@ -1,0 +1,12 @@
+{
+    "durables, durable goods, consumer durables": {
+        "type_1_text_consistency_score": 0.948232889175415,
+        "type_2_text_consistency_score": 0.12141290307044983,
+        "type_3_text_consistency_score": 0.15801960229873657
+    },
+    "clothing, article of clothing, vesture, wear, wearable, habiliment": {
+        "type_1_text_consistency_score": 0.948232889175415,
+        "type_2_text_consistency_score": 0.5289754271507263,
+        "type_3_text_consistency_score": 0.22579455375671387
+    }
+}

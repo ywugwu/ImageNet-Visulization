@@ -1,0 +1,17 @@
+{
+    "analog computer, analogue computer": {
+        "type_1_text_consistency_score": 0.9155804514884949,
+        "type_2_text_consistency_score": -0.029105626046657562,
+        "type_3_text_consistency_score": 0.0758315920829773
+    },
+    "digital computer": {
+        "type_1_text_consistency_score": 0.9155804514884949,
+        "type_2_text_consistency_score": -0.06623327732086182,
+        "type_3_text_consistency_score": 0.01973181962966919
+    },
+    "web site, website, internet site, site": {
+        "type_1_text_consistency_score": 0.9267890453338623,
+        "type_2_text_consistency_score": 0.607246994972229,
+        "type_3_text_consistency_score": 0.0815654993057251
+    }
+}

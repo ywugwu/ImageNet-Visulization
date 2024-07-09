@@ -1,0 +1,12 @@
+{
+    "joystick": {
+        "type_1_text_consistency_score": 0.8891909122467041,
+        "type_2_text_consistency_score": 0.3533422350883484,
+        "type_3_text_consistency_score": -0.033392250537872314
+    },
+    "switch, electric switch, electrical switch": {
+        "type_1_text_consistency_score": 0.8891909122467041,
+        "type_2_text_consistency_score": 0.24560673534870148,
+        "type_3_text_consistency_score": 0.1251518726348877
+    }
+}

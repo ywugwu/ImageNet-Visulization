@@ -1,0 +1,12 @@
+{
+    "desk": {
+        "type_1_text_consistency_score": 0.7648208141326904,
+        "type_2_text_consistency_score": 0.38013339042663574,
+        "type_3_text_consistency_score": 0.17824828624725342
+    },
+    "pool table, billiard table, snooker table": {
+        "type_1_text_consistency_score": 0.7648208141326904,
+        "type_2_text_consistency_score": 0.1533660888671875,
+        "type_3_text_consistency_score": 0.250027060508728
+    }
+}

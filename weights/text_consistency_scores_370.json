@@ -1,0 +1,32 @@
+{
+    "jaguar, panther, panthera onca, felis onca": {
+        "type_1_text_consistency_score": 0.8271189332008362,
+        "type_2_text_consistency_score": 0.20326706767082214,
+        "type_3_text_consistency_score": 0.057858049869537354
+    },
+    "tiger, panthera tigris": {
+        "type_1_text_consistency_score": 0.8053436875343323,
+        "type_2_text_consistency_score": 0.25051140785217285,
+        "type_3_text_consistency_score": -0.007097303867340088
+    },
+    "leopard, panthera pardus": {
+        "type_1_text_consistency_score": 0.8053436875343323,
+        "type_2_text_consistency_score": 0.15519823133945465,
+        "type_3_text_consistency_score": 0.019317209720611572
+    },
+    "snow leopard, ounce, panthera uncia": {
+        "type_1_text_consistency_score": 0.8619459867477417,
+        "type_2_text_consistency_score": 0.14953193068504333,
+        "type_3_text_consistency_score": 0.1381492018699646
+    },
+    "lion, king of beasts, panthera leo": {
+        "type_1_text_consistency_score": 0.8101544976234436,
+        "type_2_text_consistency_score": 0.25470322370529175,
+        "type_3_text_consistency_score": 0.053797245025634766
+    },
+    "cheetah, chetah, acinonyx jubatus": {
+        "type_1_text_consistency_score": 0.8275874257087708,
+        "type_2_text_consistency_score": 0.06577082723379135,
+        "type_3_text_consistency_score": 0.1167287826538086
+    }
+}

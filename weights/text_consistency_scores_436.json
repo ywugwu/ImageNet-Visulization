@@ -1,0 +1,12 @@
+{
+    "cypriniform fish": {
+        "type_1_text_consistency_score": 0.8439673185348511,
+        "type_2_text_consistency_score": 0.38713130354881287,
+        "type_3_text_consistency_score": 0.11395794153213501
+    },
+    "eel": {
+        "type_1_text_consistency_score": 0.8439673185348511,
+        "type_2_text_consistency_score": 0.14891456067562103,
+        "type_3_text_consistency_score": 0.01443934440612793
+    }
+}

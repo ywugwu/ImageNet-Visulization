@@ -1,0 +1,12 @@
+{
+    "true lobster": {
+        "type_1_text_consistency_score": 0.8591130971908569,
+        "type_2_text_consistency_score": 0.3586987853050232,
+        "type_3_text_consistency_score": 0.08886325359344482
+    },
+    "spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish": {
+        "type_1_text_consistency_score": 0.8591130971908569,
+        "type_2_text_consistency_score": 0.10121292620897293,
+        "type_3_text_consistency_score": 0.17963272333145142
+    }
+}

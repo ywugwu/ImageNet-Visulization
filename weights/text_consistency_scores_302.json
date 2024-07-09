@@ -1,0 +1,12 @@
+{
+    "staffordshire bullterrier, staffordshire bull terrier": {
+        "type_1_text_consistency_score": 0.7610642910003662,
+        "type_2_text_consistency_score": -0.013358190655708313,
+        "type_3_text_consistency_score": 0.029250383377075195
+    },
+    "american staffordshire terrier, staffordshire terrier, american pit bull terrier, pit bull terrier": {
+        "type_1_text_consistency_score": 0.7610642910003662,
+        "type_2_text_consistency_score": 0.25868016481399536,
+        "type_3_text_consistency_score": 0.051245689392089844
+    }
+}

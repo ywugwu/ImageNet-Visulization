@@ -1,0 +1,12 @@
+{
+    "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk": {
+        "type_1_text_consistency_score": 0.8793215751647949,
+        "type_2_text_consistency_score": 0.24548807740211487,
+        "type_3_text_consistency_score": 0.26229870319366455
+    },
+    "damselfly": {
+        "type_1_text_consistency_score": 0.8793215751647949,
+        "type_2_text_consistency_score": 0.39393147826194763,
+        "type_3_text_consistency_score": 0.13093912601470947
+    }
+}

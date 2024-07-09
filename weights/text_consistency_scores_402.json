@@ -1,0 +1,12 @@
+{
+    "drake": {
+        "type_1_text_consistency_score": 0.6518656611442566,
+        "type_2_text_consistency_score": 0.06286442279815674,
+        "type_3_text_consistency_score": -0.0021440982818603516
+    },
+    "sea duck": {
+        "type_1_text_consistency_score": 0.6518656611442566,
+        "type_2_text_consistency_score": 0.27413779497146606,
+        "type_3_text_consistency_score": 0.051944196224212646
+    }
+}

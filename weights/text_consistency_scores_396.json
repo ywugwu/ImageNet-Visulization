@@ -1,0 +1,22 @@
+{
+    "black grouse": {
+        "type_1_text_consistency_score": 0.8383078575134277,
+        "type_2_text_consistency_score": 0.22780373692512512,
+        "type_3_text_consistency_score": 0.16418296098709106
+    },
+    "ptarmigan": {
+        "type_1_text_consistency_score": 0.9006587266921997,
+        "type_2_text_consistency_score": 0.31501537561416626,
+        "type_3_text_consistency_score": 0.1762745976448059
+    },
+    "ruffed grouse, partridge, bonasa umbellus": {
+        "type_1_text_consistency_score": 0.8383078575134277,
+        "type_2_text_consistency_score": 0.2763175368309021,
+        "type_3_text_consistency_score": 0.1889217495918274
+    },
+    "prairie chicken, prairie grouse, prairie fowl": {
+        "type_1_text_consistency_score": 0.8591316938400269,
+        "type_2_text_consistency_score": 0.3707275390625,
+        "type_3_text_consistency_score": 0.18791455030441284
+    }
+}

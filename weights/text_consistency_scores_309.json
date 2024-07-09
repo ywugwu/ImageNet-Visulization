@@ -1,0 +1,12 @@
+{
+    "cardigan, cardigan welsh corgi": {
+        "type_1_text_consistency_score": 0.8934559226036072,
+        "type_2_text_consistency_score": 0.20746126770973206,
+        "type_3_text_consistency_score": 0.06912457942962646
+    },
+    "pembroke, pembroke welsh corgi": {
+        "type_1_text_consistency_score": 0.8934559226036072,
+        "type_2_text_consistency_score": 0.3417198359966278,
+        "type_3_text_consistency_score": 0.014372110366821289
+    }
+}

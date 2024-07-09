@@ -1,0 +1,22 @@
+{
+    "brake": {
+        "type_1_text_consistency_score": 0.6972441673278809,
+        "type_2_text_consistency_score": 0.2813505530357361,
+        "type_3_text_consistency_score": -0.13534098863601685
+    },
+    "fastener, fastening, holdfast, fixing": {
+        "type_1_text_consistency_score": 0.6972441673278809,
+        "type_2_text_consistency_score": 0.15790244936943054,
+        "type_3_text_consistency_score": 0.20635241270065308
+    },
+    "muzzle": {
+        "type_1_text_consistency_score": 0.7279633283615112,
+        "type_2_text_consistency_score": 0.18762367963790894,
+        "type_3_text_consistency_score": -0.09502875804901123
+    },
+    "safety belt, life belt, safety harness": {
+        "type_1_text_consistency_score": 0.7123576402664185,
+        "type_2_text_consistency_score": 0.1292268931865692,
+        "type_3_text_consistency_score": 0.20905637741088867
+    }
+}

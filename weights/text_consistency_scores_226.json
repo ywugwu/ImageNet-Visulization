@@ -1,0 +1,17 @@
+{
+    "bulletproof vest": {
+        "type_1_text_consistency_score": 0.8212282061576843,
+        "type_2_text_consistency_score": 0.16849593818187714,
+        "type_3_text_consistency_score": 0.125049889087677
+    },
+    "cuirass": {
+        "type_1_text_consistency_score": 0.8212282061576843,
+        "type_2_text_consistency_score": 0.3187767565250397,
+        "type_3_text_consistency_score": 0.049407780170440674
+    },
+    "chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour": {
+        "type_1_text_consistency_score": 0.8790732622146606,
+        "type_2_text_consistency_score": 0.30300718545913696,
+        "type_3_text_consistency_score": 0.28262680768966675
+    }
+}

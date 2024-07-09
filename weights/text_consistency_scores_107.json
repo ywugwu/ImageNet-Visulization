@@ -1,0 +1,12 @@
+{
+    "cocktail shaker": {
+        "type_1_text_consistency_score": 0.9033260345458984,
+        "type_2_text_consistency_score": 0.26653534173965454,
+        "type_3_text_consistency_score": 0.031105220317840576
+    },
+    "saltshaker, salt shaker": {
+        "type_1_text_consistency_score": 0.9033260345458984,
+        "type_2_text_consistency_score": 0.32960882782936096,
+        "type_3_text_consistency_score": 0.037043988704681396
+    }
+}

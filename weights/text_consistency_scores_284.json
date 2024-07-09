@@ -1,0 +1,52 @@
+{
+    "beetle": {
+        "type_1_text_consistency_score": 0.5610203146934509,
+        "type_2_text_consistency_score": 0.008195586502552032,
+        "type_3_text_consistency_score": -0.09578663110733032
+    },
+    "dipterous insect, two-winged insects, dipteran, dipteron": {
+        "type_1_text_consistency_score": 0.4618787467479706,
+        "type_2_text_consistency_score": 0.05695190653204918,
+        "type_3_text_consistency_score": 0.08295416831970215
+    },
+    "hymenopterous insect, hymenopteran, hymenopteron, hymenopter": {
+        "type_1_text_consistency_score": 0.2983156144618988,
+        "type_2_text_consistency_score": -0.14678040146827698,
+        "type_3_text_consistency_score": 0.03293049335479736
+    },
+    "orthopterous insect, orthopteron, orthopteran": {
+        "type_1_text_consistency_score": 0.4844653904438019,
+        "type_2_text_consistency_score": -0.001403607428073883,
+        "type_3_text_consistency_score": 0.07264947891235352
+    },
+    "phasmid, phasmid insect": {
+        "type_1_text_consistency_score": 0.5379326343536377,
+        "type_2_text_consistency_score": 0.13442495465278625,
+        "type_3_text_consistency_score": 0.045651793479919434
+    },
+    "dictyopterous insect": {
+        "type_1_text_consistency_score": 0.3736168146133423,
+        "type_2_text_consistency_score": 0.0569709837436676,
+        "type_3_text_consistency_score": -0.09255415201187134
+    },
+    "homopterous insect, homopteran": {
+        "type_1_text_consistency_score": 0.46995216608047485,
+        "type_2_text_consistency_score": 0.19235703349113464,
+        "type_3_text_consistency_score": -0.0770488977432251
+    },
+    "neuropteron, neuropteran, neuropterous insect": {
+        "type_1_text_consistency_score": 0.45936277508735657,
+        "type_2_text_consistency_score": 0.004443269222974777,
+        "type_3_text_consistency_score": -0.02284330129623413
+    },
+    "odonate": {
+        "type_1_text_consistency_score": 0.2983156144618988,
+        "type_2_text_consistency_score": -0.04528648406267166,
+        "type_3_text_consistency_score": -0.11849457025527954
+    },
+    "lepidopterous insect, lepidopteron, lepidopteran": {
+        "type_1_text_consistency_score": 0.47862565517425537,
+        "type_2_text_consistency_score": 0.2025381326675415,
+        "type_3_text_consistency_score": 0.00355607271194458
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "saurian": {
+        "type_1_text_consistency_score": 0.7458691596984863,
+        "type_2_text_consistency_score": 0.22928476333618164,
+        "type_3_text_consistency_score": 0.0023009181022644043
+    },
+    "archosaur, archosaurian, archosaurian reptile": {
+        "type_1_text_consistency_score": 0.7783298492431641,
+        "type_2_text_consistency_score": 0.05763907730579376,
+        "type_3_text_consistency_score": 0.10010981559753418
+    },
+    "crocodilian reptile, crocodilian": {
+        "type_1_text_consistency_score": 0.7801279425621033,
+        "type_2_text_consistency_score": 0.1782265156507492,
+        "type_3_text_consistency_score": 0.03889864683151245
+    },
+    "snake, serpent, ophidian": {
+        "type_1_text_consistency_score": 0.7458691596984863,
+        "type_2_text_consistency_score": 0.1580970734357834,
+        "type_3_text_consistency_score": 0.08753442764282227
+    }
+}

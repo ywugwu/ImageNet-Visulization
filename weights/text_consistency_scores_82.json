@@ -1,0 +1,27 @@
+{
+    "cutting implement": {
+        "type_1_text_consistency_score": 0.6348351836204529,
+        "type_2_text_consistency_score": 0.04691462963819504,
+        "type_3_text_consistency_score": -0.018221914768218994
+    },
+    "garden tool, lawn tool": {
+        "type_1_text_consistency_score": 0.7198920845985413,
+        "type_2_text_consistency_score": 0.1534705013036728,
+        "type_3_text_consistency_score": -0.01091533899307251
+    },
+    "hand tool": {
+        "type_1_text_consistency_score": 0.6453628540039062,
+        "type_2_text_consistency_score": 0.241607666015625,
+        "type_3_text_consistency_score": -0.05438089370727539
+    },
+    "plow, plough": {
+        "type_1_text_consistency_score": 0.6348351836204529,
+        "type_2_text_consistency_score": 0.09427815675735474,
+        "type_3_text_consistency_score": 0.0031440258026123047
+    },
+    "power tool": {
+        "type_1_text_consistency_score": 0.757311224937439,
+        "type_2_text_consistency_score": 0.11715461313724518,
+        "type_3_text_consistency_score": -0.07827287912368774
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "water tower": {
+        "type_1_text_consistency_score": 0.8162179589271545,
+        "type_2_text_consistency_score": 0.2768583297729492,
+        "type_3_text_consistency_score": 0.12302273511886597
+    },
+    "cistern": {
+        "type_1_text_consistency_score": 0.8162179589271545,
+        "type_2_text_consistency_score": 0.27711430191993713,
+        "type_3_text_consistency_score": 0.09180045127868652
+    }
+}

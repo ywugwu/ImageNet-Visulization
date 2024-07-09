@@ -1,0 +1,12 @@
+{
+    "flatworm, platyhelminth": {
+        "type_1_text_consistency_score": 0.9207887649536133,
+        "type_2_text_consistency_score": 0.19966569542884827,
+        "type_3_text_consistency_score": 0.10079264640808105
+    },
+    "nematode, nematode worm, roundworm": {
+        "type_1_text_consistency_score": 0.9207887649536133,
+        "type_2_text_consistency_score": 0.3719543218612671,
+        "type_3_text_consistency_score": 0.13255810737609863
+    }
+}

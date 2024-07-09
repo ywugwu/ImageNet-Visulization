@@ -1,0 +1,12 @@
+{
+    "cicada, cicala": {
+        "type_1_text_consistency_score": 0.7951815724372864,
+        "type_2_text_consistency_score": 0.33821022510528564,
+        "type_3_text_consistency_score": 0.164514422416687
+    },
+    "leafhopper": {
+        "type_1_text_consistency_score": 0.7951815724372864,
+        "type_2_text_consistency_score": 0.31703004240989685,
+        "type_3_text_consistency_score": 0.13950645923614502
+    }
+}

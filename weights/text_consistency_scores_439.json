@@ -1,0 +1,12 @@
+{
+    "sturgeon": {
+        "type_1_text_consistency_score": 0.717087984085083,
+        "type_2_text_consistency_score": 0.24473358690738678,
+        "type_3_text_consistency_score": 0.06503242254257202
+    },
+    "gar, garfish, garpike, billfish, lepisosteus osseus": {
+        "type_1_text_consistency_score": 0.717087984085083,
+        "type_2_text_consistency_score": 0.1987229883670807,
+        "type_3_text_consistency_score": 0.30376136302948
+    }
+}

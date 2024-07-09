@@ -1,0 +1,12 @@
+{
+    "siamang, hylobates syndactylus, symphalangus syndactylus": {
+        "type_1_text_consistency_score": 0.8042694330215454,
+        "type_2_text_consistency_score": 0.2527013421058655,
+        "type_3_text_consistency_score": 0.31116580963134766
+    },
+    "gibbon, hylobates lar": {
+        "type_1_text_consistency_score": 0.8042694330215454,
+        "type_2_text_consistency_score": 0.3342737555503845,
+        "type_3_text_consistency_score": 0.13742607831954956
+    }
+}

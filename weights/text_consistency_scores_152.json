@@ -1,0 +1,32 @@
+{
+    "fire engine, fire truck": {
+        "type_1_text_consistency_score": 0.639205813407898,
+        "type_2_text_consistency_score": 0.10866205394268036,
+        "type_3_text_consistency_score": 0.05823099613189697
+    },
+    "garbage truck, dustcart": {
+        "type_1_text_consistency_score": 0.683026909828186,
+        "type_2_text_consistency_score": 0.11921091377735138,
+        "type_3_text_consistency_score": 0.06452691555023193
+    },
+    "pickup, pickup truck": {
+        "type_1_text_consistency_score": 0.1997683346271515,
+        "type_2_text_consistency_score": -0.013312067836523056,
+        "type_3_text_consistency_score": 0.02682429552078247
+    },
+    "tow truck, tow car, wrecker": {
+        "type_1_text_consistency_score": 0.689282238483429,
+        "type_2_text_consistency_score": 0.17237046360969543,
+        "type_3_text_consistency_score": 0.06324928998947144
+    },
+    "trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi": {
+        "type_1_text_consistency_score": 0.6636966466903687,
+        "type_2_text_consistency_score": 0.1358526647090912,
+        "type_3_text_consistency_score": 0.1644834280014038
+    },
+    "van": {
+        "type_1_text_consistency_score": 0.1997683346271515,
+        "type_2_text_consistency_score": 0.14578363299369812,
+        "type_3_text_consistency_score": -0.051879942417144775
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "mosquito net": {
+        "type_1_text_consistency_score": 0.7697720527648926,
+        "type_2_text_consistency_score": 0.19545148313045502,
+        "type_3_text_consistency_score": 0.08132338523864746
+    },
+    "window screen": {
+        "type_1_text_consistency_score": 0.7697720527648926,
+        "type_2_text_consistency_score": 0.29563847184181213,
+        "type_3_text_consistency_score": 0.054909467697143555
+    },
+    "fire screen, fireguard": {
+        "type_1_text_consistency_score": 0.8214679956436157,
+        "type_2_text_consistency_score": 0.19896522164344788,
+        "type_3_text_consistency_score": 0.14114391803741455
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "badger": {
+        "type_1_text_consistency_score": 0.7072714567184448,
+        "type_2_text_consistency_score": 0.2682405710220337,
+        "type_3_text_consistency_score": -0.1089472770690918
+    },
+    "mink": {
+        "type_1_text_consistency_score": 0.5426973700523376,
+        "type_2_text_consistency_score": 0.14760202169418335,
+        "type_3_text_consistency_score": -0.174258291721344
+    },
+    "black-footed ferret, ferret, mustela nigripes": {
+        "type_1_text_consistency_score": 0.6279999017715454,
+        "type_2_text_consistency_score": 0.08415600657463074,
+        "type_3_text_consistency_score": 0.3079681396484375
+    },
+    "skunk, polecat, wood pussy": {
+        "type_1_text_consistency_score": 0.6470057964324951,
+        "type_2_text_consistency_score": 0.18024589121341705,
+        "type_3_text_consistency_score": 0.1030089259147644
+    },
+    "weasel": {
+        "type_1_text_consistency_score": 0.640666127204895,
+        "type_2_text_consistency_score": 0.26359546184539795,
+        "type_3_text_consistency_score": -0.16004186868667603
+    },
+    "polecat, fitch, foulmart, foumart, mustela putorius": {
+        "type_1_text_consistency_score": 0.5426973700523376,
+        "type_2_text_consistency_score": 0.03973934054374695,
+        "type_3_text_consistency_score": 0.11414098739624023
+    },
+    "otter": {
+        "type_1_text_consistency_score": 0.5586150288581848,
+        "type_2_text_consistency_score": 0.20546910166740417,
+        "type_3_text_consistency_score": -0.0581546425819397
+    }
+}

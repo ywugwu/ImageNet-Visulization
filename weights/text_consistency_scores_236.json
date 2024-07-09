@@ -1,0 +1,27 @@
+{
+    "coffee maker": {
+        "type_1_text_consistency_score": 0.8023484945297241,
+        "type_2_text_consistency_score": 0.24042034149169922,
+        "type_3_text_consistency_score": -0.0005959272384643555
+    },
+    "microwave, microwave oven": {
+        "type_1_text_consistency_score": 0.75907963514328,
+        "type_2_text_consistency_score": 0.2703355848789215,
+        "type_3_text_consistency_score": 0.016484975814819336
+    },
+    "oven": {
+        "type_1_text_consistency_score": 0.7585556507110596,
+        "type_2_text_consistency_score": 0.12567579746246338,
+        "type_3_text_consistency_score": -0.04098367691040039
+    },
+    "toaster": {
+        "type_1_text_consistency_score": 0.7585556507110596,
+        "type_2_text_consistency_score": 0.18920457363128662,
+        "type_3_text_consistency_score": -0.13069164752960205
+    },
+    "waffle iron": {
+        "type_1_text_consistency_score": 0.8734203577041626,
+        "type_2_text_consistency_score": 0.2326398342847824,
+        "type_3_text_consistency_score": 0.05681288242340088
+    }
+}

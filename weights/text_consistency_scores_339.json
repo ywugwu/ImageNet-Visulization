@@ -1,0 +1,22 @@
+{
+    "kit fox, vulpes macrotis": {
+        "type_1_text_consistency_score": 0.9063253402709961,
+        "type_2_text_consistency_score": 0.12970149517059326,
+        "type_3_text_consistency_score": 0.04454249143600464
+    },
+    "red fox, vulpes vulpes": {
+        "type_1_text_consistency_score": 0.9063253402709961,
+        "type_2_text_consistency_score": 0.41367125511169434,
+        "type_3_text_consistency_score": 0.009053051471710205
+    },
+    "grey fox, gray fox, urocyon cinereoargenteus": {
+        "type_1_text_consistency_score": 0.9118664264678955,
+        "type_2_text_consistency_score": 0.13802626729011536,
+        "type_3_text_consistency_score": 0.20107883214950562
+    },
+    "arctic fox, white fox, alopex lagopus": {
+        "type_1_text_consistency_score": 0.9297263026237488,
+        "type_2_text_consistency_score": 0.22902530431747437,
+        "type_3_text_consistency_score": 0.17449545860290527
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "mackerel shark": {
+        "type_1_text_consistency_score": 0.8646159172058105,
+        "type_2_text_consistency_score": 0.06235457956790924,
+        "type_3_text_consistency_score": 0.06089740991592407
+    },
+    "requiem shark": {
+        "type_1_text_consistency_score": 0.8504490256309509,
+        "type_2_text_consistency_score": 0.4565463960170746,
+        "type_3_text_consistency_score": -0.004707515239715576
+    },
+    "hammerhead, hammerhead shark": {
+        "type_1_text_consistency_score": 0.8504490256309509,
+        "type_2_text_consistency_score": 0.033151715993881226,
+        "type_3_text_consistency_score": 0.04614090919494629
+    }
+}

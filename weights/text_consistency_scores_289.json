@@ -1,0 +1,22 @@
+{
+    "conch": {
+        "type_1_text_consistency_score": 0.8117837309837341,
+        "type_2_text_consistency_score": 0.17190206050872803,
+        "type_3_text_consistency_score": 0.057565271854400635
+    },
+    "snail": {
+        "type_1_text_consistency_score": 0.6021668910980225,
+        "type_2_text_consistency_score": 0.247920423746109,
+        "type_3_text_consistency_score": -0.019429028034210205
+    },
+    "slug": {
+        "type_1_text_consistency_score": 0.6021668910980225,
+        "type_2_text_consistency_score": 0.05831781029701233,
+        "type_3_text_consistency_score": -0.18763232231140137
+    },
+    "sea slug, nudibranch": {
+        "type_1_text_consistency_score": 0.7255315780639648,
+        "type_2_text_consistency_score": 0.15716546773910522,
+        "type_3_text_consistency_score": 0.27761316299438477
+    }
+}

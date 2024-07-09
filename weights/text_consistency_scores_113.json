@@ -1,0 +1,67 @@
+{
+    "pot": {
+        "type_1_text_consistency_score": 0.577675998210907,
+        "type_2_text_consistency_score": 0.14150291681289673,
+        "type_3_text_consistency_score": -0.06148320436477661
+    },
+    "basin": {
+        "type_1_text_consistency_score": 0.6008478403091431,
+        "type_2_text_consistency_score": -0.014310739934444427,
+        "type_3_text_consistency_score": -0.047820985317230225
+    },
+    "tub, vat": {
+        "type_1_text_consistency_score": 0.658312201499939,
+        "type_2_text_consistency_score": 0.07000697404146194,
+        "type_3_text_consistency_score": -0.08442741632461548
+    },
+    "jar": {
+        "type_1_text_consistency_score": 0.43666255474090576,
+        "type_2_text_consistency_score": 0.05652698501944542,
+        "type_3_text_consistency_score": -0.10293471813201904
+    },
+    "bucket, pail": {
+        "type_1_text_consistency_score": 0.5738738775253296,
+        "type_2_text_consistency_score": 0.08590380847454071,
+        "type_3_text_consistency_score": -0.06359356641769409
+    },
+    "mortar": {
+        "type_1_text_consistency_score": 0.6313217878341675,
+        "type_2_text_consistency_score": 0.02312539517879486,
+        "type_3_text_consistency_score": -0.006972849369049072
+    },
+    "bottle": {
+        "type_1_text_consistency_score": 0.43666255474090576,
+        "type_2_text_consistency_score": 0.05852311849594116,
+        "type_3_text_consistency_score": 0.008737385272979736
+    },
+    "tank, storage tank": {
+        "type_1_text_consistency_score": 0.7373340725898743,
+        "type_2_text_consistency_score": 0.2171047031879425,
+        "type_3_text_consistency_score": 0.013058662414550781
+    },
+    "bathtub, bathing tub, bath, tub": {
+        "type_1_text_consistency_score": 0.6008478403091431,
+        "type_2_text_consistency_score": 0.14223061501979828,
+        "type_3_text_consistency_score": 0.05324113368988037
+    },
+    "ladle": {
+        "type_1_text_consistency_score": 0.7093051671981812,
+        "type_2_text_consistency_score": 0.14871254563331604,
+        "type_3_text_consistency_score": -0.03478425741195679
+    },
+    "barrel, cask": {
+        "type_1_text_consistency_score": 0.6901259422302246,
+        "type_2_text_consistency_score": 0.1328093409538269,
+        "type_3_text_consistency_score": 0.021578609943389893
+    },
+    "pitcher, ewer": {
+        "type_1_text_consistency_score": 0.6728320121765137,
+        "type_2_text_consistency_score": 0.02458556368947029,
+        "type_3_text_consistency_score": -0.01269984245300293
+    },
+    "drinking vessel": {
+        "type_1_text_consistency_score": 0.6296969652175903,
+        "type_2_text_consistency_score": 0.18837828934192657,
+        "type_3_text_consistency_score": 0.0070732831954956055
+    }
+}

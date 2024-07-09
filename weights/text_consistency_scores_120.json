@@ -1,0 +1,12 @@
+{
+    "crossword puzzle, crossword": {
+        "type_1_text_consistency_score": 0.8490936756134033,
+        "type_2_text_consistency_score": 0.5015194416046143,
+        "type_3_text_consistency_score": 0.12657779455184937
+    },
+    "jigsaw puzzle": {
+        "type_1_text_consistency_score": 0.8490936756134033,
+        "type_2_text_consistency_score": -0.013723127543926239,
+        "type_3_text_consistency_score": 0.01741790771484375
+    }
+}

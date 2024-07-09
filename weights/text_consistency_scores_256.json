@@ -1,0 +1,17 @@
+{
+    "tights, leotards": {
+        "type_1_text_consistency_score": 0.537813127040863,
+        "type_2_text_consistency_score": 0.14009994268417358,
+        "type_3_text_consistency_score": 0.14015918970108032
+    },
+    "sock": {
+        "type_1_text_consistency_score": 0.4930373430252075,
+        "type_2_text_consistency_score": 0.41149502992630005,
+        "type_3_text_consistency_score": 0.06760740280151367
+    },
+    "stocking": {
+        "type_1_text_consistency_score": 0.4930373430252075,
+        "type_2_text_consistency_score": -0.37058067321777344,
+        "type_3_text_consistency_score": -0.021287500858306885
+    }
+}

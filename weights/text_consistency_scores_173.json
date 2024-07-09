@@ -1,0 +1,17 @@
+{
+    "steel arch bridge": {
+        "type_1_text_consistency_score": 0.8450925350189209,
+        "type_2_text_consistency_score": 0.1323370337486267,
+        "type_3_text_consistency_score": 0.025110840797424316
+    },
+    "suspension bridge": {
+        "type_1_text_consistency_score": 0.8877999782562256,
+        "type_2_text_consistency_score": 0.283832311630249,
+        "type_3_text_consistency_score": 0.05644267797470093
+    },
+    "viaduct": {
+        "type_1_text_consistency_score": 0.8450925350189209,
+        "type_2_text_consistency_score": 0.2313855141401291,
+        "type_3_text_consistency_score": 0.01746499538421631
+    }
+}

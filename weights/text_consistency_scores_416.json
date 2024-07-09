@@ -1,0 +1,47 @@
+{
+    "gecko": {
+        "type_1_text_consistency_score": 0.715639591217041,
+        "type_2_text_consistency_score": 0.1237289309501648,
+        "type_3_text_consistency_score": -0.11766296625137329
+    },
+    "iguanid, iguanid lizard": {
+        "type_1_text_consistency_score": 0.735371470451355,
+        "type_2_text_consistency_score": 0.043188199400901794,
+        "type_3_text_consistency_score": -0.01174771785736084
+    },
+    "teiid lizard, teiid": {
+        "type_1_text_consistency_score": 0.6935179233551025,
+        "type_2_text_consistency_score": 0.06853324174880981,
+        "type_3_text_consistency_score": -0.06727015972137451
+    },
+    "agamid, agamid lizard": {
+        "type_1_text_consistency_score": 0.6339961290359497,
+        "type_2_text_consistency_score": 0.014103971421718597,
+        "type_3_text_consistency_score": -0.0902295708656311
+    },
+    "anguid lizard": {
+        "type_1_text_consistency_score": 0.6061986088752747,
+        "type_2_text_consistency_score": 0.05978371948003769,
+        "type_3_text_consistency_score": -0.05281013250350952
+    },
+    "venomous lizard": {
+        "type_1_text_consistency_score": 0.7637627124786377,
+        "type_2_text_consistency_score": 0.06851193308830261,
+        "type_3_text_consistency_score": 0.024713575839996338
+    },
+    "lacertid lizard, lacertid": {
+        "type_1_text_consistency_score": 0.6061986088752747,
+        "type_2_text_consistency_score": 0.15365450084209442,
+        "type_3_text_consistency_score": -0.013054907321929932
+    },
+    "chameleon, chamaeleon": {
+        "type_1_text_consistency_score": 0.8280743956565857,
+        "type_2_text_consistency_score": 0.094510518014431,
+        "type_3_text_consistency_score": 0.03502202033996582
+    },
+    "monitor, monitor lizard, varan": {
+        "type_1_text_consistency_score": 0.7780119180679321,
+        "type_2_text_consistency_score": 0.07130227982997894,
+        "type_3_text_consistency_score": 0.03702789545059204
+    }
+}

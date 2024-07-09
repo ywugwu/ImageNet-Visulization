@@ -1,0 +1,32 @@
+{
+    "hook, claw": {
+        "type_1_text_consistency_score": 0.5158796906471252,
+        "type_2_text_consistency_score": 0.0028559118509292603,
+        "type_3_text_consistency_score": 0.014910340309143066
+    },
+    "machine, simple machine": {
+        "type_1_text_consistency_score": 0.47787994146347046,
+        "type_2_text_consistency_score": 0.2924421429634094,
+        "type_3_text_consistency_score": 0.05325627326965332
+    },
+    "pump": {
+        "type_1_text_consistency_score": 0.3604067265987396,
+        "type_2_text_consistency_score": -0.21686092019081116,
+        "type_3_text_consistency_score": -0.12361812591552734
+    },
+    "ride": {
+        "type_1_text_consistency_score": 0.4750958979129791,
+        "type_2_text_consistency_score": 0.041765425354242325,
+        "type_3_text_consistency_score": -0.011470139026641846
+    },
+    "swing": {
+        "type_1_text_consistency_score": 0.43236181139945984,
+        "type_2_text_consistency_score": 0.06699885427951813,
+        "type_3_text_consistency_score": -0.14824235439300537
+    },
+    "winder": {
+        "type_1_text_consistency_score": 0.3604067265987396,
+        "type_2_text_consistency_score": -0.003006943501532078,
+        "type_3_text_consistency_score": -0.12418317794799805
+    }
+}

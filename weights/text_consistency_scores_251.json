@@ -1,0 +1,57 @@
+{
+    "vest, waistcoat": {
+        "type_1_text_consistency_score": 0.6931374073028564,
+        "type_2_text_consistency_score": -0.024363547563552856,
+        "type_3_text_consistency_score": 0.038507819175720215
+    },
+    "swimsuit, swimwear, bathing suit, swimming costume, bathing costume": {
+        "type_1_text_consistency_score": 0.6157307028770447,
+        "type_2_text_consistency_score": 0.10798339545726776,
+        "type_3_text_consistency_score": 0.18444174528121948
+    },
+    "suit, suit of clothes": {
+        "type_1_text_consistency_score": 0.43510621786117554,
+        "type_2_text_consistency_score": -0.11818632483482361,
+        "type_3_text_consistency_score": 0.0704912543296814
+    },
+    "scarf": {
+        "type_1_text_consistency_score": 0.5753239393234253,
+        "type_2_text_consistency_score": -0.04816562682390213,
+        "type_3_text_consistency_score": 0.02915024757385254
+    },
+    "neckwear": {
+        "type_1_text_consistency_score": 0.5753239393234253,
+        "type_2_text_consistency_score": 0.04612886905670166,
+        "type_3_text_consistency_score": -0.01983189582824707
+    },
+    "skirt": {
+        "type_1_text_consistency_score": 0.6092323064804077,
+        "type_2_text_consistency_score": -0.03821758180856705,
+        "type_3_text_consistency_score": -0.017399191856384277
+    },
+    "overgarment, outer garment": {
+        "type_1_text_consistency_score": 0.5587639212608337,
+        "type_2_text_consistency_score": 0.29693603515625,
+        "type_3_text_consistency_score": 0.06214714050292969
+    },
+    "sweater, jumper": {
+        "type_1_text_consistency_score": 0.6958022117614746,
+        "type_2_text_consistency_score": -0.005148373544216156,
+        "type_3_text_consistency_score": 0.05714869499206543
+    },
+    "robe": {
+        "type_1_text_consistency_score": 0.43510621786117554,
+        "type_2_text_consistency_score": -0.09626170992851257,
+        "type_3_text_consistency_score": -0.06341910362243652
+    },
+    "shirt": {
+        "type_1_text_consistency_score": 0.5871690511703491,
+        "type_2_text_consistency_score": 0.025766197592020035,
+        "type_3_text_consistency_score": -0.007957994937896729
+    },
+    "diaper, nappy, napkin": {
+        "type_1_text_consistency_score": 0.5913178324699402,
+        "type_2_text_consistency_score": 0.08628813922405243,
+        "type_3_text_consistency_score": 0.018492698669433594
+    }
+}

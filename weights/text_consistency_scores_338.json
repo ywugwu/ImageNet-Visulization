@@ -1,0 +1,17 @@
+{
+    "dhole, cuon alpinus": {
+        "type_1_text_consistency_score": 0.9191455841064453,
+        "type_2_text_consistency_score": 0.2895514965057373,
+        "type_3_text_consistency_score": 0.2551930546760559
+    },
+    "dingo, warrigal, warragal, canis dingo": {
+        "type_1_text_consistency_score": 0.8941352367401123,
+        "type_2_text_consistency_score": 0.4018291234970093,
+        "type_3_text_consistency_score": 0.2673034071922302
+    },
+    "african hunting dog, hyena dog, cape hunting dog, lycaon pictus": {
+        "type_1_text_consistency_score": 0.8941352367401123,
+        "type_2_text_consistency_score": 0.2980749309062958,
+        "type_3_text_consistency_score": 0.36618560552597046
+    }
+}

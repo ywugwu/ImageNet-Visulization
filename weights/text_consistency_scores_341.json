@@ -1,0 +1,12 @@
+{
+    "vizsla, hungarian pointer": {
+        "type_1_text_consistency_score": 0.9666907787322998,
+        "type_2_text_consistency_score": 0.3498610854148865,
+        "type_3_text_consistency_score": 0.20142269134521484
+    },
+    "german short-haired pointer": {
+        "type_1_text_consistency_score": 0.9666907787322998,
+        "type_2_text_consistency_score": 0.3490697741508484,
+        "type_3_text_consistency_score": 0.1514163613319397
+    }
+}

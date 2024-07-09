@@ -1,0 +1,37 @@
+{
+    "sports equipment": {
+        "type_1_text_consistency_score": 0.6669907569885254,
+        "type_2_text_consistency_score": 0.08811953663825989,
+        "type_3_text_consistency_score": 0.006548643112182617
+    },
+    "game equipment": {
+        "type_1_text_consistency_score": 0.5395017862319946,
+        "type_2_text_consistency_score": 0.09231443703174591,
+        "type_3_text_consistency_score": -0.05898350477218628
+    },
+    "photographic equipment": {
+        "type_1_text_consistency_score": 0.7183716893196106,
+        "type_2_text_consistency_score": 0.28161710500717163,
+        "type_3_text_consistency_score": -0.01314610242843628
+    },
+    "gear, paraphernalia, appurtenance": {
+        "type_1_text_consistency_score": 0.5980395078659058,
+        "type_2_text_consistency_score": -0.07304275035858154,
+        "type_3_text_consistency_score": 0.021804511547088623
+    },
+    "electronic equipment": {
+        "type_1_text_consistency_score": 0.7051544189453125,
+        "type_2_text_consistency_score": 0.07683125138282776,
+        "type_3_text_consistency_score": -0.007094621658325195
+    },
+    "apparatus, setup": {
+        "type_1_text_consistency_score": 0.5395017862319946,
+        "type_2_text_consistency_score": -0.08519374579191208,
+        "type_3_text_consistency_score": 0.03354799747467041
+    },
+    "rescue equipment": {
+        "type_1_text_consistency_score": 0.7162034511566162,
+        "type_2_text_consistency_score": 0.10481108725070953,
+        "type_3_text_consistency_score": 0.02789086103439331
+    }
+}

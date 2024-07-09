@@ -1,0 +1,12 @@
+{
+    "swing": {
+        "type_1_text_consistency_score": 0.7785122394561768,
+        "type_2_text_consistency_score": 0.2758112847805023,
+        "type_3_text_consistency_score": -0.04155623912811279
+    },
+    "teddy, teddy bear": {
+        "type_1_text_consistency_score": 0.7785122394561768,
+        "type_2_text_consistency_score": 0.35662612318992615,
+        "type_3_text_consistency_score": 0.057249486446380615
+    }
+}

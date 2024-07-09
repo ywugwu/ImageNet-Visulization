@@ -1,0 +1,17 @@
+{
+    "candle, taper, wax light": {
+        "type_1_text_consistency_score": 0.6865886449813843,
+        "type_2_text_consistency_score": 0.22067248821258545,
+        "type_3_text_consistency_score": 0.11842876672744751
+    },
+    "lantern": {
+        "type_1_text_consistency_score": 0.7091366052627563,
+        "type_2_text_consistency_score": 0.1469855159521103,
+        "type_3_text_consistency_score": 0.018485844135284424
+    },
+    "spotlight, spot": {
+        "type_1_text_consistency_score": 0.6865886449813843,
+        "type_2_text_consistency_score": 0.2331092208623886,
+        "type_3_text_consistency_score": 0.06099975109100342
+    }
+}

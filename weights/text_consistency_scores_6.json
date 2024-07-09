@@ -1,0 +1,12 @@
+{
+    "dish": {
+        "type_1_text_consistency_score": 0.21169082820415497,
+        "type_2_text_consistency_score": -0.3382081985473633,
+        "type_3_text_consistency_score": -0.011420249938964844
+    },
+    "course": {
+        "type_1_text_consistency_score": 0.21169082820415497,
+        "type_2_text_consistency_score": 0.458985298871994,
+        "type_3_text_consistency_score": -0.04433518648147583
+    }
+}

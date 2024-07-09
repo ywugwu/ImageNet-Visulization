@@ -1,0 +1,17 @@
+{
+    "ax, axe": {
+        "type_1_text_consistency_score": 0.695703387260437,
+        "type_2_text_consistency_score": 0.05896010994911194,
+        "type_3_text_consistency_score": -0.12292736768722534
+    },
+    "knife": {
+        "type_1_text_consistency_score": 0.695703387260437,
+        "type_2_text_consistency_score": 0.332402765750885,
+        "type_3_text_consistency_score": -0.039675116539001465
+    },
+    "plane, carpenter's plane, woodworking plane": {
+        "type_1_text_consistency_score": 0.7878510355949402,
+        "type_2_text_consistency_score": 0.08846650272607803,
+        "type_3_text_consistency_score": 0.20088189840316772
+    }
+}

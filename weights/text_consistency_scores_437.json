@@ -1,0 +1,12 @@
+{
+    "butterfly fish": {
+        "type_1_text_consistency_score": 0.8859574794769287,
+        "type_2_text_consistency_score": 0.4274532198905945,
+        "type_3_text_consistency_score": 0.20700228214263916
+    },
+    "damselfish, demoiselle": {
+        "type_1_text_consistency_score": 0.8859574794769287,
+        "type_2_text_consistency_score": 0.1881619542837143,
+        "type_3_text_consistency_score": 0.20912975072860718
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "frozen dessert": {
+        "type_1_text_consistency_score": 0.7854399681091309,
+        "type_2_text_consistency_score": 0.18572625517845154,
+        "type_3_text_consistency_score": 0.08745145797729492
+    },
+    "pudding, pud": {
+        "type_1_text_consistency_score": 0.7854399681091309,
+        "type_2_text_consistency_score": 0.3152402639389038,
+        "type_3_text_consistency_score": 0.014514446258544922
+    }
+}

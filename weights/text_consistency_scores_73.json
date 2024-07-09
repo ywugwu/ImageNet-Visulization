@@ -1,0 +1,12 @@
+{
+    "lamp": {
+        "type_1_text_consistency_score": 0.7883334159851074,
+        "type_2_text_consistency_score": -0.027843564748764038,
+        "type_3_text_consistency_score": -0.023922622203826904
+    },
+    "light, light source": {
+        "type_1_text_consistency_score": 0.7883334159851074,
+        "type_2_text_consistency_score": 0.357338547706604,
+        "type_3_text_consistency_score": 0.012241959571838379
+    }
+}

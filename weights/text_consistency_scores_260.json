@@ -1,0 +1,12 @@
+{
+    "consumer goods": {
+        "type_1_text_consistency_score": 0.851624071598053,
+        "type_2_text_consistency_score": 0.4775342643260956,
+        "type_3_text_consistency_score": -0.022382020950317383
+    },
+    "drygoods, soft goods": {
+        "type_1_text_consistency_score": 0.851624071598053,
+        "type_2_text_consistency_score": 0.015103057026863098,
+        "type_3_text_consistency_score": 0.05366659164428711
+    }
+}

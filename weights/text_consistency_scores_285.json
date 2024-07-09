@@ -1,0 +1,27 @@
+{
+    "trilobite": {
+        "type_1_text_consistency_score": 0.8299885392189026,
+        "type_2_text_consistency_score": 0.20295684039592743,
+        "type_3_text_consistency_score": 0.08064085245132446
+    },
+    "arachnid, arachnoid": {
+        "type_1_text_consistency_score": 0.7512059807777405,
+        "type_2_text_consistency_score": 0.17218217253684998,
+        "type_3_text_consistency_score": 0.054423391819000244
+    },
+    "centipede": {
+        "type_1_text_consistency_score": 0.7339643239974976,
+        "type_2_text_consistency_score": 0.05607515573501587,
+        "type_3_text_consistency_score": 0.01669412851333618
+    },
+    "crustacean": {
+        "type_1_text_consistency_score": 0.7674806714057922,
+        "type_2_text_consistency_score": 0.13448074460029602,
+        "type_3_text_consistency_score": -0.00851595401763916
+    },
+    "insect": {
+        "type_1_text_consistency_score": 0.7339643239974976,
+        "type_2_text_consistency_score": 0.24336965382099152,
+        "type_3_text_consistency_score": -0.02623879909515381
+    }
+}

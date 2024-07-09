@@ -1,0 +1,12 @@
+{
+    "coffee, java": {
+        "type_1_text_consistency_score": 0.847908616065979,
+        "type_2_text_consistency_score": -0.044215455651283264,
+        "type_3_text_consistency_score": 0.08918839693069458
+    },
+    "alcohol, alcoholic drink, alcoholic beverage, intoxicant, inebriant": {
+        "type_1_text_consistency_score": 0.847908616065979,
+        "type_2_text_consistency_score": 0.4977536201477051,
+        "type_3_text_consistency_score": 0.17942595481872559
+    }
+}

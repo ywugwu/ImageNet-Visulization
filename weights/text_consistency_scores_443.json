@@ -1,0 +1,22 @@
+{
+    "invertebrate": {
+        "type_1_text_consistency_score": 0.6731597781181335,
+        "type_2_text_consistency_score": 0.02371746301651001,
+        "type_3_text_consistency_score": -0.0005987286567687988
+    },
+    "domestic animal, domesticated animal": {
+        "type_1_text_consistency_score": 0.6778672933578491,
+        "type_2_text_consistency_score": 0.315593421459198,
+        "type_3_text_consistency_score": 0.07154446840286255
+    },
+    "racer": {
+        "type_1_text_consistency_score": 0.6302253007888794,
+        "type_2_text_consistency_score": 0.01838809996843338,
+        "type_3_text_consistency_score": -0.023026645183563232
+    },
+    "chordate": {
+        "type_1_text_consistency_score": 0.6302253007888794,
+        "type_2_text_consistency_score": 0.04972478747367859,
+        "type_3_text_consistency_score": -0.09555429220199585
+    }
+}

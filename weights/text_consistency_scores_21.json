@@ -1,0 +1,12 @@
+{
+    "orange": {
+        "type_1_text_consistency_score": 0.6559194326400757,
+        "type_2_text_consistency_score": 0.12415879219770432,
+        "type_3_text_consistency_score": -0.08134394884109497
+    },
+    "lemon": {
+        "type_1_text_consistency_score": 0.6559194326400757,
+        "type_2_text_consistency_score": 0.29990440607070923,
+        "type_3_text_consistency_score": -0.10409671068191528
+    }
+}

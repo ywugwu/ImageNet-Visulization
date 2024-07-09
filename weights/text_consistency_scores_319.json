@@ -1,0 +1,12 @@
+{
+    "papillon": {
+        "type_1_text_consistency_score": 0.4300185739994049,
+        "type_2_text_consistency_score": 0.26917633414268494,
+        "type_3_text_consistency_score": 0.15612685680389404
+    },
+    "english toy spaniel": {
+        "type_1_text_consistency_score": 0.4300185739994049,
+        "type_2_text_consistency_score": 0.08392637968063354,
+        "type_3_text_consistency_score": 0.31380343437194824
+    }
+}

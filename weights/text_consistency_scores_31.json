@@ -1,0 +1,27 @@
+{
+    "piano, pianoforte, forte-piano": {
+        "type_1_text_consistency_score": 0.6129058599472046,
+        "type_2_text_consistency_score": 0.18244966864585876,
+        "type_3_text_consistency_score": 0.11925935745239258
+    },
+    "banjo": {
+        "type_1_text_consistency_score": 0.3358866572380066,
+        "type_2_text_consistency_score": 0.03843601793050766,
+        "type_3_text_consistency_score": -0.11253196001052856
+    },
+    "bowed stringed instrument, string": {
+        "type_1_text_consistency_score": 0.4040340185165405,
+        "type_2_text_consistency_score": 0.046197131276130676,
+        "type_3_text_consistency_score": 0.08655256032943726
+    },
+    "chordophone": {
+        "type_1_text_consistency_score": 0.5736068487167358,
+        "type_2_text_consistency_score": 0.18541303277015686,
+        "type_3_text_consistency_score": 0.025684714317321777
+    },
+    "guitar": {
+        "type_1_text_consistency_score": 0.3358866572380066,
+        "type_2_text_consistency_score": 0.1466561257839203,
+        "type_3_text_consistency_score": 0.005482316017150879
+    }
+}

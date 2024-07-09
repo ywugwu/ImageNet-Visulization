@@ -1,0 +1,12 @@
+{
+    "meerkat, mierkat": {
+        "type_1_text_consistency_score": 0.7156383395195007,
+        "type_2_text_consistency_score": 0.2249351292848587,
+        "type_3_text_consistency_score": 0.06803339719772339
+    },
+    "mongoose": {
+        "type_1_text_consistency_score": 0.7156383395195007,
+        "type_2_text_consistency_score": 0.316047728061676,
+        "type_3_text_consistency_score": 0.023125827312469482
+    }
+}

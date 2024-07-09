@@ -1,0 +1,12 @@
+{
+    "grasshopper, hopper": {
+        "type_1_text_consistency_score": 0.582745373249054,
+        "type_2_text_consistency_score": 0.1219269409775734,
+        "type_3_text_consistency_score": -0.05360895395278931
+    },
+    "cricket": {
+        "type_1_text_consistency_score": 0.582745373249054,
+        "type_2_text_consistency_score": 0.1860061138868332,
+        "type_3_text_consistency_score": -0.05494719743728638
+    }
+}

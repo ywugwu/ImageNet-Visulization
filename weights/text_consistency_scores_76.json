@@ -1,0 +1,127 @@
+{
+    "musical instrument, instrument": {
+        "type_1_text_consistency_score": 0.32932573556900024,
+        "type_2_text_consistency_score": 0.10433924943208694,
+        "type_3_text_consistency_score": -0.031014442443847656
+    },
+    "airfoil, aerofoil, control surface, surface": {
+        "type_1_text_consistency_score": 0.7609950304031372,
+        "type_2_text_consistency_score": 0.04322986304759979,
+        "type_3_text_consistency_score": 0.17740458250045776
+    },
+    "breathing device, breathing apparatus, breathing machine, ventilator": {
+        "type_1_text_consistency_score": 0.7375751733779907,
+        "type_2_text_consistency_score": -0.017156139016151428,
+        "type_3_text_consistency_score": 0.17339307069778442
+    },
+    "electrical device": {
+        "type_1_text_consistency_score": 0.6048805713653564,
+        "type_2_text_consistency_score": 0.13503113389015198,
+        "type_3_text_consistency_score": -0.08074593544006348
+    },
+    "electronic device": {
+        "type_1_text_consistency_score": 0.6424906253814697,
+        "type_2_text_consistency_score": 0.07208985090255737,
+        "type_3_text_consistency_score": -0.08487904071807861
+    },
+    "fan": {
+        "type_1_text_consistency_score": 0.6779602766036987,
+        "type_2_text_consistency_score": 0.02062184363603592,
+        "type_3_text_consistency_score": -0.0739060640335083
+    },
+    "filter": {
+        "type_1_text_consistency_score": 0.5194281339645386,
+        "type_2_text_consistency_score": 0.034854039549827576,
+        "type_3_text_consistency_score": -0.04549384117126465
+    },
+    "heater, warmer": {
+        "type_1_text_consistency_score": 0.6962481737136841,
+        "type_2_text_consistency_score": -0.10432886332273483,
+        "type_3_text_consistency_score": 0.007069647312164307
+    },
+    "instrument": {
+        "type_1_text_consistency_score": 0.32932573556900024,
+        "type_2_text_consistency_score": -0.08478143811225891,
+        "type_3_text_consistency_score": -0.10589396953582764
+    },
+    "keyboard": {
+        "type_1_text_consistency_score": 0.7254184484481812,
+        "type_2_text_consistency_score": 0.0143018439412117,
+        "type_3_text_consistency_score": -0.05977046489715576
+    },
+    "lifting device": {
+        "type_1_text_consistency_score": 0.6582069993019104,
+        "type_2_text_consistency_score": -0.031341053545475006,
+        "type_3_text_consistency_score": 0.011098206043243408
+    },
+    "lighter, light, igniter, ignitor": {
+        "type_1_text_consistency_score": 0.7281413078308105,
+        "type_2_text_consistency_score": -0.02551478147506714,
+        "type_3_text_consistency_score": 0.06323784589767456
+    },
+    "machine": {
+        "type_1_text_consistency_score": 0.5936888456344604,
+        "type_2_text_consistency_score": 0.053343527019023895,
+        "type_3_text_consistency_score": -0.0401606559753418
+    },
+    "mechanism": {
+        "type_1_text_consistency_score": 0.6172619462013245,
+        "type_2_text_consistency_score": -0.09948962181806564,
+        "type_3_text_consistency_score": -0.007293701171875
+    },
+    "memory device, storage device": {
+        "type_1_text_consistency_score": 0.6281905770301819,
+        "type_2_text_consistency_score": -0.03795279189944267,
+        "type_3_text_consistency_score": -0.02830415964126587
+    },
+    "optical device": {
+        "type_1_text_consistency_score": 0.5404830574989319,
+        "type_2_text_consistency_score": 0.01450803130865097,
+        "type_3_text_consistency_score": -0.0625961422920227
+    },
+    "pick, plectrum, plectron": {
+        "type_1_text_consistency_score": 0.7494206428527832,
+        "type_2_text_consistency_score": 0.12580515444278717,
+        "type_3_text_consistency_score": 0.05679452419281006
+    },
+    "reflector": {
+        "type_1_text_consistency_score": 0.5937403440475464,
+        "type_2_text_consistency_score": -0.03922966122627258,
+        "type_3_text_consistency_score": 0.0032553672790527344
+    },
+    "remote control, remote": {
+        "type_1_text_consistency_score": 0.6897960901260376,
+        "type_2_text_consistency_score": 0.07260570675134659,
+        "type_3_text_consistency_score": -0.01248157024383545
+    },
+    "restraint, constraint": {
+        "type_1_text_consistency_score": 0.6332042217254639,
+        "type_2_text_consistency_score": 0.22689224779605865,
+        "type_3_text_consistency_score": -0.05273759365081787
+    },
+    "runner": {
+        "type_1_text_consistency_score": 0.6448731422424316,
+        "type_2_text_consistency_score": 0.04862207546830177,
+        "type_3_text_consistency_score": -0.040332257747650146
+    },
+    "signaling device": {
+        "type_1_text_consistency_score": 0.6187607049942017,
+        "type_2_text_consistency_score": 0.002764366567134857,
+        "type_3_text_consistency_score": -0.005173206329345703
+    },
+    "source of illumination": {
+        "type_1_text_consistency_score": 0.5194281339645386,
+        "type_2_text_consistency_score": -0.006276849657297134,
+        "type_3_text_consistency_score": 0.043925464153289795
+    },
+    "support": {
+        "type_1_text_consistency_score": 0.6126445531845093,
+        "type_2_text_consistency_score": 0.08511078357696533,
+        "type_3_text_consistency_score": -0.045276761054992676
+    },
+    "trap": {
+        "type_1_text_consistency_score": 0.5404830574989319,
+        "type_2_text_consistency_score": -0.1016063466668129,
+        "type_3_text_consistency_score": -0.09627997875213623
+    }
+}

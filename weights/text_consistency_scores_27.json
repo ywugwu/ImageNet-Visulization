@@ -1,0 +1,37 @@
+{
+    "piano, pianoforte, forte-piano": {
+        "type_1_text_consistency_score": 0.6306868195533752,
+        "type_2_text_consistency_score": 0.20552587509155273,
+        "type_3_text_consistency_score": 0.1211816668510437
+    },
+    "chime, bell, gong": {
+        "type_1_text_consistency_score": 0.3502464294433594,
+        "type_2_text_consistency_score": -0.008444182574748993,
+        "type_3_text_consistency_score": -0.09280681610107422
+    },
+    "drum, membranophone, tympan": {
+        "type_1_text_consistency_score": 0.5345965623855591,
+        "type_2_text_consistency_score": 0.22872817516326904,
+        "type_3_text_consistency_score": 0.00420069694519043
+    },
+    "gong, tam-tam": {
+        "type_1_text_consistency_score": 0.3502464294433594,
+        "type_2_text_consistency_score": 0.10555384308099747,
+        "type_3_text_consistency_score": -0.09966886043548584
+    },
+    "maraca": {
+        "type_1_text_consistency_score": 0.6537339091300964,
+        "type_2_text_consistency_score": 0.25578510761260986,
+        "type_3_text_consistency_score": 0.03623455762863159
+    },
+    "marimba, xylophone": {
+        "type_1_text_consistency_score": 0.7223418951034546,
+        "type_2_text_consistency_score": 0.16888287663459778,
+        "type_3_text_consistency_score": 0.142714262008667
+    },
+    "steel drum": {
+        "type_1_text_consistency_score": 0.6784965991973877,
+        "type_2_text_consistency_score": 0.19688308238983154,
+        "type_3_text_consistency_score": 0.08017194271087646
+    }
+}

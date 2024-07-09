@@ -1,0 +1,17 @@
+{
+    "pelecaniform seabird": {
+        "type_1_text_consistency_score": 0.7542262673377991,
+        "type_2_text_consistency_score": 0.07872721552848816,
+        "type_3_text_consistency_score": -0.10987198352813721
+    },
+    "sphenisciform seabird": {
+        "type_1_text_consistency_score": 0.7542262673377991,
+        "type_2_text_consistency_score": 0.16643854975700378,
+        "type_3_text_consistency_score": -0.07358896732330322
+    },
+    "pelagic bird, oceanic bird": {
+        "type_1_text_consistency_score": 0.9090703725814819,
+        "type_2_text_consistency_score": 0.09196941554546356,
+        "type_3_text_consistency_score": 0.1045188307762146
+    }
+}

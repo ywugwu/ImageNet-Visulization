@@ -1,0 +1,12 @@
+{
+    "siberian husky": {
+        "type_1_text_consistency_score": 0.875032901763916,
+        "type_2_text_consistency_score": 0.27876752614974976,
+        "type_3_text_consistency_score": 0.013985753059387207
+    },
+    "malamute, malemute, alaskan malamute": {
+        "type_1_text_consistency_score": 0.875032901763916,
+        "type_2_text_consistency_score": 0.20664681494235992,
+        "type_3_text_consistency_score": 0.05397236347198486
+    }
+}

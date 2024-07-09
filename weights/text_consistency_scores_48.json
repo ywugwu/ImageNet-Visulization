@@ -1,0 +1,12 @@
+{
+    "stethoscope": {
+        "type_1_text_consistency_score": 0.9093048572540283,
+        "type_2_text_consistency_score": 0.18659386038780212,
+        "type_3_text_consistency_score": 0.0939822793006897
+    },
+    "syringe": {
+        "type_1_text_consistency_score": 0.9093048572540283,
+        "type_2_text_consistency_score": 0.39881283044815063,
+        "type_3_text_consistency_score": 0.10752010345458984
+    }
+}

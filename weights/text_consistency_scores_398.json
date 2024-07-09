@@ -1,0 +1,12 @@
+{
+    "grouse": {
+        "type_1_text_consistency_score": 0.8348115682601929,
+        "type_2_text_consistency_score": 0.164418026804924,
+        "type_3_text_consistency_score": -0.021217823028564453
+    },
+    "phasianid": {
+        "type_1_text_consistency_score": 0.8348115682601929,
+        "type_2_text_consistency_score": 0.414824903011322,
+        "type_3_text_consistency_score": 0.1297849416732788
+    }
+}

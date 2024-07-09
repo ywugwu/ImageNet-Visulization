@@ -1,0 +1,12 @@
+{
+    "hare": {
+        "type_1_text_consistency_score": 0.6850764751434326,
+        "type_2_text_consistency_score": 0.19097629189491272,
+        "type_3_text_consistency_score": -0.16399139165878296
+    },
+    "rabbit, coney, cony": {
+        "type_1_text_consistency_score": 0.6850764751434326,
+        "type_2_text_consistency_score": 0.27659544348716736,
+        "type_3_text_consistency_score": 0.007494866847991943
+    }
+}

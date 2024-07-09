@@ -1,0 +1,12 @@
+{
+    "canoe": {
+        "type_1_text_consistency_score": 0.489917129278183,
+        "type_2_text_consistency_score": 0.03706318140029907,
+        "type_3_text_consistency_score": -0.07159358263015747
+    },
+    "yawl": {
+        "type_1_text_consistency_score": 0.489917129278183,
+        "type_2_text_consistency_score": 0.35439491271972656,
+        "type_3_text_consistency_score": -0.1562531590461731
+    }
+}

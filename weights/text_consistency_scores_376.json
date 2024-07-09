@@ -1,0 +1,12 @@
+{
+    "toothed whale": {
+        "type_1_text_consistency_score": 0.8754935264587402,
+        "type_2_text_consistency_score": 0.39765259623527527,
+        "type_3_text_consistency_score": 0.0748833417892456
+    },
+    "baleen whale, whalebone whale": {
+        "type_1_text_consistency_score": 0.8754935264587402,
+        "type_2_text_consistency_score": 0.06953242421150208,
+        "type_3_text_consistency_score": 0.1263890266418457
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "hawk": {
+        "type_1_text_consistency_score": 0.5207831859588623,
+        "type_2_text_consistency_score": 0.007258852943778038,
+        "type_3_text_consistency_score": -0.1819019913673401
+    },
+    "eagle, bird of jove": {
+        "type_1_text_consistency_score": 0.5324399471282959,
+        "type_2_text_consistency_score": 0.2400059849023819,
+        "type_3_text_consistency_score": 0.021973609924316406
+    },
+    "vulture": {
+        "type_1_text_consistency_score": 0.7403942942619324,
+        "type_2_text_consistency_score": 0.012591853737831116,
+        "type_3_text_consistency_score": -0.11308348178863525
+    },
+    "owl, bird of minerva, bird of night, hooter": {
+        "type_1_text_consistency_score": 0.5207831859588623,
+        "type_2_text_consistency_score": 0.2011059671640396,
+        "type_3_text_consistency_score": 0.07159477472305298
+    }
+}

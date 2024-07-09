@@ -1,0 +1,12 @@
+{
+    "bottle opener": {
+        "type_1_text_consistency_score": 0.9022431969642639,
+        "type_2_text_consistency_score": 0.2990398406982422,
+        "type_3_text_consistency_score": -0.005376160144805908
+    },
+    "can opener, tin opener": {
+        "type_1_text_consistency_score": 0.9022431969642639,
+        "type_2_text_consistency_score": 0.17907670140266418,
+        "type_3_text_consistency_score": 0.03887873888015747
+    }
+}

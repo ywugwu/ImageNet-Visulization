@@ -1,0 +1,12 @@
+{
+    "cougar, puma, catamount, mountain lion, painter, panther, felis concolor": {
+        "type_1_text_consistency_score": 0.780205488204956,
+        "type_2_text_consistency_score": 0.29702407121658325,
+        "type_3_text_consistency_score": 0.21566224098205566
+    },
+    "lynx, catamount": {
+        "type_1_text_consistency_score": 0.780205488204956,
+        "type_2_text_consistency_score": 0.2793574333190918,
+        "type_3_text_consistency_score": 0.08032643795013428
+    }
+}

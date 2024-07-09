@@ -1,0 +1,17 @@
+{
+    "orangutan, orang, orangutang, pongo pygmaeus": {
+        "type_1_text_consistency_score": 0.8234228491783142,
+        "type_2_text_consistency_score": 0.13651669025421143,
+        "type_3_text_consistency_score": 0.1540229320526123
+    },
+    "chimpanzee, chimp, pan troglodytes": {
+        "type_1_text_consistency_score": 0.8157093524932861,
+        "type_2_text_consistency_score": 0.24738523364067078,
+        "type_3_text_consistency_score": 0.13735723495483398
+    },
+    "gorilla, gorilla gorilla": {
+        "type_1_text_consistency_score": 0.8157093524932861,
+        "type_2_text_consistency_score": 0.26963651180267334,
+        "type_3_text_consistency_score": 0.08842724561691284
+    }
+}

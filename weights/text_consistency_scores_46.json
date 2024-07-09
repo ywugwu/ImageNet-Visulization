@@ -1,0 +1,27 @@
+{
+    "watch, ticker": {
+        "type_1_text_consistency_score": 0.7276713848114014,
+        "type_2_text_consistency_score": 0.07771332561969757,
+        "type_3_text_consistency_score": -0.06120419502258301
+    },
+    "clock": {
+        "type_1_text_consistency_score": 0.6991901993751526,
+        "type_2_text_consistency_score": 0.21231356263160706,
+        "type_3_text_consistency_score": -0.05965608358383179
+    },
+    "sandglass": {
+        "type_1_text_consistency_score": 0.7530273199081421,
+        "type_2_text_consistency_score": 0.12127767503261566,
+        "type_3_text_consistency_score": -0.07432150840759277
+    },
+    "sundial": {
+        "type_1_text_consistency_score": 0.8206098675727844,
+        "type_2_text_consistency_score": 0.0397263765335083,
+        "type_3_text_consistency_score": 0.02309095859527588
+    },
+    "timer": {
+        "type_1_text_consistency_score": 0.6991901993751526,
+        "type_2_text_consistency_score": 0.1019042581319809,
+        "type_3_text_consistency_score": -0.10786134004592896
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "apple": {
+        "type_1_text_consistency_score": 0.5975557565689087,
+        "type_2_text_consistency_score": 0.1658582240343094,
+        "type_3_text_consistency_score": -0.12403148412704468
+    },
+    "berry": {
+        "type_1_text_consistency_score": 0.5975557565689087,
+        "type_2_text_consistency_score": 0.1745924949645996,
+        "type_3_text_consistency_score": -0.12072545289993286
+    },
+    "citrus, citrus fruit, citrous fruit": {
+        "type_1_text_consistency_score": 0.600554347038269,
+        "type_2_text_consistency_score": 0.1253749281167984,
+        "type_3_text_consistency_score": 0.03350234031677246
+    },
+    "fig": {
+        "type_1_text_consistency_score": 0.600554347038269,
+        "type_2_text_consistency_score": 0.1873316764831543,
+        "type_3_text_consistency_score": -0.22392046451568604
+    },
+    "pineapple, ananas": {
+        "type_1_text_consistency_score": 0.7036781311035156,
+        "type_2_text_consistency_score": 0.1398511379957199,
+        "type_3_text_consistency_score": -0.13481998443603516
+    },
+    "banana": {
+        "type_1_text_consistency_score": 0.6760966181755066,
+        "type_2_text_consistency_score": 0.207536980509758,
+        "type_3_text_consistency_score": -0.05024927854537964
+    },
+    "jackfruit, jak, jack": {
+        "type_1_text_consistency_score": 0.6355218887329102,
+        "type_2_text_consistency_score": 0.1298212856054306,
+        "type_3_text_consistency_score": 0.015763521194458008
+    },
+    "custard apple": {
+        "type_1_text_consistency_score": 0.7089908123016357,
+        "type_2_text_consistency_score": 0.18492811918258667,
+        "type_3_text_consistency_score": 0.18425893783569336
+    },
+    "pomegranate": {
+        "type_1_text_consistency_score": 0.6964408159255981,
+        "type_2_text_consistency_score": 0.11640939116477966,
+        "type_3_text_consistency_score": -0.04499930143356323
+    }
+}

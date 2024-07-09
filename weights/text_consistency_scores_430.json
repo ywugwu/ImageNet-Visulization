@@ -1,0 +1,12 @@
+{
+    "frog, toad, toad frog, anuran, batrachian, salientian": {
+        "type_1_text_consistency_score": 0.7994201183319092,
+        "type_2_text_consistency_score": 0.2881892919540405,
+        "type_3_text_consistency_score": 0.22828787565231323
+    },
+    "salamander": {
+        "type_1_text_consistency_score": 0.7994201183319092,
+        "type_2_text_consistency_score": 0.29664915800094604,
+        "type_3_text_consistency_score": 0.07518351078033447
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "dutch oven": {
+        "type_1_text_consistency_score": 0.8470396995544434,
+        "type_2_text_consistency_score": 0.34102123975753784,
+        "type_3_text_consistency_score": 0.005444347858428955
+    },
+    "rotisserie": {
+        "type_1_text_consistency_score": 0.8470396995544434,
+        "type_2_text_consistency_score": 0.34028828144073486,
+        "type_3_text_consistency_score": 0.10392504930496216
+    }
+}

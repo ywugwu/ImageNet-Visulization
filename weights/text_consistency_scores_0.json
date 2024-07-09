@@ -1,0 +1,12 @@
+{
+    "hotdog, hot dog, red hot": {
+        "type_1_text_consistency_score": 0.8547266721725464,
+        "type_2_text_consistency_score": 0.18774056434631348,
+        "type_3_text_consistency_score": 0.0667567253112793
+    },
+    "hamburger, beefburger, burger": {
+        "type_1_text_consistency_score": 0.8547266721725464,
+        "type_2_text_consistency_score": 0.29136717319488525,
+        "type_3_text_consistency_score": 0.09880733489990234
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "plant, flora, plant life": {
+        "type_1_text_consistency_score": 0.7876703143119812,
+        "type_2_text_consistency_score": 0.005190126597881317,
+        "type_3_text_consistency_score": 0.0806419849395752
+    },
+    "fungus": {
+        "type_1_text_consistency_score": 0.7876703143119812,
+        "type_2_text_consistency_score": 0.08914227038621902,
+        "type_3_text_consistency_score": 0.038066744804382324
+    },
+    "person, individual, someone, somebody, mortal, soul": {
+        "type_1_text_consistency_score": 0.8289798498153687,
+        "type_2_text_consistency_score": 0.2627916932106018,
+        "type_3_text_consistency_score": 0.06498581171035767
+    },
+    "animal, animate being, beast, brute, creature, fauna": {
+        "type_1_text_consistency_score": 0.8464679718017578,
+        "type_2_text_consistency_score": 0.18062764406204224,
+        "type_3_text_consistency_score": 0.05144083499908447
+    }
+}

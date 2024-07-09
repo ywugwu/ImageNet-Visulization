@@ -1,0 +1,17 @@
+{
+    "bathing cap, swimming cap": {
+        "type_1_text_consistency_score": 0.7659530639648438,
+        "type_2_text_consistency_score": 0.15619489550590515,
+        "type_3_text_consistency_score": 0.05226415395736694
+    },
+    "mortarboard": {
+        "type_1_text_consistency_score": 0.9149793982505798,
+        "type_2_text_consistency_score": 0.4422153830528259,
+        "type_3_text_consistency_score": 0.15094351768493652
+    },
+    "shower cap": {
+        "type_1_text_consistency_score": 0.7659530639648438,
+        "type_2_text_consistency_score": 0.21446619927883148,
+        "type_3_text_consistency_score": 0.02131122350692749
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "acoustic guitar": {
+        "type_1_text_consistency_score": 0.882775068283081,
+        "type_2_text_consistency_score": 0.07765732705593109,
+        "type_3_text_consistency_score": -0.00046312808990478516
+    },
+    "electric guitar": {
+        "type_1_text_consistency_score": 0.882775068283081,
+        "type_2_text_consistency_score": 0.2780897617340088,
+        "type_3_text_consistency_score": 0.0007933974266052246
+    }
+}

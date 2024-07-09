@@ -1,0 +1,32 @@
+{
+    "stew": {
+        "type_1_text_consistency_score": 0.5960098505020142,
+        "type_2_text_consistency_score": 0.012860488146543503,
+        "type_3_text_consistency_score": -0.10630905628204346
+    },
+    "meat loaf, meatloaf": {
+        "type_1_text_consistency_score": 0.6832170486450195,
+        "type_2_text_consistency_score": -0.009748727083206177,
+        "type_3_text_consistency_score": 0.17069530487060547
+    },
+    "soup": {
+        "type_1_text_consistency_score": 0.5960098505020142,
+        "type_2_text_consistency_score": 0.24713459610939026,
+        "type_3_text_consistency_score": 0.014746606349945068
+    },
+    "potpie": {
+        "type_1_text_consistency_score": 0.725142240524292,
+        "type_2_text_consistency_score": 0.18204326927661896,
+        "type_3_text_consistency_score": -0.08988779783248901
+    },
+    "burrito": {
+        "type_1_text_consistency_score": 0.7614643573760986,
+        "type_2_text_consistency_score": 0.11290836334228516,
+        "type_3_text_consistency_score": 0.016478240489959717
+    },
+    "pizza, pizza pie": {
+        "type_1_text_consistency_score": 0.6741393804550171,
+        "type_2_text_consistency_score": 0.24671974778175354,
+        "type_3_text_consistency_score": 0.011890232563018799
+    }
+}

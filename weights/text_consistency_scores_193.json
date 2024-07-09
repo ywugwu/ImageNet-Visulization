@@ -1,0 +1,12 @@
+{
+    "board": {
+        "type_1_text_consistency_score": 0.7800153493881226,
+        "type_2_text_consistency_score": 0.15282179415225983,
+        "type_3_text_consistency_score": -0.012344658374786377
+    },
+    "plate": {
+        "type_1_text_consistency_score": 0.7800153493881226,
+        "type_2_text_consistency_score": 0.2683025002479553,
+        "type_3_text_consistency_score": -0.035587847232818604
+    }
+}

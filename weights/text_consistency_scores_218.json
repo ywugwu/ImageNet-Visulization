@@ -1,0 +1,12 @@
+{
+    "dress, frock": {
+        "type_1_text_consistency_score": 0.8944566249847412,
+        "type_2_text_consistency_score": 0.3900921940803528,
+        "type_3_text_consistency_score": 0.1518256664276123
+    },
+    "brassiere, bra, bandeau": {
+        "type_1_text_consistency_score": 0.8944566249847412,
+        "type_2_text_consistency_score": 0.2533181309700012,
+        "type_3_text_consistency_score": 0.17208385467529297
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "fur coat": {
+        "type_1_text_consistency_score": 0.7764762043952942,
+        "type_2_text_consistency_score": 0.2041989266872406,
+        "type_3_text_consistency_score": 0.10336941480636597
+    },
+    "raincoat, waterproof": {
+        "type_1_text_consistency_score": 0.7764762043952942,
+        "type_2_text_consistency_score": 0.2581021785736084,
+        "type_3_text_consistency_score": 0.05974841117858887
+    },
+    "lab coat, laboratory coat": {
+        "type_1_text_consistency_score": 0.8183934092521667,
+        "type_2_text_consistency_score": 0.3216020166873932,
+        "type_3_text_consistency_score": 0.02464669942855835
+    }
+}

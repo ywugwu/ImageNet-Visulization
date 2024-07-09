@@ -1,0 +1,12 @@
+{
+    "china cabinet, china closet": {
+        "type_1_text_consistency_score": 0.9206644296646118,
+        "type_2_text_consistency_score": 0.21504618227481842,
+        "type_3_text_consistency_score": 0.21757721900939941
+    },
+    "medicine chest, medicine cabinet": {
+        "type_1_text_consistency_score": 0.9206644296646118,
+        "type_2_text_consistency_score": 0.40779218077659607,
+        "type_3_text_consistency_score": 0.18623250722885132
+    }
+}

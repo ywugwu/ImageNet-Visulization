@@ -1,0 +1,37 @@
+{
+    "instrument of execution": {
+        "type_1_text_consistency_score": 0.8692225217819214,
+        "type_2_text_consistency_score": 0.1760791838169098,
+        "type_3_text_consistency_score": 0.05907726287841797
+    },
+    "measuring instrument, measuring system, measuring device": {
+        "type_1_text_consistency_score": 0.8298652768135071,
+        "type_2_text_consistency_score": 0.14324495196342468,
+        "type_3_text_consistency_score": 0.020320355892181396
+    },
+    "medical instrument": {
+        "type_1_text_consistency_score": 0.844028651714325,
+        "type_2_text_consistency_score": 0.05841199681162834,
+        "type_3_text_consistency_score": -0.010040223598480225
+    },
+    "navigational instrument": {
+        "type_1_text_consistency_score": 0.8018532395362854,
+        "type_2_text_consistency_score": -0.08849385380744934,
+        "type_3_text_consistency_score": 0.03899568319320679
+    },
+    "optical instrument": {
+        "type_1_text_consistency_score": 0.8018532395362854,
+        "type_2_text_consistency_score": 0.09575215727090836,
+        "type_3_text_consistency_score": -0.026582062244415283
+    },
+    "scientific instrument": {
+        "type_1_text_consistency_score": 0.8262962102890015,
+        "type_2_text_consistency_score": 0.19283725321292877,
+        "type_3_text_consistency_score": -0.02953493595123291
+    },
+    "weapon, arm, weapon system": {
+        "type_1_text_consistency_score": 0.8174271583557129,
+        "type_2_text_consistency_score": 0.12181241065263748,
+        "type_3_text_consistency_score": 0.04618346691131592
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "binoculars, field glasses, opera glasses": {
+        "type_1_text_consistency_score": 0.8480885028839111,
+        "type_2_text_consistency_score": 0.18420860171318054,
+        "type_3_text_consistency_score": 0.22404468059539795
+    },
+    "projector": {
+        "type_1_text_consistency_score": 0.8480885028839111,
+        "type_2_text_consistency_score": 0.4903680086135864,
+        "type_3_text_consistency_score": 0.22337132692337036
+    },
+    "spectacles, specs, eyeglasses, glasses": {
+        "type_1_text_consistency_score": 0.8689453601837158,
+        "type_2_text_consistency_score": 0.2632189393043518,
+        "type_3_text_consistency_score": 0.20236992835998535
+    }
+}

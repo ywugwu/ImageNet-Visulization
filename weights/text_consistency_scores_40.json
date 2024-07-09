@@ -1,0 +1,12 @@
+{
+    "loudspeaker, speaker, speaker unit, loudspeaker system, speaker system": {
+        "type_1_text_consistency_score": 0.8975731134414673,
+        "type_2_text_consistency_score": 0.2860117554664612,
+        "type_3_text_consistency_score": 0.2080276608467102
+    },
+    "microphone, mike": {
+        "type_1_text_consistency_score": 0.8975731134414673,
+        "type_2_text_consistency_score": 0.29475170373916626,
+        "type_3_text_consistency_score": 0.08170449733734131
+    }
+}

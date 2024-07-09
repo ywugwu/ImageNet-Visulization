@@ -1,0 +1,12 @@
+{
+    "apiary, bee house": {
+        "type_1_text_consistency_score": 0.8342617154121399,
+        "type_2_text_consistency_score": 0.3142102360725403,
+        "type_3_text_consistency_score": 0.11243933439254761
+    },
+    "boathouse": {
+        "type_1_text_consistency_score": 0.8342617154121399,
+        "type_2_text_consistency_score": 0.2847413420677185,
+        "type_3_text_consistency_score": 0.034773826599121094
+    }
+}

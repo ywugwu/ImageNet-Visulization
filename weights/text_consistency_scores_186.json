@@ -1,0 +1,17 @@
+{
+    "triumphal arch": {
+        "type_1_text_consistency_score": 0.9253466129302979,
+        "type_2_text_consistency_score": 0.3242412805557251,
+        "type_3_text_consistency_score": 0.17465615272521973
+    },
+    "brass, memorial tablet, plaque": {
+        "type_1_text_consistency_score": 0.9253466129302979,
+        "type_2_text_consistency_score": 0.37731441855430603,
+        "type_3_text_consistency_score": 0.16175931692123413
+    },
+    "megalith, megalithic structure": {
+        "type_1_text_consistency_score": 0.9317090511322021,
+        "type_2_text_consistency_score": 0.3342406749725342,
+        "type_3_text_consistency_score": 0.1940653920173645
+    }
+}

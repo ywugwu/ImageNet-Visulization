@@ -1,0 +1,22 @@
+{
+    "pomeranian": {
+        "type_1_text_consistency_score": 0.6586610674858093,
+        "type_2_text_consistency_score": 0.11016297340393066,
+        "type_3_text_consistency_score": -0.020137786865234375
+    },
+    "keeshond": {
+        "type_1_text_consistency_score": 0.8716304302215576,
+        "type_2_text_consistency_score": 0.1148606687784195,
+        "type_3_text_consistency_score": 0.14548206329345703
+    },
+    "chow, chow chow": {
+        "type_1_text_consistency_score": 0.6586610674858093,
+        "type_2_text_consistency_score": 0.33376529812812805,
+        "type_3_text_consistency_score": -0.047045350074768066
+    },
+    "samoyed, samoyede": {
+        "type_1_text_consistency_score": 0.8653967380523682,
+        "type_2_text_consistency_score": 0.18609437346458435,
+        "type_3_text_consistency_score": 0.1607632040977478
+    }
+}

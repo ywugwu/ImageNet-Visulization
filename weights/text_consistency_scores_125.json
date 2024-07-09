@@ -1,0 +1,12 @@
+{
+    "computer keyboard, keypad": {
+        "type_1_text_consistency_score": 0.845686137676239,
+        "type_2_text_consistency_score": 0.16528448462486267,
+        "type_3_text_consistency_score": 0.20810741186141968
+    },
+    "joystick": {
+        "type_1_text_consistency_score": 0.845686137676239,
+        "type_2_text_consistency_score": 0.3690917491912842,
+        "type_3_text_consistency_score": 0.05811399221420288
+    }
+}

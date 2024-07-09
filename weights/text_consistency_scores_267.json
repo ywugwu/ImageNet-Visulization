@@ -1,0 +1,12 @@
+{
+    "daisy": {
+        "type_1_text_consistency_score": 0.6545766592025757,
+        "type_2_text_consistency_score": 0.36066368222236633,
+        "type_3_text_consistency_score": 0.061586618423461914
+    },
+    "orchid, orchidaceous plant": {
+        "type_1_text_consistency_score": 0.6545766592025757,
+        "type_2_text_consistency_score": 0.136531263589859,
+        "type_3_text_consistency_score": 0.2510395646095276
+    }
+}

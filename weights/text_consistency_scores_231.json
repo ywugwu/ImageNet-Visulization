@@ -1,0 +1,57 @@
+{
+    "shield": {
+        "type_1_text_consistency_score": 0.41258761286735535,
+        "type_2_text_consistency_score": 0.05879932641983032,
+        "type_3_text_consistency_score": -0.08414095640182495
+    },
+    "cap": {
+        "type_1_text_consistency_score": 0.37970349192619324,
+        "type_2_text_consistency_score": 0.005731053650379181,
+        "type_3_text_consistency_score": -0.12000089883804321
+    },
+    "roof": {
+        "type_1_text_consistency_score": 0.4531293511390686,
+        "type_2_text_consistency_score": 0.1017804741859436,
+        "type_3_text_consistency_score": 0.012097001075744629
+    },
+    "blind, screen": {
+        "type_1_text_consistency_score": 0.37409472465515137,
+        "type_2_text_consistency_score": -0.0364154651761055,
+        "type_3_text_consistency_score": -0.13404178619384766
+    },
+    "binder, ring-binder": {
+        "type_1_text_consistency_score": 0.5621122121810913,
+        "type_2_text_consistency_score": 0.12069661170244217,
+        "type_3_text_consistency_score": 0.09892445802688599
+    },
+    "shade": {
+        "type_1_text_consistency_score": 0.3934539556503296,
+        "type_2_text_consistency_score": 0.14793327450752258,
+        "type_3_text_consistency_score": -0.020888805389404297
+    },
+    "screen": {
+        "type_1_text_consistency_score": 0.37409472465515137,
+        "type_2_text_consistency_score": 0.0961368978023529,
+        "type_3_text_consistency_score": -0.04734766483306885
+    },
+    "armor, armour": {
+        "type_1_text_consistency_score": 0.46861422061920166,
+        "type_2_text_consistency_score": 0.16134385764598846,
+        "type_3_text_consistency_score": 0.004973113536834717
+    },
+    "mask": {
+        "type_1_text_consistency_score": 0.520003080368042,
+        "type_2_text_consistency_score": 0.17063722014427185,
+        "type_3_text_consistency_score": -0.023362338542938232
+    },
+    "sheath": {
+        "type_1_text_consistency_score": 0.37970349192619324,
+        "type_2_text_consistency_score": 0.08427377045154572,
+        "type_3_text_consistency_score": -0.06455498933792114
+    },
+    "shelter": {
+        "type_1_text_consistency_score": 0.4515521228313446,
+        "type_2_text_consistency_score": 0.02760043740272522,
+        "type_3_text_consistency_score": -0.06709039211273193
+    }
+}

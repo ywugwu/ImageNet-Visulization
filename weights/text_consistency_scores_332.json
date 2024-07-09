@@ -1,0 +1,12 @@
+{
+    "old world monkey, catarrhine": {
+        "type_1_text_consistency_score": 0.6480070948600769,
+        "type_2_text_consistency_score": -0.048491157591342926,
+        "type_3_text_consistency_score": -0.059258103370666504
+    },
+    "new world monkey, platyrrhine, platyrrhinian": {
+        "type_1_text_consistency_score": 0.6480070948600769,
+        "type_2_text_consistency_score": 0.3572097420692444,
+        "type_3_text_consistency_score": 0.05479538440704346
+    }
+}

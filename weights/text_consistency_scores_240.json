@@ -1,0 +1,12 @@
+{
+    "disguise": {
+        "type_1_text_consistency_score": 0.8327577114105225,
+        "type_2_text_consistency_score": 0.27864065766334534,
+        "type_3_text_consistency_score": 0.056682467460632324
+    },
+    "hairpiece, false hair, postiche": {
+        "type_1_text_consistency_score": 0.8327577114105225,
+        "type_2_text_consistency_score": 0.2084251195192337,
+        "type_3_text_consistency_score": 0.08469593524932861
+    }
+}

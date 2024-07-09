@@ -1,0 +1,12 @@
+{
+    "oil filter": {
+        "type_1_text_consistency_score": 0.745814859867096,
+        "type_2_text_consistency_score": 0.3235626518726349,
+        "type_3_text_consistency_score": 0.06505310535430908
+    },
+    "strainer": {
+        "type_1_text_consistency_score": 0.745814859867096,
+        "type_2_text_consistency_score": 0.18587447702884674,
+        "type_3_text_consistency_score": 0.09625744819641113
+    }
+}

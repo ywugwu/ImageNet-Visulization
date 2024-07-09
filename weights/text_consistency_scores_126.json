@@ -1,0 +1,12 @@
+{
+    "printer": {
+        "type_1_text_consistency_score": 0.7878462672233582,
+        "type_2_text_consistency_score": 0.26905760169029236,
+        "type_3_text_consistency_score": 0.04449397325515747
+    },
+    "data input device, input device": {
+        "type_1_text_consistency_score": 0.7878462672233582,
+        "type_2_text_consistency_score": 0.2162483036518097,
+        "type_3_text_consistency_score": 0.11864197254180908
+    }
+}

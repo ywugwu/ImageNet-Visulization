@@ -1,0 +1,17 @@
+{
+    "percussion instrument, percussive instrument": {
+        "type_1_text_consistency_score": 0.8182735443115234,
+        "type_2_text_consistency_score": 0.28213441371917725,
+        "type_3_text_consistency_score": 0.0019277334213256836
+    },
+    "stringed instrument": {
+        "type_1_text_consistency_score": 0.8182735443115234,
+        "type_2_text_consistency_score": 0.053902048617601395,
+        "type_3_text_consistency_score": -0.008851170539855957
+    },
+    "wind instrument, wind": {
+        "type_1_text_consistency_score": 0.8868292570114136,
+        "type_2_text_consistency_score": 0.1287848800420761,
+        "type_3_text_consistency_score": 0.05250340700149536
+    }
+}

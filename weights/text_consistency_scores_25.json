@@ -1,0 +1,12 @@
+{
+    "mechanism": {
+        "type_1_text_consistency_score": 0.8401637077331543,
+        "type_2_text_consistency_score": 0.1766027808189392,
+        "type_3_text_consistency_score": 0.07576155662536621
+    },
+    "plant part, plant structure": {
+        "type_1_text_consistency_score": 0.8401637077331543,
+        "type_2_text_consistency_score": 0.21897545456886292,
+        "type_3_text_consistency_score": 0.09630066156387329
+    }
+}

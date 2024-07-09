@@ -1,0 +1,17 @@
+{
+    "bow tie, bow-tie, bowtie": {
+        "type_1_text_consistency_score": 0.778172492980957,
+        "type_2_text_consistency_score": 0.32772037386894226,
+        "type_3_text_consistency_score": 0.043627023696899414
+    },
+    "windsor tie": {
+        "type_1_text_consistency_score": 0.8444042205810547,
+        "type_2_text_consistency_score": 0.16221967339515686,
+        "type_3_text_consistency_score": 0.07083231210708618
+    },
+    "bolo tie, bolo, bola tie, bola": {
+        "type_1_text_consistency_score": 0.778172492980957,
+        "type_2_text_consistency_score": 0.1431833952665329,
+        "type_3_text_consistency_score": 0.15532559156417847
+    }
+}

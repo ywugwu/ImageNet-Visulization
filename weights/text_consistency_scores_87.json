@@ -1,0 +1,17 @@
+{
+    "quill, quill pen": {
+        "type_1_text_consistency_score": 0.7911508083343506,
+        "type_2_text_consistency_score": 0.2487107813358307,
+        "type_3_text_consistency_score": -0.005339384078979492
+    },
+    "ballpoint, ballpoint pen, ballpen, biro": {
+        "type_1_text_consistency_score": 0.7911508083343506,
+        "type_2_text_consistency_score": -0.002931356430053711,
+        "type_3_text_consistency_score": 0.13106942176818848
+    },
+    "fountain pen": {
+        "type_1_text_consistency_score": 0.8160091638565063,
+        "type_2_text_consistency_score": 0.29563403129577637,
+        "type_3_text_consistency_score": 0.08200681209564209
+    }
+}

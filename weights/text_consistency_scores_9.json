@@ -1,0 +1,17 @@
+{
+    "mountain, mount": {
+        "type_1_text_consistency_score": 0.601058304309845,
+        "type_2_text_consistency_score": 0.2089044451713562,
+        "type_3_text_consistency_score": 0.08367294073104858
+    },
+    "promontory, headland, head, foreland": {
+        "type_1_text_consistency_score": 0.7041375637054443,
+        "type_2_text_consistency_score": 0.13627345860004425,
+        "type_3_text_consistency_score": -0.17849498987197876
+    },
+    "ridge": {
+        "type_1_text_consistency_score": 0.601058304309845,
+        "type_2_text_consistency_score": 0.06958301365375519,
+        "type_3_text_consistency_score": -0.0742485523223877
+    }
+}

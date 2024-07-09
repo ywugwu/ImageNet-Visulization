@@ -1,0 +1,12 @@
+{
+    "ray": {
+        "type_1_text_consistency_score": 0.48182183504104614,
+        "type_2_text_consistency_score": 0.12609191238880157,
+        "type_3_text_consistency_score": -0.17842000722885132
+    },
+    "shark": {
+        "type_1_text_consistency_score": 0.48182183504104614,
+        "type_2_text_consistency_score": 0.19770961999893188,
+        "type_3_text_consistency_score": -0.04015696048736572
+    }
+}

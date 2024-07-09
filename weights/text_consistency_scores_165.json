@@ -1,0 +1,22 @@
+{
+    "bench": {
+        "type_1_text_consistency_score": 0.7221691608428955,
+        "type_2_text_consistency_score": 0.15279562771320343,
+        "type_3_text_consistency_score": 0.012972056865692139
+    },
+    "chair": {
+        "type_1_text_consistency_score": 0.7030147910118103,
+        "type_2_text_consistency_score": 0.17434069514274597,
+        "type_3_text_consistency_score": 0.04577672481536865
+    },
+    "sofa, couch, lounge": {
+        "type_1_text_consistency_score": 0.7978376746177673,
+        "type_2_text_consistency_score": 0.2731437683105469,
+        "type_3_text_consistency_score": 0.09281128644943237
+    },
+    "toilet seat": {
+        "type_1_text_consistency_score": 0.7030147910118103,
+        "type_2_text_consistency_score": 0.3091673254966736,
+        "type_3_text_consistency_score": 0.043740153312683105
+    }
+}

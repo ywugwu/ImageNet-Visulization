@@ -1,0 +1,12 @@
+{
+    "manhole cover": {
+        "type_1_text_consistency_score": 0.629802942276001,
+        "type_2_text_consistency_score": 0.17120805382728577,
+        "type_3_text_consistency_score": 0.2326865792274475
+    },
+    "cap": {
+        "type_1_text_consistency_score": 0.629802942276001,
+        "type_2_text_consistency_score": 0.3082472085952759,
+        "type_3_text_consistency_score": 0.026995360851287842
+    }
+}

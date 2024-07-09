@@ -1,0 +1,17 @@
+{
+    "laptop, laptop computer": {
+        "type_1_text_consistency_score": 0.8588783740997314,
+        "type_2_text_consistency_score": 0.3433499038219452,
+        "type_3_text_consistency_score": -0.0327681303024292
+    },
+    "hand-held computer, hand-held microcomputer": {
+        "type_1_text_consistency_score": 0.9292114973068237,
+        "type_2_text_consistency_score": 0.22764617204666138,
+        "type_3_text_consistency_score": 0.11714202165603638
+    },
+    "notebook, notebook computer": {
+        "type_1_text_consistency_score": 0.8588783740997314,
+        "type_2_text_consistency_score": 0.03526907414197922,
+        "type_3_text_consistency_score": -0.06447619199752808
+    }
+}

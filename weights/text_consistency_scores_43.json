@@ -1,0 +1,12 @@
+{
+    "space heater": {
+        "type_1_text_consistency_score": 0.7110161185264587,
+        "type_2_text_consistency_score": 0.291542112827301,
+        "type_3_text_consistency_score": 0.0200653076171875
+    },
+    "stove": {
+        "type_1_text_consistency_score": 0.7110161185264587,
+        "type_2_text_consistency_score": 0.19768424332141876,
+        "type_3_text_consistency_score": -0.04821056127548218
+    }
+}

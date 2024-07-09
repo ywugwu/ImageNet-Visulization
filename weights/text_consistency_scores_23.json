@@ -1,0 +1,17 @@
+{
+    "oilseed, oil-rich seed": {
+        "type_1_text_consistency_score": 0.8740274310112,
+        "type_2_text_consistency_score": 0.32146787643432617,
+        "type_3_text_consistency_score": 0.11458539962768555
+    },
+    "grain, caryopsis": {
+        "type_1_text_consistency_score": 0.8726390600204468,
+        "type_2_text_consistency_score": 0.2503308653831482,
+        "type_3_text_consistency_score": 0.09966027736663818
+    },
+    "buckeye, horse chestnut, conker": {
+        "type_1_text_consistency_score": 0.8726390600204468,
+        "type_2_text_consistency_score": 0.12113255262374878,
+        "type_3_text_consistency_score": 0.12586504220962524
+    }
+}

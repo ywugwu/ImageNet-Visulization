@@ -1,0 +1,12 @@
+{
+    "entree, main course": {
+        "type_1_text_consistency_score": 0.7353982925415039,
+        "type_2_text_consistency_score": 0.07835006713867188,
+        "type_3_text_consistency_score": 0.06282353401184082
+    },
+    "dessert, sweet, afters": {
+        "type_1_text_consistency_score": 0.7353982925415039,
+        "type_2_text_consistency_score": 0.26650041341781616,
+        "type_3_text_consistency_score": 0.0644952654838562
+    }
+}

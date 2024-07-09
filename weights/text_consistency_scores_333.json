@@ -1,0 +1,17 @@
+{
+    "lemur": {
+        "type_1_text_consistency_score": 0.845024585723877,
+        "type_2_text_consistency_score": 0.15724903345108032,
+        "type_3_text_consistency_score": 0.06673586368560791
+    },
+    "ape": {
+        "type_1_text_consistency_score": 0.6737908720970154,
+        "type_2_text_consistency_score": 0.18300408124923706,
+        "type_3_text_consistency_score": -0.10026991367340088
+    },
+    "monkey": {
+        "type_1_text_consistency_score": 0.6737908720970154,
+        "type_2_text_consistency_score": 0.1267806738615036,
+        "type_3_text_consistency_score": -0.1470155119895935
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "door": {
+        "type_1_text_consistency_score": 0.7564029097557068,
+        "type_2_text_consistency_score": 0.2752574384212494,
+        "type_3_text_consistency_score": -0.014731824398040771
+    },
+    "gate": {
+        "type_1_text_consistency_score": 0.7564029097557068,
+        "type_2_text_consistency_score": 0.13494037091732025,
+        "type_3_text_consistency_score": -0.026040494441986084
+    }
+}

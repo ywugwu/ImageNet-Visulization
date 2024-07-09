@@ -1,0 +1,47 @@
+{
+    "farm building": {
+        "type_1_text_consistency_score": 0.6737998127937317,
+        "type_2_text_consistency_score": 0.021059036254882812,
+        "type_3_text_consistency_score": -0.027932167053222656
+    },
+    "greenhouse, nursery, glasshouse": {
+        "type_1_text_consistency_score": 0.773757815361023,
+        "type_2_text_consistency_score": 0.06577901542186737,
+        "type_3_text_consistency_score": 0.07730567455291748
+    },
+    "house": {
+        "type_1_text_consistency_score": 0.547845721244812,
+        "type_2_text_consistency_score": -0.10302070528268814,
+        "type_3_text_consistency_score": -0.044673800468444824
+    },
+    "library": {
+        "type_1_text_consistency_score": 0.6356123685836792,
+        "type_2_text_consistency_score": 0.03551499545574188,
+        "type_3_text_consistency_score": -0.004069864749908447
+    },
+    "outbuilding": {
+        "type_1_text_consistency_score": 0.5746309161186218,
+        "type_2_text_consistency_score": 0.0654810220003128,
+        "type_3_text_consistency_score": 0.01817452907562256
+    },
+    "place of worship, house of prayer, house of god, house of worship": {
+        "type_1_text_consistency_score": 0.5635573863983154,
+        "type_2_text_consistency_score": 0.3277069330215454,
+        "type_3_text_consistency_score": 0.10318946838378906
+    },
+    "planetarium": {
+        "type_1_text_consistency_score": 0.8102259039878845,
+        "type_2_text_consistency_score": 0.014048412442207336,
+        "type_3_text_consistency_score": 0.08339273929595947
+    },
+    "restaurant, eating house, eating place, eatery": {
+        "type_1_text_consistency_score": 0.6622006893157959,
+        "type_2_text_consistency_score": 0.12686841189861298,
+        "type_3_text_consistency_score": 0.07801622152328491
+    },
+    "theater, theatre, house": {
+        "type_1_text_consistency_score": 0.547845721244812,
+        "type_2_text_consistency_score": 0.03220721334218979,
+        "type_3_text_consistency_score": -0.017448246479034424
+    }
+}

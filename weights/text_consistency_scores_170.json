@@ -1,0 +1,12 @@
+{
+    "radio, wireless": {
+        "type_1_text_consistency_score": 0.7418677806854248,
+        "type_2_text_consistency_score": 0.08373507857322693,
+        "type_3_text_consistency_score": 0.0020671486854553223
+    },
+    "telecommunication system, telecom system, telecommunication equipment, telecom equipment": {
+        "type_1_text_consistency_score": 0.7418677806854248,
+        "type_2_text_consistency_score": 0.2835170030593872,
+        "type_3_text_consistency_score": 0.14580893516540527
+    }
+}

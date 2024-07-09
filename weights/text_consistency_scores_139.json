@@ -1,0 +1,12 @@
+{
+    "aircraft carrier, carrier, flattop, attack aircraft carrier": {
+        "type_1_text_consistency_score": 0.9042999744415283,
+        "type_2_text_consistency_score": 0.4029827117919922,
+        "type_3_text_consistency_score": 0.21561121940612793
+    },
+    "submersible, submersible warship": {
+        "type_1_text_consistency_score": 0.9042999744415283,
+        "type_2_text_consistency_score": 0.33808809518814087,
+        "type_3_text_consistency_score": 0.1856365203857422
+    }
+}

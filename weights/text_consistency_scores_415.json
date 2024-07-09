@@ -1,0 +1,12 @@
+{
+    "agama": {
+        "type_1_text_consistency_score": 0.8056166172027588,
+        "type_2_text_consistency_score": 0.29326412081718445,
+        "type_3_text_consistency_score": 0.08192002773284912
+    },
+    "frilled lizard, chlamydosaurus kingi": {
+        "type_1_text_consistency_score": 0.8056166172027588,
+        "type_2_text_consistency_score": 0.3801816403865814,
+        "type_3_text_consistency_score": 0.2909395694732666
+    }
+}

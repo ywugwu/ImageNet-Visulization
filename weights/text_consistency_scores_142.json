@@ -1,0 +1,17 @@
+{
+    "aircraft": {
+        "type_1_text_consistency_score": 0.7927466034889221,
+        "type_2_text_consistency_score": 0.3546951413154602,
+        "type_3_text_consistency_score": 0.024575769901275635
+    },
+    "spacecraft, ballistic capsule, space vehicle": {
+        "type_1_text_consistency_score": 0.8452302813529968,
+        "type_2_text_consistency_score": 0.06828060746192932,
+        "type_3_text_consistency_score": 0.1633017659187317
+    },
+    "vessel, watercraft": {
+        "type_1_text_consistency_score": 0.7927466034889221,
+        "type_2_text_consistency_score": 0.08064164221286774,
+        "type_3_text_consistency_score": 0.0276985764503479
+    }
+}

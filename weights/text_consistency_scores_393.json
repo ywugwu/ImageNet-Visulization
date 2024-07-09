@@ -1,0 +1,12 @@
+{
+    "jay": {
+        "type_1_text_consistency_score": 0.5094707012176514,
+        "type_2_text_consistency_score": 0.19024287164211273,
+        "type_3_text_consistency_score": -0.31924813985824585
+    },
+    "magpie": {
+        "type_1_text_consistency_score": 0.5094707012176514,
+        "type_2_text_consistency_score": 0.20099343359470367,
+        "type_3_text_consistency_score": -0.20175284147262573
+    }
+}

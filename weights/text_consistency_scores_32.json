@@ -1,0 +1,17 @@
+{
+    "cornet, horn, trumpet, trump": {
+        "type_1_text_consistency_score": 0.8076595067977905,
+        "type_2_text_consistency_score": 0.15159788727760315,
+        "type_3_text_consistency_score": 0.011086523532867432
+    },
+    "french horn, horn": {
+        "type_1_text_consistency_score": 0.8354868292808533,
+        "type_2_text_consistency_score": 0.15780988335609436,
+        "type_3_text_consistency_score": 0.017312169075012207
+    },
+    "trombone": {
+        "type_1_text_consistency_score": 0.8076595067977905,
+        "type_2_text_consistency_score": 0.2694007158279419,
+        "type_3_text_consistency_score": -0.04105478525161743
+    }
+}

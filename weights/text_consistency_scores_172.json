@@ -1,0 +1,47 @@
+{
+    "device": {
+        "type_1_text_consistency_score": 0.44813233613967896,
+        "type_2_text_consistency_score": 0.0915396437048912,
+        "type_3_text_consistency_score": -0.120891273021698
+    },
+    "implement": {
+        "type_1_text_consistency_score": 0.5638750791549683,
+        "type_2_text_consistency_score": 0.057851534336805344,
+        "type_3_text_consistency_score": -0.029163360595703125
+    },
+    "container": {
+        "type_1_text_consistency_score": 0.6449903249740601,
+        "type_2_text_consistency_score": 0.0162678062915802,
+        "type_3_text_consistency_score": -0.004148602485656738
+    },
+    "equipment": {
+        "type_1_text_consistency_score": 0.5479836463928223,
+        "type_2_text_consistency_score": 0.07289718091487885,
+        "type_3_text_consistency_score": -0.020587265491485596
+    },
+    "toiletry, toilet articles": {
+        "type_1_text_consistency_score": 0.7899547815322876,
+        "type_2_text_consistency_score": 0.09199681878089905,
+        "type_3_text_consistency_score": 0.12035596370697021
+    },
+    "conveyance, transport": {
+        "type_1_text_consistency_score": 0.6477823853492737,
+        "type_2_text_consistency_score": 0.1034219041466713,
+        "type_3_text_consistency_score": 0.025096237659454346
+    },
+    "connection, connexion, connector, connecter, connective": {
+        "type_1_text_consistency_score": 0.6616919040679932,
+        "type_2_text_consistency_score": 0.024553947150707245,
+        "type_3_text_consistency_score": 0.15582579374313354
+    },
+    "furnishing": {
+        "type_1_text_consistency_score": 0.5969161987304688,
+        "type_2_text_consistency_score": 0.09816614538431168,
+        "type_3_text_consistency_score": 0.02304983139038086
+    },
+    "system": {
+        "type_1_text_consistency_score": 0.44813233613967896,
+        "type_2_text_consistency_score": 0.11210425198078156,
+        "type_3_text_consistency_score": -0.09936809539794922
+    }
+}

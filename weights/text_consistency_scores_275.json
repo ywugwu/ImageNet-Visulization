@@ -1,0 +1,12 @@
+{
+    "malacostracan crustacean": {
+        "type_1_text_consistency_score": 0.832255482673645,
+        "type_2_text_consistency_score": 0.18363282084465027,
+        "type_3_text_consistency_score": -0.0009863972663879395
+    },
+    "decapod crustacean, decapod": {
+        "type_1_text_consistency_score": 0.832255482673645,
+        "type_2_text_consistency_score": 0.15942423045635223,
+        "type_3_text_consistency_score": 0.009557962417602539
+    }
+}

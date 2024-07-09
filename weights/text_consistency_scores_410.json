@@ -1,0 +1,27 @@
+{
+    "waterfowl, water bird, waterbird": {
+        "type_1_text_consistency_score": 0.6988872289657593,
+        "type_2_text_consistency_score": 0.23675966262817383,
+        "type_3_text_consistency_score": -0.012801826000213623
+    },
+    "swan": {
+        "type_1_text_consistency_score": 0.6988872289657593,
+        "type_2_text_consistency_score": 0.07933228462934494,
+        "type_3_text_consistency_score": -0.04686260223388672
+    },
+    "wading bird, wader": {
+        "type_1_text_consistency_score": 0.7807015776634216,
+        "type_2_text_consistency_score": 0.05797203630208969,
+        "type_3_text_consistency_score": -0.05364716053009033
+    },
+    "gallinule, marsh hen, water hen, swamphen": {
+        "type_1_text_consistency_score": 0.8803837895393372,
+        "type_2_text_consistency_score": 0.10784897953271866,
+        "type_3_text_consistency_score": 0.24980837106704712
+    },
+    "seabird, sea bird, seafowl": {
+        "type_1_text_consistency_score": 0.7806028127670288,
+        "type_2_text_consistency_score": 0.17308193445205688,
+        "type_3_text_consistency_score": 0.021532714366912842
+    }
+}

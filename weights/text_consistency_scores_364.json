@@ -1,0 +1,57 @@
+{
+    "great dane": {
+        "type_1_text_consistency_score": 0.7780814170837402,
+        "type_2_text_consistency_score": 0.23461338877677917,
+        "type_3_text_consistency_score": 0.02154707908630371
+    },
+    "shepherd dog, sheepdog, sheep dog": {
+        "type_1_text_consistency_score": 0.760021984577179,
+        "type_2_text_consistency_score": 0.027262046933174133,
+        "type_3_text_consistency_score": 0.0968586802482605
+    },
+    "watchdog, guard dog": {
+        "type_1_text_consistency_score": 0.7565733194351196,
+        "type_2_text_consistency_score": 0.14435644447803497,
+        "type_3_text_consistency_score": 0.03258150815963745
+    },
+    "sled dog, sledge dog": {
+        "type_1_text_consistency_score": 0.7702654600143433,
+        "type_2_text_consistency_score": 0.045777328312397,
+        "type_3_text_consistency_score": 0.06456774473190308
+    },
+    "boxer": {
+        "type_1_text_consistency_score": 0.6330264210700989,
+        "type_2_text_consistency_score": 0.2529509663581848,
+        "type_3_text_consistency_score": -0.10337108373641968
+    },
+    "bull mastiff": {
+        "type_1_text_consistency_score": 0.33110523223876953,
+        "type_2_text_consistency_score": -0.08040530979633331,
+        "type_3_text_consistency_score": -0.05292993783950806
+    },
+    "eskimo dog, husky": {
+        "type_1_text_consistency_score": 0.7490399479866028,
+        "type_2_text_consistency_score": 0.04305440932512283,
+        "type_3_text_consistency_score": 0.02851390838623047
+    },
+    "sennenhunde": {
+        "type_1_text_consistency_score": 0.7479362487792969,
+        "type_2_text_consistency_score": 0.3190721571445465,
+        "type_3_text_consistency_score": -0.03428173065185547
+    },
+    "saint bernard, st bernard": {
+        "type_1_text_consistency_score": 0.7490399479866028,
+        "type_2_text_consistency_score": 0.2096138596534729,
+        "type_3_text_consistency_score": 0.06471031904220581
+    },
+    "mastiff": {
+        "type_1_text_consistency_score": 0.33110523223876953,
+        "type_2_text_consistency_score": 0.2094409316778183,
+        "type_3_text_consistency_score": -0.15994131565093994
+    },
+    "bulldog, english bulldog": {
+        "type_1_text_consistency_score": 0.6330264210700989,
+        "type_2_text_consistency_score": 0.08763617277145386,
+        "type_3_text_consistency_score": 0.04736143350601196
+    }
+}

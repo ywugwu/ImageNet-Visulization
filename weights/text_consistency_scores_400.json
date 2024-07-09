@@ -1,0 +1,12 @@
+{
+    "bee eater": {
+        "type_1_text_consistency_score": 0.94736647605896,
+        "type_2_text_consistency_score": 0.46910402178764343,
+        "type_3_text_consistency_score": 0.40643274784088135
+    },
+    "hornbill": {
+        "type_1_text_consistency_score": 0.94736647605896,
+        "type_2_text_consistency_score": 0.45002931356430054,
+        "type_3_text_consistency_score": 0.35512715578079224
+    }
+}

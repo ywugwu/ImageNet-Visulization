@@ -1,0 +1,32 @@
+{
+    "bannister, banister, balustrade, balusters, handrail": {
+        "type_1_text_consistency_score": 0.8200395703315735,
+        "type_2_text_consistency_score": 0.18009762465953827,
+        "type_3_text_consistency_score": 0.2331588864326477
+    },
+    "breakwater, groin, groyne, mole, bulwark, seawall, jetty": {
+        "type_1_text_consistency_score": 0.8665214776992798,
+        "type_2_text_consistency_score": 0.2236458957195282,
+        "type_3_text_consistency_score": 0.28311246633529663
+    },
+    "dam, dike, dyke": {
+        "type_1_text_consistency_score": 0.7886043787002563,
+        "type_2_text_consistency_score": 0.13888123631477356,
+        "type_3_text_consistency_score": 0.14022433757781982
+    },
+    "fence, fencing": {
+        "type_1_text_consistency_score": 0.7886043787002563,
+        "type_2_text_consistency_score": 0.1915801763534546,
+        "type_3_text_consistency_score": 0.049693763256073
+    },
+    "grate, grating": {
+        "type_1_text_consistency_score": 0.8227815628051758,
+        "type_2_text_consistency_score": 0.2641807794570923,
+        "type_3_text_consistency_score": 0.06131768226623535
+    },
+    "movable barrier": {
+        "type_1_text_consistency_score": 0.8042253851890564,
+        "type_2_text_consistency_score": 0.28991860151290894,
+        "type_3_text_consistency_score": 0.10962212085723877
+    }
+}

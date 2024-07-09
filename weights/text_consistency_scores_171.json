@@ -1,0 +1,17 @@
+{
+    "audio system, sound system": {
+        "type_1_text_consistency_score": 0.7761029005050659,
+        "type_2_text_consistency_score": 0.10821503400802612,
+        "type_3_text_consistency_score": 0.04044520854949951
+    },
+    "communication system": {
+        "type_1_text_consistency_score": 0.7444102764129639,
+        "type_2_text_consistency_score": 0.22203975915908813,
+        "type_3_text_consistency_score": 0.006383121013641357
+    },
+    "maze, labyrinth": {
+        "type_1_text_consistency_score": 0.7444102764129639,
+        "type_2_text_consistency_score": -0.05080106854438782,
+        "type_3_text_consistency_score": 0.09157443046569824
+    }
+}

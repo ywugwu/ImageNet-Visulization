@@ -1,0 +1,22 @@
+{
+    "cooker": {
+        "type_1_text_consistency_score": 0.7279165983200073,
+        "type_2_text_consistency_score": 0.17080944776535034,
+        "type_3_text_consistency_score": -0.09399747848510742
+    },
+    "pan, cooking pan": {
+        "type_1_text_consistency_score": 0.6554037928581238,
+        "type_2_text_consistency_score": 0.04047025367617607,
+        "type_3_text_consistency_score": -0.025308072566986084
+    },
+    "pot": {
+        "type_1_text_consistency_score": 0.6554037928581238,
+        "type_2_text_consistency_score": 0.2800481915473938,
+        "type_3_text_consistency_score": -0.04363793134689331
+    },
+    "turner, food turner": {
+        "type_1_text_consistency_score": 0.7306599617004395,
+        "type_2_text_consistency_score": 0.13136163353919983,
+        "type_3_text_consistency_score": 0.018247365951538086
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "house": {
+        "type_1_text_consistency_score": 0.7477233409881592,
+        "type_2_text_consistency_score": 0.4157261252403259,
+        "type_3_text_consistency_score": 0.04389458894729614
+    },
+    "cliff dwelling": {
+        "type_1_text_consistency_score": 0.8310480117797852,
+        "type_2_text_consistency_score": 0.08755392581224442,
+        "type_3_text_consistency_score": 0.30210018157958984
+    },
+    "yurt": {
+        "type_1_text_consistency_score": 0.7477233409881592,
+        "type_2_text_consistency_score": 0.20211222767829895,
+        "type_3_text_consistency_score": 0.09701746702194214
+    }
+}

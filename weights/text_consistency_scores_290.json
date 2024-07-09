@@ -1,0 +1,17 @@
+{
+    "gastropod, univalve": {
+        "type_1_text_consistency_score": 0.8817075490951538,
+        "type_2_text_consistency_score": 0.25679314136505127,
+        "type_3_text_consistency_score": 0.030085086822509766
+    },
+    "chiton, coat-of-mail shell, sea cradle, polyplacophore": {
+        "type_1_text_consistency_score": 0.9002009034156799,
+        "type_2_text_consistency_score": 0.16489340364933014,
+        "type_3_text_consistency_score": 0.18604886531829834
+    },
+    "cephalopod, cephalopod mollusk": {
+        "type_1_text_consistency_score": 0.8817075490951538,
+        "type_2_text_consistency_score": 0.2441129833459854,
+        "type_3_text_consistency_score": 0.0700763463973999
+    }
+}

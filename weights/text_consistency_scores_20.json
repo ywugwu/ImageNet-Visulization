@@ -1,0 +1,37 @@
+{
+    "solanaceous vegetable": {
+        "type_1_text_consistency_score": 0.7197285890579224,
+        "type_2_text_consistency_score": 0.39990347623825073,
+        "type_3_text_consistency_score": 0.052013933658599854
+    },
+    "cruciferous vegetable": {
+        "type_1_text_consistency_score": 0.6327781677246094,
+        "type_2_text_consistency_score": 0.01155853271484375,
+        "type_3_text_consistency_score": 0.04258674383163452
+    },
+    "squash": {
+        "type_1_text_consistency_score": 0.6327781677246094,
+        "type_2_text_consistency_score": 0.07833817601203918,
+        "type_3_text_consistency_score": -0.21692144870758057
+    },
+    "cucumber, cuke": {
+        "type_1_text_consistency_score": 0.7087488174438477,
+        "type_2_text_consistency_score": 0.10695891082286835,
+        "type_3_text_consistency_score": -0.08145797252655029
+    },
+    "artichoke, globe artichoke": {
+        "type_1_text_consistency_score": 0.7527884840965271,
+        "type_2_text_consistency_score": 0.10968539118766785,
+        "type_3_text_consistency_score": 0.12301021814346313
+    },
+    "cardoon": {
+        "type_1_text_consistency_score": 0.8127617835998535,
+        "type_2_text_consistency_score": 0.18681351840496063,
+        "type_3_text_consistency_score": -0.11912155151367188
+    },
+    "mushroom": {
+        "type_1_text_consistency_score": 0.7389125823974609,
+        "type_2_text_consistency_score": 0.13675203919410706,
+        "type_3_text_consistency_score": -0.07731306552886963
+    }
+}

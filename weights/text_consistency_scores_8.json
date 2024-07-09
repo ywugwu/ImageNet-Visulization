@@ -1,0 +1,12 @@
+{
+    "bar": {
+        "type_1_text_consistency_score": 0.5619369745254517,
+        "type_2_text_consistency_score": 0.2158740907907486,
+        "type_3_text_consistency_score": -0.043137311935424805
+    },
+    "reef": {
+        "type_1_text_consistency_score": 0.5619369745254517,
+        "type_2_text_consistency_score": 0.14916858077049255,
+        "type_3_text_consistency_score": -0.1335168480873108
+    }
+}

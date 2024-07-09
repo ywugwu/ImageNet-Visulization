@@ -1,0 +1,17 @@
+{
+    "wool, woolen, woollen": {
+        "type_1_text_consistency_score": 0.6565197706222534,
+        "type_2_text_consistency_score": 0.13024745881557465,
+        "type_3_text_consistency_score": 0.11452192068099976
+    },
+    "piece of cloth, piece of material": {
+        "type_1_text_consistency_score": 0.6377672553062439,
+        "type_2_text_consistency_score": 0.3685959279537201,
+        "type_3_text_consistency_score": 0.13082242012023926
+    },
+    "velvet": {
+        "type_1_text_consistency_score": 0.6377672553062439,
+        "type_2_text_consistency_score": 0.010258141905069351,
+        "type_3_text_consistency_score": -0.02294999361038208
+    }
+}

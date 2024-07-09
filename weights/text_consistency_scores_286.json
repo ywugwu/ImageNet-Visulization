@@ -1,0 +1,12 @@
+{
+    "sea anemone, anemone": {
+        "type_1_text_consistency_score": 0.7237952947616577,
+        "type_2_text_consistency_score": 0.22733403742313385,
+        "type_3_text_consistency_score": 0.24962884187698364
+    },
+    "coral": {
+        "type_1_text_consistency_score": 0.7237952947616577,
+        "type_2_text_consistency_score": 0.2624799609184265,
+        "type_3_text_consistency_score": 0.06537294387817383
+    }
+}

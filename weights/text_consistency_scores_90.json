@@ -1,0 +1,62 @@
+{
+    "tool": {
+        "type_1_text_consistency_score": 0.18621021509170532,
+        "type_2_text_consistency_score": -0.3674924075603485,
+        "type_3_text_consistency_score": -0.05152159929275513
+    },
+    "utensil": {
+        "type_1_text_consistency_score": 0.2772994339466095,
+        "type_2_text_consistency_score": 0.10693465173244476,
+        "type_3_text_consistency_score": -0.04329073429107666
+    },
+    "cleaning implement, cleaning device, cleaning equipment": {
+        "type_1_text_consistency_score": 0.4409158229827881,
+        "type_2_text_consistency_score": 0.1664823591709137,
+        "type_3_text_consistency_score": 0.0741347074508667
+    },
+    "brush": {
+        "type_1_text_consistency_score": 0.3288666605949402,
+        "type_2_text_consistency_score": 0.05880026891827583,
+        "type_3_text_consistency_score": -0.030121684074401855
+    },
+    "eraser": {
+        "type_1_text_consistency_score": 0.5075358152389526,
+        "type_2_text_consistency_score": 0.05528661608695984,
+        "type_3_text_consistency_score": -0.020482361316680908
+    },
+    "sharpener": {
+        "type_1_text_consistency_score": 0.45318907499313354,
+        "type_2_text_consistency_score": 0.09541033953428268,
+        "type_3_text_consistency_score": 0.021482348442077637
+    },
+    "oar": {
+        "type_1_text_consistency_score": 0.3545570373535156,
+        "type_2_text_consistency_score": -0.017367951571941376,
+        "type_3_text_consistency_score": 0.007748544216156006
+    },
+    "rod": {
+        "type_1_text_consistency_score": 0.18621021509170532,
+        "type_2_text_consistency_score": 0.09402477741241455,
+        "type_3_text_consistency_score": -0.06671273708343506
+    },
+    "writing implement": {
+        "type_1_text_consistency_score": 0.4218723773956299,
+        "type_2_text_consistency_score": 0.21196451783180237,
+        "type_3_text_consistency_score": 0.021266460418701172
+    },
+    "stick": {
+        "type_1_text_consistency_score": 0.4228736460208893,
+        "type_2_text_consistency_score": 0.048853009939193726,
+        "type_3_text_consistency_score": 0.04081618785858154
+    },
+    "bar": {
+        "type_1_text_consistency_score": 0.3632889986038208,
+        "type_2_text_consistency_score": 0.15463756024837494,
+        "type_3_text_consistency_score": -0.013251960277557373
+    },
+    "sports implement": {
+        "type_1_text_consistency_score": 0.3006325960159302,
+        "type_2_text_consistency_score": 0.18496766686439514,
+        "type_3_text_consistency_score": -0.02040201425552368
+    }
+}

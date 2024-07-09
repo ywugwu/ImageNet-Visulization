@@ -1,0 +1,12 @@
+{
+    "pullover, slipover": {
+        "type_1_text_consistency_score": 0.4766924977302551,
+        "type_2_text_consistency_score": 0.21232271194458008,
+        "type_3_text_consistency_score": 0.022290468215942383
+    },
+    "cardigan": {
+        "type_1_text_consistency_score": 0.4766924977302551,
+        "type_2_text_consistency_score": 0.09031826257705688,
+        "type_3_text_consistency_score": -0.08448684215545654
+    }
+}

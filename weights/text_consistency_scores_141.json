@@ -1,0 +1,17 @@
+{
+    "boat": {
+        "type_1_text_consistency_score": 0.5655339956283569,
+        "type_2_text_consistency_score": 0.12192016839981079,
+        "type_3_text_consistency_score": -0.06532210111618042
+    },
+    "sailing vessel, sailing ship": {
+        "type_1_text_consistency_score": 0.6998422145843506,
+        "type_2_text_consistency_score": -0.031941987574100494,
+        "type_3_text_consistency_score": 0.06915068626403809
+    },
+    "ship": {
+        "type_1_text_consistency_score": 0.5655339956283569,
+        "type_2_text_consistency_score": 0.12458598613739014,
+        "type_3_text_consistency_score": -0.09079307317733765
+    }
+}

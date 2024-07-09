@@ -1,0 +1,32 @@
+{
+    "edible fruit": {
+        "type_1_text_consistency_score": 0.7024223804473877,
+        "type_2_text_consistency_score": 0.1184101477265358,
+        "type_3_text_consistency_score": 0.0363156795501709
+    },
+    "acorn": {
+        "type_1_text_consistency_score": 0.716056227684021,
+        "type_2_text_consistency_score": 0.07431574910879135,
+        "type_3_text_consistency_score": -0.08765894174575806
+    },
+    "hip, rose hip, rosehip": {
+        "type_1_text_consistency_score": 0.7908843755722046,
+        "type_2_text_consistency_score": 0.07674023509025574,
+        "type_3_text_consistency_score": 0.0674511194229126
+    },
+    "ear, spike, capitulum": {
+        "type_1_text_consistency_score": 0.7407728433609009,
+        "type_2_text_consistency_score": 0.07548163831233978,
+        "type_3_text_consistency_score": 0.032673001289367676
+    },
+    "seed": {
+        "type_1_text_consistency_score": 0.7024223804473877,
+        "type_2_text_consistency_score": 0.2635125517845154,
+        "type_3_text_consistency_score": 0.005464434623718262
+    },
+    "pome, false fruit": {
+        "type_1_text_consistency_score": 0.7207347750663757,
+        "type_2_text_consistency_score": 0.12269991636276245,
+        "type_3_text_consistency_score": 0.014998197555541992
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "desktop computer": {
+        "type_1_text_consistency_score": 0.9165539741516113,
+        "type_2_text_consistency_score": 0.2626034617424011,
+        "type_3_text_consistency_score": -0.07225722074508667
+    },
+    "portable computer": {
+        "type_1_text_consistency_score": 0.9165539741516113,
+        "type_2_text_consistency_score": 0.16918115317821503,
+        "type_3_text_consistency_score": -0.018687963485717773
+    }
+}

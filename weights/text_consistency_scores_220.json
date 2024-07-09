@@ -1,0 +1,12 @@
+{
+    "helmet": {
+        "type_1_text_consistency_score": 0.8100513219833374,
+        "type_2_text_consistency_score": 0.39968445897102356,
+        "type_3_text_consistency_score": 0.07813560962677002
+    },
+    "breastplate, aegis, egis": {
+        "type_1_text_consistency_score": 0.8100513219833374,
+        "type_2_text_consistency_score": 0.15850187838077545,
+        "type_3_text_consistency_score": 0.1319516897201538
+    }
+}

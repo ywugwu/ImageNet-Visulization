@@ -1,0 +1,12 @@
+{
+    "rug, carpet, carpeting": {
+        "type_1_text_consistency_score": 0.6930559277534485,
+        "type_2_text_consistency_score": 0.08777017146348953,
+        "type_3_text_consistency_score": 0.162930428981781
+    },
+    "mat": {
+        "type_1_text_consistency_score": 0.6930559277534485,
+        "type_2_text_consistency_score": 0.33006206154823303,
+        "type_3_text_consistency_score": 0.03579723834991455
+    }
+}

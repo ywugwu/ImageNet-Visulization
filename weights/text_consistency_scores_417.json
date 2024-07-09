@@ -1,0 +1,12 @@
+{
+    "alligator, gator": {
+        "type_1_text_consistency_score": 0.6951267719268799,
+        "type_2_text_consistency_score": 0.1655910313129425,
+        "type_3_text_consistency_score": -0.025666534900665283
+    },
+    "crocodile": {
+        "type_1_text_consistency_score": 0.6951267719268799,
+        "type_2_text_consistency_score": 0.10105237364768982,
+        "type_3_text_consistency_score": -0.04816770553588867
+    }
+}

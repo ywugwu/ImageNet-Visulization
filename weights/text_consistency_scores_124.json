@@ -1,0 +1,12 @@
+{
+    "kit, outfit": {
+        "type_1_text_consistency_score": 0.6073657274246216,
+        "type_2_text_consistency_score": 0.07237782329320908,
+        "type_3_text_consistency_score": 0.04619699716567993
+    },
+    "rig": {
+        "type_1_text_consistency_score": 0.6073657274246216,
+        "type_2_text_consistency_score": 0.2967880368232727,
+        "type_3_text_consistency_score": 0.05786377191543579
+    }
+}

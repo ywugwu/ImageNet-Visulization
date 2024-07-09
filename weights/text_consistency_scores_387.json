@@ -1,0 +1,42 @@
+{
+    "lagomorph, gnawing mammal": {
+        "type_1_text_consistency_score": 0.7557191848754883,
+        "type_2_text_consistency_score": -0.022852450609207153,
+        "type_3_text_consistency_score": 0.10003632307052612
+    },
+    "primate": {
+        "type_1_text_consistency_score": 0.6793587803840637,
+        "type_2_text_consistency_score": 0.0938689112663269,
+        "type_3_text_consistency_score": -0.048155128955841064
+    },
+    "carnivore": {
+        "type_1_text_consistency_score": 0.7625899314880371,
+        "type_2_text_consistency_score": 0.08009219914674759,
+        "type_3_text_consistency_score": -0.043849050998687744
+    },
+    "aquatic mammal": {
+        "type_1_text_consistency_score": 0.6822547912597656,
+        "type_2_text_consistency_score": 0.16723322868347168,
+        "type_3_text_consistency_score": -0.03107297420501709
+    },
+    "ungulate, hoofed mammal": {
+        "type_1_text_consistency_score": 0.7470180988311768,
+        "type_2_text_consistency_score": 0.18464210629463196,
+        "type_3_text_consistency_score": 0.030887484550476074
+    },
+    "edentate": {
+        "type_1_text_consistency_score": 0.6822547912597656,
+        "type_2_text_consistency_score": 0.08465996384620667,
+        "type_3_text_consistency_score": -0.06580007076263428
+    },
+    "pachyderm": {
+        "type_1_text_consistency_score": 0.770776629447937,
+        "type_2_text_consistency_score": 0.08911740779876709,
+        "type_3_text_consistency_score": -0.03989577293395996
+    },
+    "rodent, gnawer": {
+        "type_1_text_consistency_score": 0.6793587803840637,
+        "type_2_text_consistency_score": 0.25701823830604553,
+        "type_3_text_consistency_score": -0.08853268623352051
+    }
+}

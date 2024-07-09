@@ -1,0 +1,17 @@
+{
+    "helmet": {
+        "type_1_text_consistency_score": 0.4880748987197876,
+        "type_2_text_consistency_score": 0.21505045890808105,
+        "type_3_text_consistency_score": 0.02339547872543335
+    },
+    "cap": {
+        "type_1_text_consistency_score": 0.3605157732963562,
+        "type_2_text_consistency_score": -0.07778840512037277,
+        "type_3_text_consistency_score": -0.10045766830444336
+    },
+    "hat, chapeau, lid": {
+        "type_1_text_consistency_score": 0.3605157732963562,
+        "type_2_text_consistency_score": 0.20500880479812622,
+        "type_3_text_consistency_score": 0.1079862117767334
+    }
+}

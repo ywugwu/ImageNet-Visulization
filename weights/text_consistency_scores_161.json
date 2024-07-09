@@ -1,0 +1,17 @@
+{
+    "vehicle": {
+        "type_1_text_consistency_score": 0.607481837272644,
+        "type_2_text_consistency_score": 0.15452609956264496,
+        "type_3_text_consistency_score": -0.02048647403717041
+    },
+    "litter": {
+        "type_1_text_consistency_score": 0.7543607950210571,
+        "type_2_text_consistency_score": 0.15102900564670563,
+        "type_3_text_consistency_score": 0.0778852105140686
+    },
+    "public transport": {
+        "type_1_text_consistency_score": 0.607481837272644,
+        "type_2_text_consistency_score": 0.11895698308944702,
+        "type_3_text_consistency_score": 0.04102891683578491
+    }
+}

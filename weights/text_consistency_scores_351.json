@@ -1,0 +1,12 @@
+{
+    "borzoi, russian wolfhound": {
+        "type_1_text_consistency_score": 0.8871608972549438,
+        "type_2_text_consistency_score": 0.2074539214372635,
+        "type_3_text_consistency_score": 0.11922019720077515
+    },
+    "irish wolfhound": {
+        "type_1_text_consistency_score": 0.8871608972549438,
+        "type_2_text_consistency_score": 0.28456026315689087,
+        "type_3_text_consistency_score": 0.07437950372695923
+    }
+}

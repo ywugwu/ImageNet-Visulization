@@ -1,0 +1,22 @@
+{
+    "red wolf, maned wolf, canis rufus, canis niger": {
+        "type_1_text_consistency_score": 0.917392373085022,
+        "type_2_text_consistency_score": 0.16367626190185547,
+        "type_3_text_consistency_score": 0.17545580863952637
+    },
+    "coyote, prairie wolf, brush wolf, canis latrans": {
+        "type_1_text_consistency_score": 0.917392373085022,
+        "type_2_text_consistency_score": 0.27969223260879517,
+        "type_3_text_consistency_score": 0.12420201301574707
+    },
+    "white wolf, arctic wolf, canis lupus tundrarum": {
+        "type_1_text_consistency_score": 0.9367422461509705,
+        "type_2_text_consistency_score": 0.28035038709640503,
+        "type_3_text_consistency_score": 0.13643616437911987
+    },
+    "timber wolf, grey wolf, gray wolf, canis lupus": {
+        "type_1_text_consistency_score": 0.9267602562904358,
+        "type_2_text_consistency_score": 0.25048261880874634,
+        "type_3_text_consistency_score": 0.10947054624557495
+    }
+}

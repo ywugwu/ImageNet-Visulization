@@ -1,0 +1,17 @@
+{
+    "trolleybus, trolley coach, trackless trolley": {
+        "type_1_text_consistency_score": 0.7688103318214417,
+        "type_2_text_consistency_score": 0.11174412071704865,
+        "type_3_text_consistency_score": 0.15405207872390747
+    },
+    "minibus": {
+        "type_1_text_consistency_score": 0.6852525472640991,
+        "type_2_text_consistency_score": 0.17959672212600708,
+        "type_3_text_consistency_score": -0.06454586982727051
+    },
+    "school bus": {
+        "type_1_text_consistency_score": 0.6852525472640991,
+        "type_2_text_consistency_score": 0.19146716594696045,
+        "type_3_text_consistency_score": -0.14067590236663818
+    }
+}

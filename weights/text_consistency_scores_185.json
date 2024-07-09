@@ -1,0 +1,12 @@
+{
+    "mobile home, manufactured home": {
+        "type_1_text_consistency_score": 0.8221742510795593,
+        "type_2_text_consistency_score": 0.11280794441699982,
+        "type_3_text_consistency_score": 0.12745386362075806
+    },
+    "dwelling, home, domicile, abode, habitation, dwelling house": {
+        "type_1_text_consistency_score": 0.8221742510795593,
+        "type_2_text_consistency_score": 0.3748212456703186,
+        "type_3_text_consistency_score": 0.15731900930404663
+    }
+}

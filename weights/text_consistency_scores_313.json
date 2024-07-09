@@ -1,0 +1,17 @@
+{
+    "doberman, doberman pinscher": {
+        "type_1_text_consistency_score": 0.9597798585891724,
+        "type_2_text_consistency_score": 0.26757898926734924,
+        "type_3_text_consistency_score": 0.05681872367858887
+    },
+    "affenpinscher, monkey pinscher, monkey dog": {
+        "type_1_text_consistency_score": 0.9586820006370544,
+        "type_2_text_consistency_score": 0.44468921422958374,
+        "type_3_text_consistency_score": 0.264495313167572
+    },
+    "miniature pinscher": {
+        "type_1_text_consistency_score": 0.9586820006370544,
+        "type_2_text_consistency_score": 0.2155694216489792,
+        "type_3_text_consistency_score": 0.046677231788635254
+    }
+}

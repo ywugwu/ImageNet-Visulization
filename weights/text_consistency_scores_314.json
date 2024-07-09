@@ -1,0 +1,17 @@
+{
+    "schipperke": {
+        "type_1_text_consistency_score": 0.8988564014434814,
+        "type_2_text_consistency_score": 0.3825437128543854,
+        "type_3_text_consistency_score": 0.1695002317428589
+    },
+    "pinscher": {
+        "type_1_text_consistency_score": 0.8959612250328064,
+        "type_2_text_consistency_score": 0.40333303809165955,
+        "type_3_text_consistency_score": 0.23030441999435425
+    },
+    "kuvasz": {
+        "type_1_text_consistency_score": 0.8959612250328064,
+        "type_2_text_consistency_score": 0.5013561248779297,
+        "type_3_text_consistency_score": 0.2038489580154419
+    }
+}

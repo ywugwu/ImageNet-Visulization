@@ -1,0 +1,42 @@
+{
+    "bakery, bakeshop, bakehouse": {
+        "type_1_text_consistency_score": 0.7128754258155823,
+        "type_2_text_consistency_score": 0.14421960711479187,
+        "type_3_text_consistency_score": -0.009513616561889648
+    },
+    "barbershop": {
+        "type_1_text_consistency_score": 0.63234543800354,
+        "type_2_text_consistency_score": 0.1229037418961525,
+        "type_3_text_consistency_score": -0.09099435806274414
+    },
+    "bookshop, bookstore, bookstall": {
+        "type_1_text_consistency_score": 0.713758647441864,
+        "type_2_text_consistency_score": 0.23534664511680603,
+        "type_3_text_consistency_score": 0.03610461950302124
+    },
+    "butcher shop, meat market": {
+        "type_1_text_consistency_score": 0.6335643529891968,
+        "type_2_text_consistency_score": 0.022393032908439636,
+        "type_3_text_consistency_score": 0.003744781017303467
+    },
+    "confectionery, confectionary, candy store": {
+        "type_1_text_consistency_score": 0.7529710531234741,
+        "type_2_text_consistency_score": 0.2667502462863922,
+        "type_3_text_consistency_score": 0.09305465221405029
+    },
+    "shoe shop, shoe-shop, shoe store": {
+        "type_1_text_consistency_score": 0.63234543800354,
+        "type_2_text_consistency_score": 0.18831872940063477,
+        "type_3_text_consistency_score": 0.002077758312225342
+    },
+    "tobacco shop, tobacconist shop, tobacconist": {
+        "type_1_text_consistency_score": 0.693676233291626,
+        "type_2_text_consistency_score": 0.2157534658908844,
+        "type_3_text_consistency_score": 0.056677043437957764
+    },
+    "toyshop": {
+        "type_1_text_consistency_score": 0.658866286277771,
+        "type_2_text_consistency_score": 0.12921662628650665,
+        "type_3_text_consistency_score": -0.0393945574760437
+    }
+}

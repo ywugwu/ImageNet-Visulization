@@ -1,0 +1,32 @@
+{
+    "porcupine, hedgehog": {
+        "type_1_text_consistency_score": 0.7452661395072937,
+        "type_2_text_consistency_score": 0.21348702907562256,
+        "type_3_text_consistency_score": 0.13740044832229614
+    },
+    "cavy": {
+        "type_1_text_consistency_score": 0.6336787343025208,
+        "type_2_text_consistency_score": 0.22572727501392365,
+        "type_3_text_consistency_score": -0.13819736242294312
+    },
+    "hamster": {
+        "type_1_text_consistency_score": 0.6336787343025208,
+        "type_2_text_consistency_score": 0.2050885260105133,
+        "type_3_text_consistency_score": 0.003068268299102783
+    },
+    "squirrel": {
+        "type_1_text_consistency_score": 0.6653758883476257,
+        "type_2_text_consistency_score": 0.24446481466293335,
+        "type_3_text_consistency_score": -0.015149712562561035
+    },
+    "marmot": {
+        "type_1_text_consistency_score": 0.7650058269500732,
+        "type_2_text_consistency_score": 0.18848145008087158,
+        "type_3_text_consistency_score": 0.024259746074676514
+    },
+    "beaver": {
+        "type_1_text_consistency_score": 0.692751407623291,
+        "type_2_text_consistency_score": 0.22035932540893555,
+        "type_3_text_consistency_score": -0.057427942752838135
+    }
+}

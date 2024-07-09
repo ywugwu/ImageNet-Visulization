@@ -1,0 +1,12 @@
+{
+    "accordion, piano accordion, squeeze box": {
+        "type_1_text_consistency_score": 0.9522238969802856,
+        "type_2_text_consistency_score": 0.402116596698761,
+        "type_3_text_consistency_score": 0.25524473190307617
+    },
+    "harmonica, mouth organ, harp, mouth harp": {
+        "type_1_text_consistency_score": 0.9522238969802856,
+        "type_2_text_consistency_score": 0.35774242877960205,
+        "type_3_text_consistency_score": 0.2084580659866333
+    }
+}

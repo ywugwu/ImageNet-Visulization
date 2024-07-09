@@ -1,0 +1,47 @@
+{
+    "audio system, sound system": {
+        "type_1_text_consistency_score": 0.813413679599762,
+        "type_2_text_consistency_score": 0.28378331661224365,
+        "type_3_text_consistency_score": 0.07331407070159912
+    },
+    "modem": {
+        "type_1_text_consistency_score": 0.7682310938835144,
+        "type_2_text_consistency_score": 0.15738409757614136,
+        "type_3_text_consistency_score": -0.05840802192687988
+    },
+    "monitor": {
+        "type_1_text_consistency_score": 0.7144479751586914,
+        "type_2_text_consistency_score": 0.10273447632789612,
+        "type_3_text_consistency_score": -0.028193414211273193
+    },
+    "oscilloscope, scope, cathode-ray oscilloscope, cro": {
+        "type_1_text_consistency_score": 0.8114100694656372,
+        "type_2_text_consistency_score": 0.11711418628692627,
+        "type_3_text_consistency_score": 0.2552846670150757
+    },
+    "peripheral, computer peripheral, peripheral device": {
+        "type_1_text_consistency_score": 0.7144479751586914,
+        "type_2_text_consistency_score": 0.25214242935180664,
+        "type_3_text_consistency_score": 0.10796356201171875
+    },
+    "cassette player": {
+        "type_1_text_consistency_score": 0.5146461129188538,
+        "type_2_text_consistency_score": 0.022546831518411636,
+        "type_3_text_consistency_score": -0.07751291990280151
+    },
+    "telephone, phone, telephone set": {
+        "type_1_text_consistency_score": 0.8644198179244995,
+        "type_2_text_consistency_score": 0.19857437908649445,
+        "type_3_text_consistency_score": 0.06848877668380737
+    },
+    "tape player": {
+        "type_1_text_consistency_score": 0.5146461129188538,
+        "type_2_text_consistency_score": 0.16938237845897675,
+        "type_3_text_consistency_score": -0.08788079023361206
+    },
+    "cd player": {
+        "type_1_text_consistency_score": 0.7699166536331177,
+        "type_2_text_consistency_score": 0.18166707456111908,
+        "type_3_text_consistency_score": -0.07392549514770508
+    }
+}

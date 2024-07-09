@@ -1,0 +1,12 @@
+{
+    "barrow, garden cart, lawn cart, wheelbarrow": {
+        "type_1_text_consistency_score": 0.8364086747169495,
+        "type_2_text_consistency_score": 0.0962848961353302,
+        "type_3_text_consistency_score": 0.11654847860336304
+    },
+    "shopping cart": {
+        "type_1_text_consistency_score": 0.8364086747169495,
+        "type_2_text_consistency_score": 0.4165792167186737,
+        "type_3_text_consistency_score": 0.013495564460754395
+    }
+}

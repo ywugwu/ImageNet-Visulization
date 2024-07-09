@@ -1,0 +1,12 @@
+{
+    "sloth, tree sloth": {
+        "type_1_text_consistency_score": 0.9003603458404541,
+        "type_2_text_consistency_score": 0.43691694736480713,
+        "type_3_text_consistency_score": 0.2233738899230957
+    },
+    "armadillo": {
+        "type_1_text_consistency_score": 0.9003603458404541,
+        "type_2_text_consistency_score": 0.40095242857933044,
+        "type_3_text_consistency_score": 0.18521422147750854
+    }
+}

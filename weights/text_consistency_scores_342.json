@@ -1,0 +1,17 @@
+{
+    "english setter": {
+        "type_1_text_consistency_score": 0.9334039092063904,
+        "type_2_text_consistency_score": 0.38546767830848694,
+        "type_3_text_consistency_score": 0.21851211786270142
+    },
+    "gordon setter": {
+        "type_1_text_consistency_score": 0.8958120346069336,
+        "type_2_text_consistency_score": 0.2818332016468048,
+        "type_3_text_consistency_score": 0.1723027229309082
+    },
+    "irish setter, red setter": {
+        "type_1_text_consistency_score": 0.8958120346069336,
+        "type_2_text_consistency_score": 0.4014175534248352,
+        "type_3_text_consistency_score": 0.2256079912185669
+    }
+}

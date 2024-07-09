@@ -1,0 +1,22 @@
+{
+    "bonnet, poke bonnet": {
+        "type_1_text_consistency_score": 0.750038743019104,
+        "type_2_text_consistency_score": 0.24599431455135345,
+        "type_3_text_consistency_score": -0.04322397708892822
+    },
+    "bearskin, busby, shako": {
+        "type_1_text_consistency_score": 0.6596767902374268,
+        "type_2_text_consistency_score": 0.08121006935834885,
+        "type_3_text_consistency_score": 0.058476805686950684
+    },
+    "cowboy hat, ten-gallon hat": {
+        "type_1_text_consistency_score": 0.6925873160362244,
+        "type_2_text_consistency_score": 0.1417582929134369,
+        "type_3_text_consistency_score": 0.033899128437042236
+    },
+    "sombrero": {
+        "type_1_text_consistency_score": 0.6596767902374268,
+        "type_2_text_consistency_score": 0.2536453902721405,
+        "type_3_text_consistency_score": -0.022031843662261963
+    }
+}

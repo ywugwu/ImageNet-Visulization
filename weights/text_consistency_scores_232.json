@@ -1,0 +1,12 @@
+{
+    "bottlecap": {
+        "type_1_text_consistency_score": 0.655658483505249,
+        "type_2_text_consistency_score": 0.25363534688949585,
+        "type_3_text_consistency_score": 0.007851660251617432
+    },
+    "nipple": {
+        "type_1_text_consistency_score": 0.655658483505249,
+        "type_2_text_consistency_score": 0.2561575472354889,
+        "type_3_text_consistency_score": -0.02281486988067627
+    }
+}

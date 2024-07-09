@@ -1,0 +1,17 @@
+{
+    "half track": {
+        "type_1_text_consistency_score": 0.8706215023994446,
+        "type_2_text_consistency_score": 0.1273956447839737,
+        "type_3_text_consistency_score": 0.0038725733757019043
+    },
+    "tank, army tank, armored combat vehicle, armoured combat vehicle": {
+        "type_1_text_consistency_score": 0.8706215023994446,
+        "type_2_text_consistency_score": 0.31357645988464355,
+        "type_3_text_consistency_score": 0.1712498664855957
+    },
+    "snowmobile": {
+        "type_1_text_consistency_score": 0.8830616474151611,
+        "type_2_text_consistency_score": 0.3039293885231018,
+        "type_3_text_consistency_score": -0.02847999334335327
+    }
+}

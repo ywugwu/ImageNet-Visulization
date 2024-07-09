@@ -1,0 +1,12 @@
+{
+    "indri, indris, indri indri, indri brevicaudatus": {
+        "type_1_text_consistency_score": 0.8958286046981812,
+        "type_2_text_consistency_score": 0.3698204755783081,
+        "type_3_text_consistency_score": 0.26409268379211426
+    },
+    "madagascar cat, ring-tailed lemur, lemur catta": {
+        "type_1_text_consistency_score": 0.8958286046981812,
+        "type_2_text_consistency_score": 0.25842952728271484,
+        "type_3_text_consistency_score": 0.25868701934814453
+    }
+}

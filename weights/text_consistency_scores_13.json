@@ -1,0 +1,12 @@
+{
+    "wine, vino": {
+        "type_1_text_consistency_score": 0.7404798269271851,
+        "type_2_text_consistency_score": 0.15601418912410736,
+        "type_3_text_consistency_score": -0.007040500640869141
+    },
+    "mixed drink": {
+        "type_1_text_consistency_score": 0.7404798269271851,
+        "type_2_text_consistency_score": 0.199502095580101,
+        "type_3_text_consistency_score": -0.07271796464920044
+    }
+}

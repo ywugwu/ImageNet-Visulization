@@ -1,0 +1,27 @@
+{
+    "barometer": {
+        "type_1_text_consistency_score": 0.7727969884872437,
+        "type_2_text_consistency_score": 0.1642429232597351,
+        "type_3_text_consistency_score": -0.07411229610443115
+    },
+    "measuring stick, measure, measuring rod": {
+        "type_1_text_consistency_score": 0.7307438254356384,
+        "type_2_text_consistency_score": 0.1947440803050995,
+        "type_3_text_consistency_score": 0.11724984645843506
+    },
+    "meter": {
+        "type_1_text_consistency_score": 0.7007015943527222,
+        "type_2_text_consistency_score": 0.1958031803369522,
+        "type_3_text_consistency_score": 0.0001087188720703125
+    },
+    "scale, weighing machine": {
+        "type_1_text_consistency_score": 0.7007015943527222,
+        "type_2_text_consistency_score": 0.18436001241207123,
+        "type_3_text_consistency_score": 0.05817687511444092
+    },
+    "timepiece, timekeeper, horologe": {
+        "type_1_text_consistency_score": 0.7573863863945007,
+        "type_2_text_consistency_score": 0.27526238560676575,
+        "type_3_text_consistency_score": 0.09790968894958496
+    }
+}

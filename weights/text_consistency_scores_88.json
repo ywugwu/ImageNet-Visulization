@@ -1,0 +1,12 @@
+{
+    "crutch": {
+        "type_1_text_consistency_score": 0.8459035158157349,
+        "type_2_text_consistency_score": 0.554111123085022,
+        "type_3_text_consistency_score": 0.18982046842575073
+    },
+    "flagpole, flagstaff": {
+        "type_1_text_consistency_score": 0.8459035158157349,
+        "type_2_text_consistency_score": 0.22028520703315735,
+        "type_3_text_consistency_score": 0.21016478538513184
+    }
+}

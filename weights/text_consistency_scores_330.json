@@ -1,0 +1,37 @@
+{
+    "colobus, colobus monkey": {
+        "type_1_text_consistency_score": 0.8894054889678955,
+        "type_2_text_consistency_score": 0.1478639394044876,
+        "type_3_text_consistency_score": 0.23957157135009766
+    },
+    "guenon, guenon monkey": {
+        "type_1_text_consistency_score": 0.9107664823532104,
+        "type_2_text_consistency_score": 0.15958085656166077,
+        "type_3_text_consistency_score": 0.21585381031036377
+    },
+    "proboscis monkey, nasalis larvatus": {
+        "type_1_text_consistency_score": 0.916603684425354,
+        "type_2_text_consistency_score": 0.13483092188835144,
+        "type_3_text_consistency_score": 0.28247809410095215
+    },
+    "patas, hussar monkey, erythrocebus patas": {
+        "type_1_text_consistency_score": 0.8319143056869507,
+        "type_2_text_consistency_score": 0.25820690393447876,
+        "type_3_text_consistency_score": 0.10552060604095459
+    },
+    "baboon": {
+        "type_1_text_consistency_score": 0.7240056991577148,
+        "type_2_text_consistency_score": 0.07601512968540192,
+        "type_3_text_consistency_score": -0.10261750221252441
+    },
+    "macaque": {
+        "type_1_text_consistency_score": 0.7240056991577148,
+        "type_2_text_consistency_score": 0.31684744358062744,
+        "type_3_text_consistency_score": -0.03743433952331543
+    },
+    "langur": {
+        "type_1_text_consistency_score": 0.8894054889678955,
+        "type_2_text_consistency_score": 0.1064310148358345,
+        "type_3_text_consistency_score": 0.09537732601165771
+    }
+}

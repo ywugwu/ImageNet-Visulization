@@ -1,0 +1,12 @@
+{
+    "dryer, drier": {
+        "type_1_text_consistency_score": 0.6880344748497009,
+        "type_2_text_consistency_score": -0.027038589119911194,
+        "type_3_text_consistency_score": -0.05016970634460449
+    },
+    "home appliance, household appliance": {
+        "type_1_text_consistency_score": 0.6880344748497009,
+        "type_2_text_consistency_score": 0.3598921597003937,
+        "type_3_text_consistency_score": 0.10003393888473511
+    }
+}

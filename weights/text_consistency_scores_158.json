@@ -1,0 +1,27 @@
+{
+    "craft": {
+        "type_1_text_consistency_score": 0.6778970956802368,
+        "type_2_text_consistency_score": 0.20393423736095428,
+        "type_3_text_consistency_score": 0.0006387829780578613
+    },
+    "military vehicle": {
+        "type_1_text_consistency_score": 0.6467214822769165,
+        "type_2_text_consistency_score": 0.1986270546913147,
+        "type_3_text_consistency_score": 0.028766334056854248
+    },
+    "rocket, projectile": {
+        "type_1_text_consistency_score": 0.6778970956802368,
+        "type_2_text_consistency_score": 0.10840509831905365,
+        "type_3_text_consistency_score": 0.052415430545806885
+    },
+    "sled, sledge, sleigh": {
+        "type_1_text_consistency_score": 0.6467214822769165,
+        "type_2_text_consistency_score": 0.10298125445842743,
+        "type_3_text_consistency_score": -0.039958298206329346
+    },
+    "wheeled vehicle": {
+        "type_1_text_consistency_score": 0.7018011808395386,
+        "type_2_text_consistency_score": 0.1635909378528595,
+        "type_3_text_consistency_score": -0.04461473226547241
+    }
+}

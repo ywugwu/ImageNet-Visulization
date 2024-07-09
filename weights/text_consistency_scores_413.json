@@ -1,0 +1,22 @@
+{
+    "sea turtle, marine turtle": {
+        "type_1_text_consistency_score": 0.637869656085968,
+        "type_2_text_consistency_score": 0.2343214452266693,
+        "type_3_text_consistency_score": 0.08229291439056396
+    },
+    "mud turtle": {
+        "type_1_text_consistency_score": 0.7361449003219604,
+        "type_2_text_consistency_score": 0.17332811653614044,
+        "type_3_text_consistency_score": 0.023040592670440674
+    },
+    "terrapin": {
+        "type_1_text_consistency_score": 0.637869656085968,
+        "type_2_text_consistency_score": 0.0819786861538887,
+        "type_3_text_consistency_score": -0.01322793960571289
+    },
+    "box turtle, box tortoise": {
+        "type_1_text_consistency_score": 0.7381243705749512,
+        "type_2_text_consistency_score": 0.2404627501964569,
+        "type_3_text_consistency_score": 0.08826339244842529
+    }
+}

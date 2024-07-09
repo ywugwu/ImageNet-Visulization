@@ -1,0 +1,37 @@
+{
+    "toy spaniel": {
+        "type_1_text_consistency_score": 0.785134494304657,
+        "type_2_text_consistency_score": 0.05226278305053711,
+        "type_3_text_consistency_score": -0.0012549757957458496
+    },
+    "pekinese, pekingese, peke": {
+        "type_1_text_consistency_score": 0.8441439867019653,
+        "type_2_text_consistency_score": 0.1519341617822647,
+        "type_3_text_consistency_score": 0.11983412504196167
+    },
+    "maltese dog, maltese terrier, maltese": {
+        "type_1_text_consistency_score": 0.7676480412483215,
+        "type_2_text_consistency_score": 0.20257222652435303,
+        "type_3_text_consistency_score": 0.0917479395866394
+    },
+    "toy terrier": {
+        "type_1_text_consistency_score": 0.7894647121429443,
+        "type_2_text_consistency_score": 0.07504293322563171,
+        "type_3_text_consistency_score": 0.12681293487548828
+    },
+    "japanese spaniel": {
+        "type_1_text_consistency_score": 0.7146693468093872,
+        "type_2_text_consistency_score": 0.11681099236011505,
+        "type_3_text_consistency_score": -0.06229621171951294
+    },
+    "shih-tzu": {
+        "type_1_text_consistency_score": 0.7146693468093872,
+        "type_2_text_consistency_score": 0.2383592277765274,
+        "type_3_text_consistency_score": -0.025416314601898193
+    },
+    "chihuahua": {
+        "type_1_text_consistency_score": 0.7676480412483215,
+        "type_2_text_consistency_score": 0.34641599655151367,
+        "type_3_text_consistency_score": 0.04452073574066162
+    }
+}

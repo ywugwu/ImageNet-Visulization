@@ -1,0 +1,17 @@
+{
+    "analog clock": {
+        "type_1_text_consistency_score": 0.7110333442687988,
+        "type_2_text_consistency_score": 0.035894401371479034,
+        "type_3_text_consistency_score": -0.03442966938018799
+    },
+    "digital clock": {
+        "type_1_text_consistency_score": 0.7110512256622314,
+        "type_2_text_consistency_score": 0.2693893015384674,
+        "type_3_text_consistency_score": -0.0777248740196228
+    },
+    "wall clock": {
+        "type_1_text_consistency_score": 0.7110333442687988,
+        "type_2_text_consistency_score": 0.03293299674987793,
+        "type_3_text_consistency_score": -0.060768842697143555
+    }
+}

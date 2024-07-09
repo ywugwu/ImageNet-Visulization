@@ -1,0 +1,27 @@
+{
+    "cream, ointment, emollient": {
+        "type_1_text_consistency_score": 0.5453475713729858,
+        "type_2_text_consistency_score": -0.06937886774539948,
+        "type_3_text_consistency_score": 0.045626938343048096
+    },
+    "perfume, essence": {
+        "type_1_text_consistency_score": 0.48624998331069946,
+        "type_2_text_consistency_score": -0.22477759420871735,
+        "type_3_text_consistency_score": 0.019170284271240234
+    },
+    "cosmetic": {
+        "type_1_text_consistency_score": 0.48624998331069946,
+        "type_2_text_consistency_score": 0.38011807203292847,
+        "type_3_text_consistency_score": -0.03663235902786255
+    },
+    "lotion": {
+        "type_1_text_consistency_score": 0.4995415210723877,
+        "type_2_text_consistency_score": 0.007485032081604004,
+        "type_3_text_consistency_score": -0.024914026260375977
+    },
+    "hair spray": {
+        "type_1_text_consistency_score": 0.5636637210845947,
+        "type_2_text_consistency_score": 0.0811166763305664,
+        "type_3_text_consistency_score": 0.024303674697875977
+    }
+}

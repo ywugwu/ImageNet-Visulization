@@ -1,0 +1,17 @@
+{
+    "moving van": {
+        "type_1_text_consistency_score": 0.7650564312934875,
+        "type_2_text_consistency_score": 0.21801172196865082,
+        "type_3_text_consistency_score": -0.09579819440841675
+    },
+    "passenger van": {
+        "type_1_text_consistency_score": 0.7650564312934875,
+        "type_2_text_consistency_score": 0.127874493598938,
+        "type_3_text_consistency_score": -0.09716099500656128
+    },
+    "police van, police wagon, paddy wagon, patrol wagon, wagon, black maria": {
+        "type_1_text_consistency_score": 0.81282639503479,
+        "type_2_text_consistency_score": 0.16861803829669952,
+        "type_3_text_consistency_score": 0.1651952862739563
+    }
+}

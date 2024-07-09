@@ -1,0 +1,12 @@
+{
+    "oxygen mask": {
+        "type_1_text_consistency_score": 0.7608885169029236,
+        "type_2_text_consistency_score": 0.3056665062904358,
+        "type_3_text_consistency_score": 0.0498427152633667
+    },
+    "snorkel": {
+        "type_1_text_consistency_score": 0.7608885169029236,
+        "type_2_text_consistency_score": 0.2432103157043457,
+        "type_3_text_consistency_score": 0.060119450092315674
+    }
+}

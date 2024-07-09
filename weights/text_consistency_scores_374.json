@@ -1,0 +1,12 @@
+{
+    "big cat, cat": {
+        "type_1_text_consistency_score": 0.7106437683105469,
+        "type_2_text_consistency_score": 0.1888294219970703,
+        "type_3_text_consistency_score": -0.020589053630828857
+    },
+    "cat, true cat": {
+        "type_1_text_consistency_score": 0.7106437683105469,
+        "type_2_text_consistency_score": 0.10929372161626816,
+        "type_3_text_consistency_score": -0.06678855419158936
+    }
+}

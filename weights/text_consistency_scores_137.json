@@ -1,0 +1,12 @@
+{
+    "catamaran": {
+        "type_1_text_consistency_score": 0.7259237766265869,
+        "type_2_text_consistency_score": 0.14893944561481476,
+        "type_3_text_consistency_score": -0.05943775177001953
+    },
+    "trimaran": {
+        "type_1_text_consistency_score": 0.7259237766265869,
+        "type_2_text_consistency_score": 0.1615031510591507,
+        "type_3_text_consistency_score": -0.06328988075256348
+    }
+}

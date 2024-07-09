@@ -1,0 +1,22 @@
+{
+    "chainlink fence": {
+        "type_1_text_consistency_score": 0.8604804277420044,
+        "type_2_text_consistency_score": 0.2176433503627777,
+        "type_3_text_consistency_score": 0.015639126300811768
+    },
+    "picket fence, paling": {
+        "type_1_text_consistency_score": 0.755836009979248,
+        "type_2_text_consistency_score": 0.23028269410133362,
+        "type_3_text_consistency_score": 0.02254730463027954
+    },
+    "rail fence": {
+        "type_1_text_consistency_score": 0.755836009979248,
+        "type_2_text_consistency_score": 0.20689132809638977,
+        "type_3_text_consistency_score": 0.022829949855804443
+    },
+    "stone wall": {
+        "type_1_text_consistency_score": 0.8536893129348755,
+        "type_2_text_consistency_score": 0.314696341753006,
+        "type_3_text_consistency_score": 0.12528526782989502
+    }
+}

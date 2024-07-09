@@ -1,0 +1,12 @@
+{
+    "academic gown, academic robe, judge's robe": {
+        "type_1_text_consistency_score": 0.8993526697158813,
+        "type_2_text_consistency_score": 0.20489275455474854,
+        "type_3_text_consistency_score": 0.10635602474212646
+    },
+    "vestment": {
+        "type_1_text_consistency_score": 0.8993526697158813,
+        "type_2_text_consistency_score": 0.3281746506690979,
+        "type_3_text_consistency_score": 0.008386492729187012
+    }
+}

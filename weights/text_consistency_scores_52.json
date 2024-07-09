@@ -1,0 +1,17 @@
+{
+    "autoloader, self-loader": {
+        "type_1_text_consistency_score": 0.7276496887207031,
+        "type_2_text_consistency_score": 0.18959134817123413,
+        "type_3_text_consistency_score": 0.07644480466842651
+    },
+    "pistol, handgun, side arm, shooting iron": {
+        "type_1_text_consistency_score": 0.7492179870605469,
+        "type_2_text_consistency_score": 0.008680224418640137,
+        "type_3_text_consistency_score": 0.13976657390594482
+    },
+    "rifle": {
+        "type_1_text_consistency_score": 0.7276496887207031,
+        "type_2_text_consistency_score": 0.26048731803894043,
+        "type_3_text_consistency_score": -0.04607158899307251
+    }
+}

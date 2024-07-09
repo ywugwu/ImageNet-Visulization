@@ -1,0 +1,17 @@
+{
+    "wild boar, boar, sus scrofa": {
+        "type_1_text_consistency_score": 0.7596821784973145,
+        "type_2_text_consistency_score": 0.09049107879400253,
+        "type_3_text_consistency_score": 0.08385008573532104
+    },
+    "warthog": {
+        "type_1_text_consistency_score": 0.7596821784973145,
+        "type_2_text_consistency_score": 0.09680972993373871,
+        "type_3_text_consistency_score": -0.05222904682159424
+    },
+    "hog, pig, grunter, squealer, sus scrofa": {
+        "type_1_text_consistency_score": 0.8267210125923157,
+        "type_2_text_consistency_score": 0.3440198600292206,
+        "type_3_text_consistency_score": 0.08938968181610107
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "titi, titi monkey": {
+        "type_1_text_consistency_score": 0.8717021346092224,
+        "type_2_text_consistency_score": 0.2236369550228119,
+        "type_3_text_consistency_score": 0.14773166179656982
+    },
+    "squirrel monkey, saimiri sciureus": {
+        "type_1_text_consistency_score": 0.8329594731330872,
+        "type_2_text_consistency_score": 0.24427998065948486,
+        "type_3_text_consistency_score": 0.22912102937698364
+    },
+    "spider monkey, ateles geoffroyi": {
+        "type_1_text_consistency_score": 0.8593955039978027,
+        "type_2_text_consistency_score": 0.15750008821487427,
+        "type_3_text_consistency_score": 0.0960204005241394
+    },
+    "capuchin, ringtail, cebus capucinus": {
+        "type_1_text_consistency_score": 0.8789100050926208,
+        "type_2_text_consistency_score": 0.34205639362335205,
+        "type_3_text_consistency_score": 0.2570328116416931
+    },
+    "howler monkey, howler": {
+        "type_1_text_consistency_score": 0.869508683681488,
+        "type_2_text_consistency_score": 0.2968348264694214,
+        "type_3_text_consistency_score": -0.06959211826324463
+    },
+    "marmoset": {
+        "type_1_text_consistency_score": 0.8329594731330872,
+        "type_2_text_consistency_score": 0.35739558935165405,
+        "type_3_text_consistency_score": 0.1537218689918518
+    }
+}

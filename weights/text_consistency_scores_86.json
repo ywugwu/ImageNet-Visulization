@@ -1,0 +1,12 @@
+{
+    "swab, swob, mop": {
+        "type_1_text_consistency_score": 0.7097579836845398,
+        "type_2_text_consistency_score": 0.22579005360603333,
+        "type_3_text_consistency_score": -0.05960756540298462
+    },
+    "broom": {
+        "type_1_text_consistency_score": 0.7097579836845398,
+        "type_2_text_consistency_score": 0.17413046956062317,
+        "type_3_text_consistency_score": -0.11271423101425171
+    }
+}

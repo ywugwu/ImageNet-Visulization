@@ -1,0 +1,12 @@
+{
+    "crash helmet": {
+        "type_1_text_consistency_score": 0.7233615517616272,
+        "type_2_text_consistency_score": 0.06747642159461975,
+        "type_3_text_consistency_score": -0.02081400156021118
+    },
+    "football helmet": {
+        "type_1_text_consistency_score": 0.7233615517616272,
+        "type_2_text_consistency_score": 0.2611406743526459,
+        "type_3_text_consistency_score": 0.015313029289245605
+    }
+}

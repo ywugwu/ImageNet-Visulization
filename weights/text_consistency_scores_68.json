@@ -1,0 +1,12 @@
+{
+    "mirror": {
+        "type_1_text_consistency_score": 0.89128178358078,
+        "type_2_text_consistency_score": 0.41970187425613403,
+        "type_3_text_consistency_score": 0.2274978756904602
+    },
+    "solar dish, solar collector, solar furnace": {
+        "type_1_text_consistency_score": 0.89128178358078,
+        "type_2_text_consistency_score": 0.27553969621658325,
+        "type_3_text_consistency_score": 0.3173108696937561
+    }
+}

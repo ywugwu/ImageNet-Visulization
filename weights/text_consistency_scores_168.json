@@ -1,0 +1,12 @@
+{
+    "shower curtain": {
+        "type_1_text_consistency_score": 0.8287807703018188,
+        "type_2_text_consistency_score": 0.09395428001880646,
+        "type_3_text_consistency_score": 0.07384735345840454
+    },
+    "theater curtain, theatre curtain": {
+        "type_1_text_consistency_score": 0.8287807703018188,
+        "type_2_text_consistency_score": 0.43398424983024597,
+        "type_3_text_consistency_score": 0.11559444665908813
+    }
+}

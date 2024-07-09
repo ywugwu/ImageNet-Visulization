@@ -1,0 +1,107 @@
+{
+    "wheeled vehicle": {
+        "type_1_text_consistency_score": 0.5585942268371582,
+        "type_2_text_consistency_score": 0.19685959815979004,
+        "type_3_text_consistency_score": 0.11324512958526611
+    },
+    "basket, handbasket": {
+        "type_1_text_consistency_score": 0.6007297039031982,
+        "type_2_text_consistency_score": 0.10595213621854782,
+        "type_3_text_consistency_score": 0.07379025220870972
+    },
+    "thimble": {
+        "type_1_text_consistency_score": 0.438511461019516,
+        "type_2_text_consistency_score": 0.17911073565483093,
+        "type_3_text_consistency_score": -0.15889686346054077
+    },
+    "bag": {
+        "type_1_text_consistency_score": 0.4083690047264099,
+        "type_2_text_consistency_score": 0.09623409807682037,
+        "type_3_text_consistency_score": -0.03475385904312134
+    },
+    "spoon": {
+        "type_1_text_consistency_score": 0.32383397221565247,
+        "type_2_text_consistency_score": -0.1664908230304718,
+        "type_3_text_consistency_score": -0.03411942720413208
+    },
+    "savings bank, coin bank, money box, bank": {
+        "type_1_text_consistency_score": 0.5966148376464844,
+        "type_2_text_consistency_score": 0.10146433860063553,
+        "type_3_text_consistency_score": 0.1653435230255127
+    },
+    "dish": {
+        "type_1_text_consistency_score": 0.48979851603507996,
+        "type_2_text_consistency_score": 0.027325529605150223,
+        "type_3_text_consistency_score": -0.049095749855041504
+    },
+    "bin": {
+        "type_1_text_consistency_score": 0.43366995453834534,
+        "type_2_text_consistency_score": 0.07991234958171844,
+        "type_3_text_consistency_score": -0.11201363801956177
+    },
+    "shaker": {
+        "type_1_text_consistency_score": 0.32383397221565247,
+        "type_2_text_consistency_score": 0.026022236794233322,
+        "type_3_text_consistency_score": -0.14093667268753052
+    },
+    "pot, flowerpot": {
+        "type_1_text_consistency_score": 0.5222678184509277,
+        "type_2_text_consistency_score": 0.08243238925933838,
+        "type_3_text_consistency_score": 0.018965721130371094
+    },
+    "vessel": {
+        "type_1_text_consistency_score": 0.33955979347229004,
+        "type_2_text_consistency_score": -0.11972767859697342,
+        "type_3_text_consistency_score": -0.05763822793960571
+    },
+    "envelope": {
+        "type_1_text_consistency_score": 0.5652028322219849,
+        "type_2_text_consistency_score": 0.010004222393035889,
+        "type_3_text_consistency_score": -0.014170289039611816
+    },
+    "can, tin, tin can": {
+        "type_1_text_consistency_score": 0.570198118686676,
+        "type_2_text_consistency_score": 0.06383448839187622,
+        "type_3_text_consistency_score": -0.011246442794799805
+    },
+    "glass, drinking glass": {
+        "type_1_text_consistency_score": 0.5582475662231445,
+        "type_2_text_consistency_score": 0.11198408156633377,
+        "type_3_text_consistency_score": 0.09074634313583374
+    },
+    "cassette": {
+        "type_1_text_consistency_score": 0.4444264769554138,
+        "type_2_text_consistency_score": 0.1444614827632904,
+        "type_3_text_consistency_score": -0.035925090312957764
+    },
+    "receptacle": {
+        "type_1_text_consistency_score": 0.544715166091919,
+        "type_2_text_consistency_score": 0.09219199419021606,
+        "type_3_text_consistency_score": -0.029422521591186523
+    },
+    "dispenser": {
+        "type_1_text_consistency_score": 0.453683078289032,
+        "type_2_text_consistency_score": 0.08532684296369553,
+        "type_3_text_consistency_score": -0.011826038360595703
+    },
+    "package, parcel": {
+        "type_1_text_consistency_score": 0.5325341820716858,
+        "type_2_text_consistency_score": 0.22428904473781586,
+        "type_3_text_consistency_score": -0.0653342604637146
+    },
+    "box": {
+        "type_1_text_consistency_score": 0.41138339042663574,
+        "type_2_text_consistency_score": 0.04201789200305939,
+        "type_3_text_consistency_score": -0.054579317569732666
+    },
+    "measure": {
+        "type_1_text_consistency_score": 0.38241010904312134,
+        "type_2_text_consistency_score": 0.04806573688983917,
+        "type_3_text_consistency_score": -0.07592570781707764
+    },
+    "case": {
+        "type_1_text_consistency_score": 0.3836699426174164,
+        "type_2_text_consistency_score": 0.006457263603806496,
+        "type_3_text_consistency_score": -0.10532194375991821
+    }
+}

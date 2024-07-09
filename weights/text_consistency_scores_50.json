@@ -1,0 +1,12 @@
+{
+    "microscope": {
+        "type_1_text_consistency_score": 0.8247684836387634,
+        "type_2_text_consistency_score": 0.3507899045944214,
+        "type_3_text_consistency_score": -0.029161691665649414
+    },
+    "telescope, scope": {
+        "type_1_text_consistency_score": 0.8247684836387634,
+        "type_2_text_consistency_score": 0.09444272518157959,
+        "type_3_text_consistency_score": 0.08775597810745239
+    }
+}

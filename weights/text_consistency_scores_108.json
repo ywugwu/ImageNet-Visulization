@@ -1,0 +1,17 @@
+{
+    "caldron, cauldron": {
+        "type_1_text_consistency_score": 0.7408000230789185,
+        "type_2_text_consistency_score": 0.07338853925466537,
+        "type_3_text_consistency_score": 0.17407852411270142
+    },
+    "coffeepot": {
+        "type_1_text_consistency_score": 0.5323755741119385,
+        "type_2_text_consistency_score": 0.22642216086387634,
+        "type_3_text_consistency_score": -0.03825002908706665
+    },
+    "teapot": {
+        "type_1_text_consistency_score": 0.5323755741119385,
+        "type_2_text_consistency_score": 0.06713325530290604,
+        "type_3_text_consistency_score": -0.12709373235702515
+    }
+}

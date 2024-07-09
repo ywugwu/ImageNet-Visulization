@@ -1,0 +1,22 @@
+{
+    "crab": {
+        "type_1_text_consistency_score": 0.6091077327728271,
+        "type_2_text_consistency_score": 0.2638634443283081,
+        "type_3_text_consistency_score": -0.09847569465637207
+    },
+    "lobster": {
+        "type_1_text_consistency_score": 0.6091077327728271,
+        "type_2_text_consistency_score": 0.1393084079027176,
+        "type_3_text_consistency_score": -0.11375242471694946
+    },
+    "crayfish, crawfish, crawdad, crawdaddy": {
+        "type_1_text_consistency_score": 0.6721749305725098,
+        "type_2_text_consistency_score": 0.1255045086145401,
+        "type_3_text_consistency_score": 0.03360110521316528
+    },
+    "hermit crab": {
+        "type_1_text_consistency_score": 0.7485116720199585,
+        "type_2_text_consistency_score": 0.20829761028289795,
+        "type_3_text_consistency_score": -0.07693213224411011
+    }
+}

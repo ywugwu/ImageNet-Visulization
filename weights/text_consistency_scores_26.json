@@ -1,0 +1,12 @@
+{
+    "grand piano, grand": {
+        "type_1_text_consistency_score": 0.9117670059204102,
+        "type_2_text_consistency_score": 0.34871989488601685,
+        "type_3_text_consistency_score": 0.02042287588119507
+    },
+    "upright, upright piano": {
+        "type_1_text_consistency_score": 0.9117670059204102,
+        "type_2_text_consistency_score": 0.0786144882440567,
+        "type_3_text_consistency_score": 0.07458215951919556
+    }
+}

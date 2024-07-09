@@ -1,0 +1,17 @@
+{
+    "cartilaginous fish, chondrichthian": {
+        "type_1_text_consistency_score": 0.6305180788040161,
+        "type_2_text_consistency_score": 0.034908950328826904,
+        "type_3_text_consistency_score": 0.12578946352005005
+    },
+    "food fish": {
+        "type_1_text_consistency_score": 0.6186590194702148,
+        "type_2_text_consistency_score": 0.2877067029476166,
+        "type_3_text_consistency_score": 0.024808764457702637
+    },
+    "bony fish": {
+        "type_1_text_consistency_score": 0.6186590194702148,
+        "type_2_text_consistency_score": 0.05306661128997803,
+        "type_3_text_consistency_score": -0.06966602802276611
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "echidna, spiny anteater, anteater": {
+        "type_1_text_consistency_score": 0.9564601182937622,
+        "type_2_text_consistency_score": 0.19560202956199646,
+        "type_3_text_consistency_score": 0.2400522232055664
+    },
+    "platypus, duckbill, duckbilled platypus, duck-billed platypus, ornithorhynchus anatinus": {
+        "type_1_text_consistency_score": 0.9564601182937622,
+        "type_2_text_consistency_score": 0.5356850624084473,
+        "type_3_text_consistency_score": 0.3340129256248474
+    }
+}

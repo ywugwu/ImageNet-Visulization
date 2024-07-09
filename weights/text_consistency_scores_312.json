@@ -1,0 +1,57 @@
+{
+    "old english sheepdog, bobtail": {
+        "type_1_text_consistency_score": 0.7738204598426819,
+        "type_2_text_consistency_score": 0.2076938897371292,
+        "type_3_text_consistency_score": 0.19992005825042725
+    },
+    "bouvier des flandres, bouviers des flandres": {
+        "type_1_text_consistency_score": 0.7899357080459595,
+        "type_2_text_consistency_score": 0.251841276884079,
+        "type_3_text_consistency_score": 0.23910140991210938
+    },
+    "rottweiler": {
+        "type_1_text_consistency_score": 0.8145484924316406,
+        "type_2_text_consistency_score": 0.2843978703022003,
+        "type_3_text_consistency_score": 0.19186866283416748
+    },
+    "komondor": {
+        "type_1_text_consistency_score": 0.8282280564308167,
+        "type_2_text_consistency_score": 0.3258568048477173,
+        "type_3_text_consistency_score": 0.2121342420578003
+    },
+    "collie": {
+        "type_1_text_consistency_score": 0.5268281102180481,
+        "type_2_text_consistency_score": 0.24292130768299103,
+        "type_3_text_consistency_score": -0.2053239345550537
+    },
+    "border collie": {
+        "type_1_text_consistency_score": 0.5268281102180481,
+        "type_2_text_consistency_score": 0.05006600171327591,
+        "type_3_text_consistency_score": -0.0794861912727356
+    },
+    "belgian sheepdog, belgian shepherd": {
+        "type_1_text_consistency_score": 0.7208367586135864,
+        "type_2_text_consistency_score": 0.1074792891740799,
+        "type_3_text_consistency_score": 0.16340965032577515
+    },
+    "shetland sheepdog, shetland sheep dog, shetland": {
+        "type_1_text_consistency_score": 0.6080417037010193,
+        "type_2_text_consistency_score": 0.030308037996292114,
+        "type_3_text_consistency_score": 0.23604333400726318
+    },
+    "kelpie": {
+        "type_1_text_consistency_score": 0.8152371644973755,
+        "type_2_text_consistency_score": 0.3352791666984558,
+        "type_3_text_consistency_score": 0.09816956520080566
+    },
+    "briard": {
+        "type_1_text_consistency_score": 0.7488681077957153,
+        "type_2_text_consistency_score": 0.16526280343532562,
+        "type_3_text_consistency_score": 0.09278851747512817
+    },
+    "german shepherd, german shepherd dog, german police dog, alsatian": {
+        "type_1_text_consistency_score": 0.6612367033958435,
+        "type_2_text_consistency_score": 0.16091376543045044,
+        "type_3_text_consistency_score": 0.19838029146194458
+    }
+}

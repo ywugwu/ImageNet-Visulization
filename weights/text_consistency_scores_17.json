@@ -1,0 +1,12 @@
+{
+    "acorn squash": {
+        "type_1_text_consistency_score": 0.8792794942855835,
+        "type_2_text_consistency_score": 0.1808682531118393,
+        "type_3_text_consistency_score": -0.0033121109008789062
+    },
+    "butternut squash": {
+        "type_1_text_consistency_score": 0.8792794942855835,
+        "type_2_text_consistency_score": 0.4012819528579712,
+        "type_3_text_consistency_score": 0.019745707511901855
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "bassoon": {
+        "type_1_text_consistency_score": 0.8207594156265259,
+        "type_2_text_consistency_score": 0.34342578053474426,
+        "type_3_text_consistency_score": -0.07713574171066284
+    },
+    "oboe, hautboy, hautbois": {
+        "type_1_text_consistency_score": 0.8207594156265259,
+        "type_2_text_consistency_score": 0.13020482659339905,
+        "type_3_text_consistency_score": 0.07545071840286255
+    }
+}

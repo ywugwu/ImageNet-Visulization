@@ -1,0 +1,12 @@
+{
+    "combination lock": {
+        "type_1_text_consistency_score": 0.884557843208313,
+        "type_2_text_consistency_score": 0.33577871322631836,
+        "type_3_text_consistency_score": 0.016991138458251953
+    },
+    "padlock": {
+        "type_1_text_consistency_score": 0.884557843208313,
+        "type_2_text_consistency_score": 0.13152152299880981,
+        "type_3_text_consistency_score": 0.02448040246963501
+    }
+}

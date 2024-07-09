@@ -1,0 +1,12 @@
+{
+    "angora, angora rabbit": {
+        "type_1_text_consistency_score": 0.9466174244880676,
+        "type_2_text_consistency_score": 0.21514010429382324,
+        "type_3_text_consistency_score": 0.2567251920700073
+    },
+    "wood rabbit, cottontail, cottontail rabbit": {
+        "type_1_text_consistency_score": 0.9466174244880676,
+        "type_2_text_consistency_score": 0.5673344135284424,
+        "type_3_text_consistency_score": 0.2831306457519531
+    }
+}

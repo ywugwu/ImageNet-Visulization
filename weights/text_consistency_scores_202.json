@@ -1,0 +1,12 @@
+{
+    "knee pad": {
+        "type_1_text_consistency_score": 0.8285354971885681,
+        "type_2_text_consistency_score": 0.3908432126045227,
+        "type_3_text_consistency_score": 0.10108119249343872
+    },
+    "apron": {
+        "type_1_text_consistency_score": 0.8285354971885681,
+        "type_2_text_consistency_score": 0.19301824271678925,
+        "type_3_text_consistency_score": 0.07032895088195801
+    }
+}

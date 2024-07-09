@@ -1,0 +1,17 @@
+{
+    "contestant": {
+        "type_1_text_consistency_score": 0.7933077812194824,
+        "type_2_text_consistency_score": 0.31473055481910706,
+        "type_3_text_consistency_score": 0.051654696464538574
+    },
+    "explorer, adventurer": {
+        "type_1_text_consistency_score": 0.7933077812194824,
+        "type_2_text_consistency_score": 0.18431241810321808,
+        "type_3_text_consistency_score": 0.061998069286346436
+    },
+    "peer, equal, match, compeer": {
+        "type_1_text_consistency_score": 0.7946180105209351,
+        "type_2_text_consistency_score": 0.22640764713287354,
+        "type_3_text_consistency_score": 0.11983680725097656
+    }
+}

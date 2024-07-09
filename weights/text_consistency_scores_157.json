@@ -1,0 +1,42 @@
+{
+    "bicycle, bike, wheel, cycle": {
+        "type_1_text_consistency_score": 0.8434751629829407,
+        "type_2_text_consistency_score": 0.19156400859355927,
+        "type_3_text_consistency_score": 0.06219792366027832
+    },
+    "car, railcar, railway car, railroad car": {
+        "type_1_text_consistency_score": 0.8638893365859985,
+        "type_2_text_consistency_score": 0.2413334995508194,
+        "type_3_text_consistency_score": 0.12434732913970947
+    },
+    "handcart, pushcart, cart, go-cart": {
+        "type_1_text_consistency_score": 0.8674620389938354,
+        "type_2_text_consistency_score": 0.24841958284378052,
+        "type_3_text_consistency_score": 0.11084753274917603
+    },
+    "motor scooter, scooter": {
+        "type_1_text_consistency_score": 0.8434751629829407,
+        "type_2_text_consistency_score": 0.23325952887535095,
+        "type_3_text_consistency_score": 0.03777438402175903
+    },
+    "self-propelled vehicle": {
+        "type_1_text_consistency_score": 0.8530557155609131,
+        "type_2_text_consistency_score": 0.3321496844291687,
+        "type_3_text_consistency_score": 0.14525306224822998
+    },
+    "tricycle, trike, velocipede": {
+        "type_1_text_consistency_score": 0.8576219081878662,
+        "type_2_text_consistency_score": 0.0788039118051529,
+        "type_3_text_consistency_score": 0.07415884733200073
+    },
+    "unicycle, monocycle": {
+        "type_1_text_consistency_score": 0.8711045980453491,
+        "type_2_text_consistency_score": 0.08674903959035873,
+        "type_3_text_consistency_score": 0.08901083469390869
+    },
+    "wagon, waggon": {
+        "type_1_text_consistency_score": 0.8530557155609131,
+        "type_2_text_consistency_score": 0.22252921760082245,
+        "type_3_text_consistency_score": -0.0009495019912719727
+    }
+}

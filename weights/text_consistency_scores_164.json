@@ -1,0 +1,22 @@
+{
+    "barber chair": {
+        "type_1_text_consistency_score": 0.7738854885101318,
+        "type_2_text_consistency_score": 0.09502615034580231,
+        "type_3_text_consistency_score": 0.07675278186798096
+    },
+    "chair of state": {
+        "type_1_text_consistency_score": 0.7304888963699341,
+        "type_2_text_consistency_score": 0.2794855833053589,
+        "type_3_text_consistency_score": 0.003896355628967285
+    },
+    "folding chair": {
+        "type_1_text_consistency_score": 0.7304888963699341,
+        "type_2_text_consistency_score": 0.09681737422943115,
+        "type_3_text_consistency_score": 0.05117768049240112
+    },
+    "rocking chair, rocker": {
+        "type_1_text_consistency_score": 0.7738031148910522,
+        "type_2_text_consistency_score": 0.04972147196531296,
+        "type_3_text_consistency_score": 0.03452497720718384
+    }
+}

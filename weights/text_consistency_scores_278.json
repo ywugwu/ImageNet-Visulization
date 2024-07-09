@@ -1,0 +1,12 @@
+{
+    "ant, emmet, pismire": {
+        "type_1_text_consistency_score": 0.7115453481674194,
+        "type_2_text_consistency_score": 0.08753068000078201,
+        "type_3_text_consistency_score": -0.03473442792892456
+    },
+    "bee": {
+        "type_1_text_consistency_score": 0.7115453481674194,
+        "type_2_text_consistency_score": 0.38647523522377014,
+        "type_3_text_consistency_score": 0.00036275386810302734
+    }
+}

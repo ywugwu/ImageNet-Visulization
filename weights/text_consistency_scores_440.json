@@ -1,0 +1,17 @@
+{
+    "soft-finned fish, malacopterygian": {
+        "type_1_text_consistency_score": 0.5892684459686279,
+        "type_2_text_consistency_score": 0.0598917230963707,
+        "type_3_text_consistency_score": 0.008155107498168945
+    },
+    "spiny-finned fish, acanthopterygian": {
+        "type_1_text_consistency_score": 0.5892684459686279,
+        "type_2_text_consistency_score": 0.14163647592067719,
+        "type_3_text_consistency_score": 0.012411832809448242
+    },
+    "ganoid, ganoid fish": {
+        "type_1_text_consistency_score": 0.7494180202484131,
+        "type_2_text_consistency_score": 0.35404258966445923,
+        "type_3_text_consistency_score": 0.07621115446090698
+    }
+}

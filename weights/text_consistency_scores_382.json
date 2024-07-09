@@ -1,0 +1,27 @@
+{
+    "camel": {
+        "type_1_text_consistency_score": 0.7315530180931091,
+        "type_2_text_consistency_score": 0.030184604227542877,
+        "type_3_text_consistency_score": -0.12005966901779175
+    },
+    "ruminant": {
+        "type_1_text_consistency_score": 0.8027940988540649,
+        "type_2_text_consistency_score": 0.32156938314437866,
+        "type_3_text_consistency_score": -0.041041016578674316
+    },
+    "hippopotamus, hippo, river horse, hippopotamus amphibius": {
+        "type_1_text_consistency_score": 0.8240193128585815,
+        "type_2_text_consistency_score": 0.08475159108638763,
+        "type_3_text_consistency_score": 0.250644326210022
+    },
+    "llama": {
+        "type_1_text_consistency_score": 0.7315530180931091,
+        "type_2_text_consistency_score": 0.1111270934343338,
+        "type_3_text_consistency_score": -0.049764037132263184
+    },
+    "swine": {
+        "type_1_text_consistency_score": 0.7768112421035767,
+        "type_2_text_consistency_score": 0.1592782884836197,
+        "type_3_text_consistency_score": -0.09843766689300537
+    }
+}

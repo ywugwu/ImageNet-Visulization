@@ -1,0 +1,12 @@
+{
+    "cinema, movie theater, movie theatre, movie house, picture palace": {
+        "type_1_text_consistency_score": 0.8896063566207886,
+        "type_2_text_consistency_score": 0.334510862827301,
+        "type_3_text_consistency_score": 0.140519380569458
+    },
+    "home theater, home theatre": {
+        "type_1_text_consistency_score": 0.8896063566207886,
+        "type_2_text_consistency_score": 0.10561232268810272,
+        "type_3_text_consistency_score": 0.09200340509414673
+    }
+}

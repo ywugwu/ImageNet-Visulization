@@ -1,0 +1,37 @@
+{
+    "amphibian, amphibious vehicle": {
+        "type_1_text_consistency_score": 0.8734508752822876,
+        "type_2_text_consistency_score": -0.01946328580379486,
+        "type_3_text_consistency_score": 0.15993541479110718
+    },
+    "car, auto, automobile, machine, motorcar": {
+        "type_1_text_consistency_score": 0.8213225603103638,
+        "type_2_text_consistency_score": 0.39626604318618774,
+        "type_3_text_consistency_score": 0.08229762315750122
+    },
+    "go-kart": {
+        "type_1_text_consistency_score": 0.7637706398963928,
+        "type_2_text_consistency_score": 0.023718595504760742,
+        "type_3_text_consistency_score": 0.0764893889427185
+    },
+    "golfcart, golf cart": {
+        "type_1_text_consistency_score": 0.7841161489486694,
+        "type_2_text_consistency_score": -0.1307879388332367,
+        "type_3_text_consistency_score": 0.045448362827301025
+    },
+    "motorcycle, bike": {
+        "type_1_text_consistency_score": 0.7238316535949707,
+        "type_2_text_consistency_score": -0.14306679368019104,
+        "type_3_text_consistency_score": 0.02019888162612915
+    },
+    "snowplow, snowplough": {
+        "type_1_text_consistency_score": 0.7755337357521057,
+        "type_2_text_consistency_score": -0.0643559992313385,
+        "type_3_text_consistency_score": 0.0420987606048584
+    },
+    "truck, motortruck": {
+        "type_1_text_consistency_score": 0.7238316535949707,
+        "type_2_text_consistency_score": 0.04279588162899017,
+        "type_3_text_consistency_score": -0.04771769046783447
+    }
+}

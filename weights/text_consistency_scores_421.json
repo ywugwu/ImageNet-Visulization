@@ -1,0 +1,12 @@
+{
+    "diamondback, diamondback rattlesnake, crotalus adamanteus": {
+        "type_1_text_consistency_score": 0.8947734236717224,
+        "type_2_text_consistency_score": 0.4073260724544525,
+        "type_3_text_consistency_score": 0.06722718477249146
+    },
+    "sidewinder, horned rattlesnake, crotalus cerastes": {
+        "type_1_text_consistency_score": 0.8947734236717224,
+        "type_2_text_consistency_score": -0.07307562232017517,
+        "type_3_text_consistency_score": 0.04547274112701416
+    }
+}

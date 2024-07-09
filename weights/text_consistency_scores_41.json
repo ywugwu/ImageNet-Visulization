@@ -1,0 +1,12 @@
+{
+    "display, video display": {
+        "type_1_text_consistency_score": 0.9182772636413574,
+        "type_2_text_consistency_score": 0.48406338691711426,
+        "type_3_text_consistency_score": 0.16013473272323608
+    },
+    "mouse, computer mouse": {
+        "type_1_text_consistency_score": 0.9182772636413574,
+        "type_2_text_consistency_score": 0.13718467950820923,
+        "type_3_text_consistency_score": 0.08628356456756592
+    }
+}

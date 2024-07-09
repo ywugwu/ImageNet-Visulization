@@ -1,0 +1,12 @@
+{
+    "hamper": {
+        "type_1_text_consistency_score": 0.6660425662994385,
+        "type_2_text_consistency_score": 0.21713565289974213,
+        "type_3_text_consistency_score": -0.04613083600997925
+    },
+    "shopping basket": {
+        "type_1_text_consistency_score": 0.6660425662994385,
+        "type_2_text_consistency_score": 0.1526561677455902,
+        "type_3_text_consistency_score": -0.018822550773620605
+    }
+}

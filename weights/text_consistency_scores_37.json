@@ -1,0 +1,32 @@
+{
+    "organ, pipe organ": {
+        "type_1_text_consistency_score": 0.8010027408599854,
+        "type_2_text_consistency_score": 0.1258254051208496,
+        "type_3_text_consistency_score": 0.18326640129089355
+    },
+    "brass, brass instrument": {
+        "type_1_text_consistency_score": 0.7797383069992065,
+        "type_2_text_consistency_score": 0.11957582086324692,
+        "type_3_text_consistency_score": 0.025989830493927002
+    },
+    "free-reed instrument": {
+        "type_1_text_consistency_score": 0.7952680587768555,
+        "type_2_text_consistency_score": 0.11304524540901184,
+        "type_3_text_consistency_score": 0.09654390811920166
+    },
+    "ocarina, sweet potato": {
+        "type_1_text_consistency_score": 0.7797383069992065,
+        "type_2_text_consistency_score": 0.17898595333099365,
+        "type_3_text_consistency_score": 0.07302051782608032
+    },
+    "pipe": {
+        "type_1_text_consistency_score": 0.8095195889472961,
+        "type_2_text_consistency_score": 0.24332115054130554,
+        "type_3_text_consistency_score": 0.03587472438812256
+    },
+    "woodwind, woodwind instrument, wood": {
+        "type_1_text_consistency_score": 0.8452783226966858,
+        "type_2_text_consistency_score": 0.3195202350616455,
+        "type_3_text_consistency_score": 0.07350903749465942
+    }
+}

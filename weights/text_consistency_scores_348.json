@@ -1,0 +1,17 @@
+{
+    "giant schnauzer": {
+        "type_1_text_consistency_score": 0.9324809312820435,
+        "type_2_text_consistency_score": 0.2711390256881714,
+        "type_3_text_consistency_score": 0.04681485891342163
+    },
+    "miniature schnauzer": {
+        "type_1_text_consistency_score": 0.8983942270278931,
+        "type_2_text_consistency_score": 0.4144662618637085,
+        "type_3_text_consistency_score": -0.0024442076683044434
+    },
+    "standard schnauzer": {
+        "type_1_text_consistency_score": 0.8983942270278931,
+        "type_2_text_consistency_score": -0.02007969468832016,
+        "type_3_text_consistency_score": 0.024139761924743652
+    }
+}
