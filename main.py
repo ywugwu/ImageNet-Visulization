@@ -6,41 +6,52 @@ import matplotlib.colors as mcolors
 import os
 import collections
 
-# load weights under 'weights/' directory
-# with open('weights/all_text_consistency_scores.json') as f:
-#     weights = json.load(f)
-
-# weights = {
-#     name.lower(): data['type_1_text_consistency_score'] + data['type_2_text_consistency_score'] + data['type_3_text_consistency_score']
-#     for name, data in weights.items()
-# }
-# # apply min max scaling
-# min_score = min(weights.values())
-# max_score = max(weights.values())
-# weights = {
-#     name: (score - min_score) / (max_score - min_score)
-#     for name, score in weights.items()
-# }
-
-weights = collections.defaultdict(float)
-for file in os.listdir('weights/'):
-    if file.endswith('.json'):
-        with open(f'weights/{file}') as f:
-            data = json.load(f)      
-            for name in data:
-                weights[name.lower()] = data[name]['type_1_text_consistency_score'] + data[name]['type_2_text_consistency_score'] + data[name]['type_3_text_consistency_score']
-# apply min max scaling
-minv = min(weights.values())
-maxv = max(weights.values())
-weights = {
-    name: (score - minv) / (maxv - minv)
-    for name, score in weights.items()
-}
-
 # use wide layout
 st.set_page_config(layout="wide")
+
+# Add this at the beginning of your script, after the imports
+st.sidebar.title("Visualization Settings")
+THRESHOLD = st.sidebar.selectbox(
+    "Select Max Number of Nodes to Display",
+    options=["128", "256", "512", "1024", "No limit"],
+    index=0  # Default to 128
+)
+THRESHOLD = None if THRESHOLD == "No limit" else int(THRESHOLD)
+
+# Add new selectbox for weight standardization
+STANDARDIZE_WEIGHTS = st.sidebar.selectbox(
+    "Standardize Weights",
+    options=["No", "Yes"],
+    index=0  # Default to No
+)
+STANDARDIZE_WEIGHTS = STANDARDIZE_WEIGHTS == "Yes"
+
 # set title
-st.header("ImageNet Hierarchy Visualization")
+st.title("ImageNet Tree Visualization")
+
+@st.cache_data
+def load_data():
+    with open('imageNet_text_weights.json') as f:
+        weights = json.load(f)
+    weights = {name.lower(): score['type_2_text_consistency_score'] for name, score in weights.items()}
+    
+    with open('imagenet_tree.json') as f:
+        tree_data = json.load(f)
+    
+    return weights, tree_data
+
+weights, tree_data = load_data()
+
+# Add function to standardize weights
+def standardize_weights(weights):
+    values = list(weights.values())
+    min_val = min(values)
+    max_val = max(values)
+    return {k: (v - min_val) / (max_val - min_val) for k, v in weights.items()}
+
+# Apply standardization if selected
+if STANDARDIZE_WEIGHTS:
+    weights = standardize_weights(weights)
 
 class Node:
     def __init__(self, id, label, shape, size, value):
@@ -55,46 +66,48 @@ class Edge:
         self.source = source
         self.target = target
 
-# Load JSON data
-with open('imagenet_tree.json') as f:
-    data = json.load(f)
-
-nodes = []
-edges = []
-vis = {}
-
-def dfs(node):
-    if len(vis) >= 1024:  # Limit the number of nodes for clarity
-        return
-    if node['id'] not in vis:
-        # random_value = np.random.rand()  # Assign a random value between 0 and 1
-        vis[node['id']] = True
-        nodes.append(
-            Node(
-                id=node['id'],
-                label=node['name'].split(',')[0],
-                shape="dot",
-                size=25,
-                value=weights.get(node['name'].lower(), -1.0)  # Get value from weights dictionary
-            )
-        )
-    if 'children' in node:
-        for child in node['children']:
-            edges.append(
-                Edge(
-                    source=node['id'],
-                    target=child['id'],
+def build_graph(data, threshold):
+    nodes = []
+    edges = []
+    vis = {}
+    values_at_depth = collections.defaultdict(list)
+    
+    def dfs(node, depth):
+        if node['name'].lower() in weights:
+            values_at_depth[depth].append(weights[node['name'].lower()])
+        if threshold is not None and len(vis) >= threshold:  # Limit the number of nodes for clarity
+            return
+        if node['id'] not in vis:
+            vis[node['id']] = True
+            nodes.append(
+                Node(
+                    id=node['id'],
+                    label=node['name'].split(',')[0],
+                    shape="dot",
+                    size=25,
+                    value=weights.get(node['name'].lower(), -1.0)  # Get value from weights dictionary
                 )
             )
-            dfs(child)
+        if 'children' in node:
+            for child in node['children']:
+                edges.append(
+                    Edge(
+                        source=node['id'],
+                        target=child['id'],
+                    )
+                )
+                dfs(child, depth+1)
+    
+    dfs(data, 0)
+    return nodes, edges, values_at_depth
 
-dfs(data)
-st.write(f"Please Wait for the Rendering of {len(nodes)} Nodes and {len(edges)} Edges to Complete:coffee:...")
-st.write(f"Green = High Score, Red = Low Score, Gray = N/A")
-# Convert Python objects to JavaScript-readable format
-nodes_js = [{'id': n.id, 'label': n.label, 'shape': n.shape, 'size': n.size, 'value': n.value} for n in nodes]
-edges_js = [{'from': e.source, 'to': e.target} for e in edges]
+nodes, edges, values_at_depth = build_graph(tree_data, THRESHOLD)
 
+st.header(f"Please Wait for the Rendering of {len(nodes)} nodes and {len(edges)} edges to Complete:coffee:...")
+st.header(f"Green = High Score, Red = Low Score, Gray = N/A")
+st.header(f"Weights {'are' if STANDARDIZE_WEIGHTS else 'are not'} standardized")
+
+# The rest of your visualization code here...
 def get_color(value):
     if value == -1:
         return '#808080'  # Gray for undefined values
@@ -109,12 +122,10 @@ def get_color(value):
 values = [node.value for node in nodes]
 colors = [get_color(value) for value in values]
 
-# Include color in nodes_js
-for node, color in zip(nodes_js, colors):
-    node['color'] = color
-
-nodes_json = json.dumps(nodes_js)
-edges_json = json.dumps(edges_js)
+# Convert Python objects to JavaScript-readable format
+nodes_js = [{'id': n.id, 'label': n.label, 'shape': n.shape, 'size': n.size, 'value': n.value, 'color': color} 
+            for n, color in zip(nodes, colors)]
+edges_js = [{'from': e.source, 'to': e.target} for e in edges]
 
 html_string = f"""
 <html>
@@ -143,8 +154,7 @@ html_string = f"""
             shape: 'dot',
             font: {{
                 size: 15
-            }},
-            color: '{{node.color}}'  // Ensure each node color is set from node attributes
+            }}
         }},
         edges: {{
             width: 2
@@ -156,5 +166,13 @@ html_string = f"""
 </html>
 """
 
-
 st.components.v1.html(html_string, height=800)
+
+# Optional: Add the scatter plot
+# fig, ax = plt.subplots()
+# for depth, values in values_at_depth.items():
+#     ax.scatter([depth] * len(values), values, c='b', alpha=0.5)
+# ax.set_xlabel('Depth')
+# ax.set_ylabel('Value')
+# ax.set_title('Consistency Score Distribution at Each Depth')
+# st.pyplot(fig)
